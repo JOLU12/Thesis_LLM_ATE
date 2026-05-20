@@ -1,0 +1,2295 @@
+term,raw_count_domain,category,bert_token_count,bert_tokens,llama4_token_count,llama4_tokens,gemma4_token_count,gemma4_tokens,openai_token_count,openai_tokens,mistral_token_count,mistral_tokens
+airworthiness,3,1,3,air | ##worth | ##iness,2,air | worthiness,2,air | worthiness,2,air | worthiness,3,air | worth | iness
+skydrol,1,1,3,sky | ##dro | ##l,3,sk | yd | rol,3,sk | yd | rol,3,sk | yd | rol,3,sk | yd | rol
+combustor,60,1,3,comb | ##ust | ##or,3,comb | ust | or,3,comb | ust | or,3,comb | ust | or,3,comb | ust | or
+airfoil,44,1,2,air | ##foil,2,air | foil,2,air | foil,2,air | foil,3,air | fo | il
+alodine,6,1,3,al | ##od | ##ine,3,al | od | ine,3,al | od | ine,3,al | od | ine,3,al | od | ine
+aircraft,1357,1,1,aircraft,2,air | craft,1,aircraft,2,air | craft,2,air | craft
+skydroll,2,1,3,sky | ##dro | ##ll,3,sk | yd | roll,3,sk | yd | roll,3,sk | yd | roll,3,sk | yd | roll
+fadac,2,1,3,fa | ##da | ##c,2,fad | ac,2,fad | ac,2,fad | ac,3,f | ad | ac
+birdstrike,2,1,3,birds | ##tri | ##ke,2,bird | strike,2,bird | strike,2,bird | strike,3,bird | st | rike
+hangar,5,1,1,hangar,2,hang | ar,2,hang | ar,2,hang | ar,2,hang | ar
+boeing,6,1,1,boeing,2,bo | eing,2,bo | eing,2,bo | eing,2,bo | eing
+abradableseal,1,1,4,ab | ##rada | ##bles | ##eal,5,ab | rad | ables | e | al,4,ab | rad | ables | eal,5,abr | ad | ables | e | al,5,ab | rad | abl | ese | al
+lokwire,1,1,2,lok | ##wire,2,lok | wire,2,lok | wire,2,lok | wire,2,lok | wire
+borescopeinspection,1,1,5,bore | ##scope | ##ins | ##pe | ##ction,4,b | ores | cope | inspection,4,bo | res | cope | inspection,4,bo | res | cope | inspection,5,b | ores | cope | ins | pection
+aerodrome,3,1,1,aerodrome,2,aer | odrome,2,aer | odrome,4,a | er | od | rome,3,a | er | odrome
+llp,2,1,2,ll | ##p,2,ll | p,2,ll | p,2,ll | p,2,ll | p
+fod,1,1,2,f | ##od,2,f | od,1,fod,1,fod,2,f | od
+nacelle,1,1,3,na | ##cel | ##le,2,nac | elle,2,nac | elle,3,n | ac | elle,3,n | ac | elle
+spinnercone,17,1,4,spin | ##ner | ##con | ##e,2,spinner | cone,2,spinner | cone,2,spinner | cone,3,sp | inner | cone
+fancase,12,1,2,fan | ##case,3,f | anc | ase,3,f | anc | ase,3,f | anc | ase,3,f | anc | ase
+aftmount,7,1,2,aft | ##mount,2,aft | mount,2,aft | mount,2,aft | mount,2,aft | mount
+aft,228,1,1,aft,1,aft,1,aft,1,aft,1,aft
+containmentcase,4,1,2,containment | ##case,3,cont | ainment | case,3,contain | ment | case,3,contain | ment | case,3,cont | ainment | case
+abradible,2,1,3,ab | ##rad | ##ible,3,ab | rad | ible,3,ab | rad | ible,3,abr | ad | ible,3,ab | rad | ible
+thrustmount,2,1,2,thrust | ##mount,3,th | rust | mount,2,thrust | mount,3,th | rust | mount,3,th | rust | mount
+boostervane,2,1,3,booster | ##van | ##e,3,boost | erv | ane,3,boost | erv | ane,3,boost | erv | ane,3,boost | erv | ane
+bleedcontrole,2,1,4,bleed | ##con | ##tro | ##le,3,ble | ed | controle,2,bleed | controle,3,ble | ed | controle,4,ble | ed | cont | role
+spletter,2,1,3,sp | ##lette | ##r,3,s | plet | ter,3,s | plet | ter,3,s | plet | ter,3,s | plet | ter
+bellcrank,2,1,4,bell | ##cr | ##an | ##k,3,bell | cr | ank,3,bell | cr | ank,3,bell | cr | ank,3,bell | c | rank
+agbdampener,1,1,5,ag | ##b | ##dam | ##pen | ##er,4,ag | bd | amp | ener,4,ag | bd | amp | ener,4,ag | bd | amp | ener,4,ag | bd | amp | ener
+inletcowl,1,1,3,inlet | ##co | ##wl,4,in | let | c | owl,4,in | let | c | owl,4,in | let | c | owl,4,in | let | c | owl
+releasecert,1,1,3,release | ##cer | ##t,2,release | cert,2,release | cert,2,release | cert,2,release | cert
+nozzlevane,1,1,4,no | ##zzle | ##van | ##e,4,no | zz | lev | ane,4,no | zz | lev | ane,4,no | zz | lev | ane,4,no | zz | lev | ane
+chipdetector,1,1,4,chip | ##de | ##tec | ##tor,3,chip | det | ector,2,chip | detector,3,chip | det | ector,3,chip | det | ector
+tipshroud,1,1,3,tips | ##hr | ##oud,3,tip | sh | roud,3,tip | sh | roud,3,tip | sh | roud,4,tip | sh | ro | ud
+birdcase,11,1,2,bird | ##case,2,bird | case,2,bird | case,2,bird | case,2,bird | case
+saftywire,1,1,4,sa | ##ft | ##y | ##wire,4,sa | ft | yw | ire,3,sa | fty | wire,3,sa | fty | wire,4,s | aft | yw | ire
+highlock,1,1,2,high | ##lock,2,high | lock,2,high | lock,2,high | lock,2,high | lock
+missingabradable,1,1,4,missing | ##ab | ##rada | ##ble,4,missing | ab | rad | able,4,missing | ab | rad | able,4,missing | abr | ad | able,4,missing | ab | rad | able
+abradabel,1,1,3,ab | ##rada | ##bel,3,ab | rad | abel,3,ab | rad | abel,3,abr | ad | abel,3,ab | rad | abel
+brescope,1,1,3,br | ##es | ##cope,2,bres | cope,2,bres | cope,2,bres | cope,2,bres | cope
+gaspath,1,1,2,gasp | ##ath,2,gas | path,2,gas | path,2,gas | path,2,gas | path
+metco,1,1,2,met | ##co,2,met | co,2,met | co,2,met | co,2,met | co
+airspeed,1,1,2,airs | ##peed,2,airs | peed,2,airs | peed,2,airs | peed,2,airs | peed
+tipclearance,51,1,4,tip | ##cle | ##aran | ##ce,3,tip | clear | ance,3,tip | clear | ance,3,tip | clear | ance,3,tip | clear | ance
+thrustlink,28,1,2,thrust | ##link,3,th | rust | link,2,thrust | link,3,th | rust | link,3,th | rust | link
+boroscope,14,1,3,bo | ##ros | ##cope,2,bor | oscope,2,bor | oscope,2,bor | oscope,2,bor | oscope
+combuster,12,1,3,comb | ##ust | ##er,2,comb | uster,2,comb | uster,2,comb | uster,2,comb | uster
+tipcurl,6,1,3,tip | ##cu | ##rl,2,tip | curl,2,tip | curl,2,tip | curl,2,tip | curl
+fuelmanifold,2,1,3,fuel | ##mani | ##fold,3,fuel | man | ifold,2,fuel | manifold,3,fuel | man | ifold,5,f | uel | man | if | old
+trustlink,2,1,2,trust | ##link,2,trust | link,2,trust | link,2,trust | link,3,tr | ust | link
+tiprub,2,1,3,tip | ##ru | ##b,3,ti | pr | ub,2,tip | rub,2,tip | rub,3,ti | pr | ub
+sfcm,2,1,2,sf | ##cm,2,sf | cm,2,sf | cm,2,sf | cm,2,sf | cm
+faninlet,1,1,3,fan | ##in | ##let,3,fan | in | let,3,fan | in | let,2,fanin | let,3,fan | in | let
+birdgace,1,1,3,bird | ##ga | ##ce,3,bird | g | ace,3,bird | g | ace,3,bird | g | ace,3,bird | g | ace
+fanmodule,1,1,4,fan | ##mo | ##du | ##le,2,fan | module,2,fan | module,2,fan | module,2,fan | module
+precoolervalve,1,1,5,pre | ##co | ##ole | ##rval | ##ve,4,pre | cool | erval | ve,4,prec | ool | erval | ve,4,prec | ool | erv | alve,5,pre | cool | erv | al | ve
+restrictioniaw,1,1,3,restriction | ##ia | ##w,3,restriction | ia | w,3,restriction | ia | w,3,restriction | ia | w,4,rest | riction | ia | w
+tipshrouds,1,1,4,tips | ##hr | ##oud | ##s,4,tip | sh | ro | uds,4,tip | sh | rou | ds,4,tip | sh | rou | ds,4,tip | sh | ro | uds
+upperbleed,1,1,3,upper | ##ble | ##ed,3,upper | ble | ed,2,upper | bleed,3,upper | ble | ed,3,upper | ble | ed
+fanblades,1,1,3,fan | ##bla | ##des,3,fan | bl | ades,3,fan | bl | ades,3,fan | bl | ades,3,fan | bl | ades
+fairing,1,1,2,fair | ##ing,2,fair | ing,2,fair | ing,2,fair | ing,2,fair | ing
+abradable,320,1,3,ab | ##rada | ##ble,3,ab | rad | able,3,ab | rad | able,3,abr | ad | able,3,ab | rad | able
+starterduct,20,1,3,starter | ##du | ##ct,2,starter | duct,2,starter | duct,2,starter | duct,3,st | arter | duct
+exiter,24,1,2,exit | ##er,2,ex | iter,2,ex | iter,2,ex | iter,2,ex | iter
+precooler,27,1,4,pre | ##co | ##ole | ##r,3,pre | co | oler,3,prec | ool | er,3,prec | ool | er,3,pre | co | oler
+guidepad,8,1,2,guide | ##pad,2,guide | pad,2,guide | pad,2,guide | pad,2,guide | pad
+sprayshield,8,1,3,spray | ##shi | ##eld,4,sp | rays | h | ield,4,spr | ays | h | ield,4,spr | ays | h | ield,4,sp | rays | h | ield
+frontcone,6,1,3,front | ##con | ##e,2,front | cone,2,front | cone,2,front | cone,2,front | cone
+borescoop,6,1,3,bore | ##sco | ##op,3,b | ores | coop,3,bo | resco | op,3,bo | res | coop,4,b | ores | co | op
+boroscoop,6,1,4,bo | ##ros | ##co | ##op,3,bor | os | coop,4,bor | os | co | op,3,bor | os | coop,4,bor | os | co | op
+flowcheck,6,1,3,flow | ##che | ##ck,2,flow | check,2,flow | check,2,flow | check,2,flow | check
+thrust,154,1,1,thrust,2,th | rust,1,thrust,2,th | rust,2,th | rust
+shopvisit,5,1,3,shop | ##vis | ##it,2,shop | visit,2,shop | visit,2,shop | visit,2,shop | visit
+oclock,8,1,3,o | ##cl | ##ock,2,oc | lock,2,oc | lock,2,oc | lock,2,oc | lock
+exciterboxe,4,1,5,ex | ##cite | ##rb | ##ox | ##e,4,exc | iter | box | e,4,exc | iter | box | e,4,exc | iter | box | e,4,exc | iter | box | e
+arrestor,10,1,2,arrest | ##or,2,arr | estor,2,arrest | or,3,ar | rest | or,2,arr | estor
+bumperseal,3,1,3,bumper | ##sea | ##l,4,b | ump | erse | al,2,bumper | seal,3,bum | per | seal,4,bum | per | se | al
+cowl,14,1,2,cow | ##l,2,c | owl,2,c | owl,2,c | owl,2,c | owl
+reverser,6,1,2,reverse | ##r,2,re | verser,3,re | vers | er,3,re | vers | er,3,re | vers | er
+chord,18,1,1,chord,2,ch | ord,1,chord,2,ch | ord,2,ch | ord
+clockposition,2,1,2,clock | ##position,2,clock | position,2,clock | position,2,clock | position,2,clock | position
+strutpanel,2,1,4,st | ##rut | ##pan | ##el,3,str | ut | panel,3,str | ut | panel,3,str | ut | panel,3,str | ut | panel
+thrusth,2,1,2,thrust | ##h,3,th | rust | h,2,thrust | h,3,th | rust | h,3,th | rust | h
+trusth,2,1,2,trust | ##h,2,trust | h,2,trust | h,2,trust | h,3,tr | ust | h
+oilcoking,2,1,3,oil | ##co | ##king,3,oil | c | oking,3,oil | c | oking,3,oil | c | oking,4,o | il | c | oking
+blendrepair,2,1,4,blend | ##re | ##pa | ##ir,3,bl | endre | pair,3,bl | endre | pair,3,bl | endre | pair,3,bl | endre | pair
+swirler,2,1,2,swirl | ##er,3,sw | ir | ler,3,sw | ir | ler,3,sw | ir | ler,3,sw | ir | ler
+pylon,5,1,3,p | ##yl | ##on,2,p | ylon,2,p | ylon,2,p | ylon,2,p | ylon
+trimpin,2,1,2,trim | ##pin,2,tr | impin,2,trim | pin,2,tr | impin,2,tr | impin
+bird,14,1,1,bird,1,bird,1,bird,1,bird,1,bird
+pilot,14,1,1,pilot,2,p | ilot,1,pilot,1,pilot,2,pil | ot
+doubler,2,1,2,double | ##r,3,do | ub | ler,2,dou | bler,3,d | oub | ler,3,d | ou | bler
+heli,2,1,2,he | ##li,1,heli,1,heli,1,heli,2,he | li
+nosegill,1,1,2,nose | ##gill,3,nos | eg | ill,2,nose | gill,3,nose | g | ill,4,n | ose | g | ill
+sealwire,1,1,2,seal | ##wire,3,se | al | wire,2,seal | wire,2,seal | wire,3,se | al | wire
+igniterside,1,1,3,ign | ##iter | ##side,3,ign | iters | ide,3,ign | iters | ide,3,ign | iters | ide,3,ignit | ers | ide
+abradabe,1,1,3,ab | ##rada | ##be,3,ab | rad | abe,3,ab | rad | abe,3,abr | ad | abe,3,ab | rad | abe
+bladeshave,1,1,3,blades | ##ha | ##ve,3,bl | ades | have,3,bl | adesh | ave,3,bl | adesh | ave,3,bl | adesh | ave
+fanframe,1,1,2,fan | ##frame,2,fan | frame,2,fan | frame,2,fan | frame,2,fan | frame
+strutpanels,1,1,4,st | ##rut | ##pan | ##els,4,str | ut | pan | els,3,str | ut | panels,4,str | ut | pan | els,4,str | ut | pan | els
+fanblad,1,1,3,fan | ##bla | ##d,2,fan | blad,2,fan | blad,2,fan | blad,2,fan | blad
+exiterbox,1,1,3,exit | ##er | ##box,3,ex | iter | box,3,ex | iter | box,3,ex | iter | box,3,ex | iter | box
+repairablelimit,1,1,4,repair | ##able | ##lim | ##it,4,rep | ai | rable | limit,3,repair | able | limit,3,repair | able | limit,4,rep | ai | rable | limit
+tubeservo,1,1,3,tubes | ##er | ##vo,3,t | ubes | ervo,3,tub | es | ervo,3,t | ubes | ervo,3,t | ubes | ervo
+findinglpc,1,1,3,finding | ##lp | ##c,3,finding | l | pc,3,finding | l | pc,3,finding | l | pc,4,f | inding | l | pc
+trhust,1,1,3,tr | ##hus | ##t,3,tr | h | ust,3,tr | h | ust,3,tr | h | ust,3,tr | h | ust
+stotor,1,1,3,st | ##oto | ##r,2,st | otor,2,st | otor,2,st | otor,2,st | otor
+xcrack,1,1,3,x | ##cr | ##ack,2,xc | rack,2,x | crack,3,x | cr | ack,2,xc | rack
+iceduct,1,1,3,iced | ##uc | ##t,2,iced | uct,2,iced | uct,2,iced | uct,2,iced | uct
+scavence,1,1,3,sc | ##ave | ##nce,3,sc | av | ence,3,sc | av | ence,3,sc | av | ence,3,sc | av | ence
+savenge,1,1,2,save | ##nge,3,s | aven | ge,2,sav | enge,3,s | aven | ge,3,s | aven | ge
+birdremain,1,1,3,bird | ##rem | ##ain,2,bird | remain,2,bird | remain,2,bird | remain,3,bird | rem | ain
+servicelimit,1,1,3,service | ##lim | ##it,3,serv | icel | imit,3,servic | el | imit,4,serv | ic | el | imit,4,serv | ic | el | imit
+atexciter,1,1,4,ate | ##x | ##cite | ##r,3,ate | xc | iter,3,ate | xc | iter,3,ate | xc | iter,3,ate | xc | iter
+antiice,1,1,2,anti | ##ice,2,anti | ice,2,anti | ice,2,anti | ice,2,anti | ice
+antieice,1,1,3,anti | ##ei | ##ce,2,antie | ice,2,antie | ice,2,antie | ice,3,ant | ie | ice
+forengine,1,1,3,fore | ##ng | ##ine,2,for | engine,3,fore | ng | ine,2,for | engine,2,for | engine
+gevlogen,1,1,4,ge | ##v | ##log | ##en,2,gev | logen,3,gev | log | en,2,gev | logen,3,gev | log | en
+startduct,1,1,3,start | ##du | ##ct,2,start | duct,2,start | duct,2,start | duct,2,start | duct
+tipclearane,1,1,4,tip | ##cle | ##aran | ##e,3,tip | clear | ane,3,tip | clear | ane,3,tip | clear | ane,3,tip | clear | ane
+aftside,1,1,2,aft | ##side,2,aft | side,2,aft | side,2,aft | side,2,aft | side
+ebris,1,1,3,e | ##bri | ##s,2,eb | ris,2,e | bris,2,eb | ris,2,eb | ris
+inlb,1,1,2,in | ##lb,2,in | lb,2,in | lb,2,in | lb,2,in | lb
+aviation,5,1,1,aviation,2,av | iation,1,aviation,2,avi | ation,2,avi | ation
+fandisk,1,1,3,fan | ##dis | ##k,3,f | and | isk,2,fand | isk,3,f | and | isk,3,f | and | isk
+axiak,1,1,3,ax | ##ia | ##k,2,axi | ak,2,ax | iak,2,axi | ak,2,ax | iak
+idisk,1,1,2,id | ##isk,2,id | isk,2,id | isk,2,id | isk,2,id | isk
+fedec,1,1,2,fed | ##ec,2,fed | ec,2,fed | ec,2,fed | ec,2,fed | ec
+tedlar,1,1,2,ted | ##lar,2,ted | lar,2,ted | lar,2,ted | lar,2,ted | lar
+egine,1,1,3,e | ##gin | ##e,2,eg | ine,2,eg | ine,2,eg | ine,2,eg | ine
+midspan,1,1,3,mid | ##sp | ##an,2,mid | span,2,mid | span,2,mid | span,2,mid | span
+lfu,1,1,2,l | ##fu,2,lf | u,2,l | fu,2,lf | u,2,lf | u
+wing,5,1,1,wing,1,wing,1,wing,1,wing,1,wing
+omn,1,1,2,om | ##n,1,omn,1,omn,1,omn,2,om | n
+flight,4,1,1,flight,1,flight,1,flight,1,flight,1,flight
+pilon,1,1,2,pi | ##lon,2,p | ilon,2,p | ilon,2,p | ilon,2,p | ilon
+inflight,1,1,2,in | ##flight,2,in | flight,2,infl | ight,2,in | flight,2,in | flight
+camber,1,1,2,cam | ##ber,2,cam | ber,2,c | amber,2,cam | ber,2,cam | ber
+stag,1,1,2,st | ##ag,1,stag,1,stag,1,stag,1,stag
+disbanding,1,1,4,di | ##sb | ##and | ##ing,3,dis | band | ing,2,dis | banding,3,dis | band | ing,3,dis | band | ing
+feather,1,1,1,feather,2,fe | ather,1,feather,2,fe | ather,2,fe | ather
+exciterbox,37,1,4,ex | ##cite | ##rb | ##ox,3,exc | iter | box,3,exc | iter | box,3,exc | iter | box,3,exc | iter | box
+fanblade,179,1,3,fan | ##bla | ##de,2,fan | blade,2,fan | blade,2,fan | blade,3,fan | bl | ade
+testcell,20,1,3,test | ##cel | ##l,2,test | cell,2,test | cell,2,test | cell,2,test | cell
+bleed,503,1,1,bleed,2,ble | ed,1,bleed,2,ble | ed,2,ble | ed
+spinner,169,1,2,spin | ##ner,1,spinner,1,spinner,1,spinner,2,sp | inner
+testrun,8,1,2,test | ##run,2,test | run,2,test | run,3,tes | tr | un,2,test | run
+blendable,9,1,2,blend | ##able,2,blend | able,2,blend | able,2,blend | able,3,bl | end | able
+igniterplug,6,1,4,ign | ##iter | ##pl | ##ug,3,ign | iter | plug,3,ign | iter | plug,3,ign | iter | plug,3,ign | iter | plug
+rotor,92,1,1,rotor,1,rotor,1,rotor,2,rot | or,2,rot | or
+inspectionlot,5,1,2,inspection | ##lot,2,inspection | lot,2,inspection | lot,2,inspection | lot,3,ins | pection | lot
+burnspot,4,1,2,burns | ##pot,2,burn | spot,2,burn | spot,2,burn | spot,2,burn | spot
+outerskin,3,1,2,outer | ##skin,3,out | ers | kin,3,ou | ters | kin,3,ou | ters | kin,2,outer | skin
+photofolder,2,1,3,photo | ##fold | ##er,3,phot | of | older,3,phot | of | older,3,phot | of | older,4,ph | ot | of | older
+safetywire,2,1,2,safety | ##wire,3,s | afety | wire,2,safety | wire,3,s | afety | wire,3,s | afety | wire
+fanduct,2,1,3,fan | ##du | ##ct,3,f | and | uct,2,fand | uct,3,f | and | uct,3,f | and | uct
+withamm,2,1,3,with | ##am | ##m,2,with | amm,2,with | amm,2,with | amm,2,with | amm
+innerliner,2,1,2,inner | ##liner,2,inner | liner,2,inner | liner,2,inner | liner,2,inner | liner
+hanger,3,1,2,hang | ##er,2,h | anger,1,hanger,1,hanger,2,h | anger
+rib,3,1,1,rib,1,rib,1,rib,1,rib,1,rib
+fwdseal,1,1,4,f | ##wd | ##sea | ##l,3,fwd | se | al,3,f | wd | seal,3,f | wd | seal,4,f | wd | se | al
+startervalve,1,1,3,starter | ##val | ##ve,3,starter | val | ve,2,starter | valve,3,starter | val | ve,4,st | arter | val | ve
+fanpanel,1,1,3,fan | ##pan | ##el,2,fan | panel,2,fan | panel,2,fan | panel,2,fan | panel
+contaimentcase,1,1,4,con | ##tai | ##ment | ##case,4,cont | a | iment | case,3,conta | iment | case,4,cont | a | iment | case,4,con | ta | iment | case
+fancable,1,1,2,fan | ##cable,3,f | anc | able,3,f | anc | able,3,f | anc | able,3,f | anc | able
+fuelheater,1,1,2,fuel | ##heater,3,fuel | he | ater,2,fuel | heater,2,fuel | heater,3,f | uel | heater
+fueldiff,1,1,3,fuel | ##di | ##ff,2,fuel | diff,2,fuel | diff,3,fu | eld | iff,3,f | uel | diff
+fromengine,1,1,3,from | ##eng | ##ine,2,from | engine,2,from | engine,2,from | engine,2,from | engine
+tipworn,1,1,3,tip | ##wo | ##rn,3,tip | w | orn,2,tip | worn,3,tip | w | orn,3,tip | w | orn
+coremodule,1,1,4,core | ##mo | ##du | ##le,3,cor | em | odule,2,core | module,2,core | module,4,cor | em | od | ule
+cyclesacc,1,1,3,cycles | ##ac | ##c,2,cycles | acc,2,cycles | acc,2,cycles | acc,2,cycles | acc
+trimbalance,1,1,2,trim | ##balance,3,tr | imb | alance,2,trim | balance,3,tr | imb | alance,2,trim | balance
+tipcrack,1,1,3,tip | ##cr | ##ack,3,tip | c | rack,2,tip | crack,3,tip | cr | ack,3,tip | c | rack
+ignitionlead,1,1,3,ignition | ##lea | ##d,3,ign | ition | lead,2,ignition | lead,3,ign | ition | lead,3,ign | ition | lead
+iginitor,1,1,3,i | ##gin | ##itor,2,igin | itor,2,igin | itor,2,igin | itor,2,igin | itor
+fiveblade,1,1,3,five | ##bla | ##de,2,five | blade,2,five | blade,2,five | blade,3,five | bl | ade
+somevane,1,1,3,some | ##van | ##e,3,some | v | ane,3,some | v | ane,3,some | v | ane,3,some | v | ane
+missingteflon,1,1,4,missing | ##te | ##fl | ##on,3,missing | te | flon,4,missing | te | fl | on,4,missing | te | fl | on,4,missing | te | fl | on
+oilscavenge,1,1,3,oils | ##cave | ##nge,4,oil | sc | aven | ge,4,oil | sc | av | enge,4,oil | sc | aven | ge,5,o | ils | c | aven | ge
+nozl,1,1,3,no | ##z | ##l,2,no | zl,2,no | zl,2,no | zl,3,no | z | l
+unservicable,1,1,4,un | ##ser | ##vic | ##able,4,un | serv | ic | able,3,un | servic | able,4,un | serv | ic | able,4,un | serv | ic | able
+ferro,1,1,2,fe | ##rro,2,fer | ro,2,fer | ro,2,fer | ro,2,fer | ro
+fin,1,1,1,fin,1,fin,1,fin,1,fin,1,fin
+lockwire,48,1,2,lock | ##wire,2,lock | wire,2,lock | wire,2,lock | wire,2,lock | wire
+inlimit,3,1,3,in | ##lim | ##it,2,in | limit,2,in | limit,2,in | limit,2,in | limit
+fuelpackage,2,1,3,fuel | ##pack | ##age,2,fuel | package,2,fuel | package,2,fuel | package,3,f | uel | package
+bladest,1,1,2,blades | ##t,2,blad | est,2,blad | est,2,blad | est,2,blad | est
+areo,1,1,2,are | ##o,2,are | o,2,are | o,1,areo,2,are | o
+borescope,323,2,2,bore | ##scope,3,b | ores | cope,3,bo | res | cope,3,bo | res | cope,3,b | ores | cope
+scavenge,192,2,3,sc | ##ave | ##nge,3,sc | aven | ge,3,sc | av | enge,3,sc | aven | ge,3,sc | aven | ge
+igniter,88,2,2,ign | ##iter,2,ign | iter,2,ign | iter,2,ign | iter,2,ign | iter
+turnbuckle,57,2,3,turn | ##buck | ##le,3,turn | buck | le,3,turn | buck | le,3,turn | b | uckle,3,turn | buck | le
+servo,22,2,2,ser | ##vo,1,servo,1,servo,1,servo,2,serv | o
+exciterside,2,2,4,ex | ##cite | ##rs | ##ide,4,ex | cit | ers | ide,4,ex | cit | ers | ide,4,ex | cit | ers | ide,4,ex | cit | ers | ide
+spool,5,2,2,sp | ##ool,2,sp | ool,2,sp | ool,2,sp | ool,2,sp | ool
+oilcooler,1,2,4,oil | ##co | ##ole | ##r,3,oil | co | oler,2,oil | cooler,3,oil | cool | er,4,o | il | co | oler
+serviceablecondition,1,2,4,service | ##able | ##con | ##dition,3,service | able | condition,3,service | able | condition,3,service | able | condition,3,service | able | condition
+schroud,16,2,3,sc | ##hr | ##oud,2,sch | roud,2,sch | roud,2,sch | roud,3,sch | ro | ud
+scavange,14,2,3,sc | ##ava | ##nge,3,sc | av | ange,3,sc | av | ange,3,sc | av | ange,3,sc | av | ange
+turbine,815,2,1,turbine,2,tur | bine,1,turbine,3,t | urb | ine,3,t | urb | ine
+oiltank,8,2,3,oil | ##tan | ##k,3,o | ilt | ank,3,o | ilt | ank,3,o | ilt | ank,3,o | ilt | ank
+abredable,6,2,3,ab | ##red | ##able,3,ab | red | able,3,ab | red | able,3,ab | red | able,3,ab | red | able
+manifold,89,2,1,manifold,2,man | ifold,1,manifold,2,man | ifold,3,man | if | old
+ignitor,10,2,2,ign | ##itor,2,ign | itor,2,ign | itor,2,ign | itor,2,ign | itor
+pawl,13,2,2,paw | ##l,3,p | aw | l,2,paw | l,2,paw | l,3,p | aw | l
+exentricity,4,2,4,ex | ##ent | ##ric | ##ity,3,ex | entric | ity,3,ex | entric | ity,3,ex | entric | ity,3,ex | entric | ity
+lockpin,3,2,2,lock | ##pin,2,lock | pin,2,lock | pin,2,lock | pin,2,lock | pin
+unserviceable,10,2,5,un | ##ser | ##vic | ##ea | ##ble,3,un | service | able,3,un | service | able,3,un | service | able,3,uns | ervice | able
+labyrinth,21,2,1,labyrinth,2,lab | yrinth,1,labyrinth,2,lab | yrinth,2,lab | yrinth
+trailing,33,2,1,trailing,2,tra | iling,1,trailing,2,tr | ailing,2,tra | iling
+servicable,3,2,3,ser | ##vic | ##able,3,serv | ic | able,2,servic | able,3,serv | ic | able,3,serv | ic | able
+jobcard,2,2,2,job | ##card,2,job | card,2,job | card,2,job | card,2,job | card
+unbondend,2,2,4,un | ##bon | ##den | ##d,3,un | bond | end,3,un | bond | end,3,un | bond | end,3,un | bond | end
+axialcrack,2,2,3,axial | ##cr | ##ack,3,axial | c | rack,2,axial | crack,4,ax | ial | cr | ack,3,axial | c | rack
+nozzles,6,2,3,no | ##zzle | ##s,3,no | zz | les,2,no | zzles,3,no | zz | les,2,no | zzles
+rodend,2,2,2,rode | ##nd,2,rod | end,2,rod | end,2,rod | end,2,rod | end
+anodizing,3,2,3,an | ##od | ##izing,3,an | od | izing,3,an | od | izing,3,an | od | izing,3,an | od | izing
+sulphidation,2,2,3,sul | ##phi | ##dation,4,sul | ph | id | ation,2,sulph | idation,5,s | ul | ph | id | ation,4,sul | ph | id | ation
+disbonding,2,2,4,di | ##sb | ##ond | ##ing,3,dis | bond | ing,2,dis | bonding,3,dis | bond | ing,3,dis | bond | ing
+nicks,5,2,2,nick | ##s,2,n | icks,2,n | icks,2,n | icks,2,n | icks
+cotter,5,2,2,cot | ##ter,2,cot | ter,2,cot | ter,2,cot | ter,2,cot | ter
+concentricity,2,2,3,con | ##centric | ##ity,3,con | centric | ity,3,con | centric | ity,3,con | centric | ity,4,con | cent | ric | ity
+pigtail,2,2,2,pig | ##tail,3,p | igt | ail,3,p | igt | ail,3,p | igt | ail,3,p | igt | ail
+blades,5,2,1,blades,2,bl | ades,2,bl | ades,2,bl | ades,2,bl | ades
+baffle,2,2,2,ba | ##ffle,2,ba | ffle,2,b | affle,2,b | affle,3,ba | ff | le
+scallop,2,2,3,sc | ##all | ##op,3,sc | all | op,3,sc | all | op,3,sc | all | op,3,sc | all | op
+fuelnozzle,1,2,3,fuel | ##no | ##zzle,3,fuel | no | zzle,3,fuel | no | zzle,3,fuel | no | zzle,4,f | uel | no | zzle
+vlve,1,2,3,v | ##l | ##ve,2,vl | ve,2,vl | ve,2,vl | ve,2,vl | ve
+samenozzle,1,2,3,same | ##no | ##zzle,5,s | amen | oz | z | le,4,s | amen | ozz | le,5,s | amen | oz | z | le,5,s | amen | oz | z | le
+blendabel,1,2,3,blend | ##abe | ##l,2,blend | abel,2,blend | abel,2,blend | abel,3,bl | end | abel
+straterduct,1,2,5,st | ##rate | ##rd | ##uc | ##t,3,str | ater | duct,3,str | ater | duct,3,str | ater | duct,3,str | ater | duct
+clockpos,1,2,3,clock | ##po | ##s,2,clock | pos,2,clock | pos,2,clock | pos,2,clock | pos
+heatexhanger,1,2,4,heat | ##ex | ##hang | ##er,4,he | atex | h | anger,4,he | ate | xh | anger,4,he | ate | xh | anger,5,he | ate | x | h | anger
+andradial,1,2,3,and | ##rad | ##ial,3,and | rad | ial,2,and | radial,3,and | rad | ial,3,and | rad | ial
+sparkside,1,2,2,sparks | ##ide,3,spar | ks | ide,2,spark | side,3,spar | ks | ide,4,s | par | ks | ide
+bootseal,1,2,2,boots | ##eal,3,boot | se | al,2,boot | seal,2,boot | seal,3,boot | se | al
+sidefan,1,2,2,side | ##fan,2,side | fan,2,side | fan,2,side | fan,2,side | fan
+drainetube,1,2,4,drain | ##et | ##ub | ##e,4,d | rain | et | ube,3,drain | et | ube,4,dr | ain | et | ube,4,d | rain | et | ube
+andfuel,1,2,3,and | ##fu | ##el,2,and | fuel,2,and | fuel,2,and | fuel,3,and | f | uel
+pawlpin,1,2,3,paw | ##lp | ##in,4,p | aw | l | pin,3,paw | l | pin,3,paw | l | pin,4,p | aw | l | pin
+paneldoor,1,2,2,panel | ##door,2,panel | door,2,panel | door,2,panel | door,2,panel | door
+arbox,1,2,2,ar | ##box,2,ar | box,2,ar | box,2,ar | box,1,arbox
+teflonseal,1,2,4,te | ##fl | ##ons | ##eal,4,te | flon | se | al,4,te | fl | on | seal,4,te | fl | onse | al,5,te | fl | on | se | al
+transportstand,1,2,3,transports | ##tan | ##d,2,transport | stand,2,transport | stand,2,transport | stand,2,transport | stand
+ingiter,1,2,2,ing | ##iter,2,ing | iter,2,ing | iter,2,ing | iter,2,ing | iter
+dispatch,3,2,1,dispatch,1,dispatch,1,dispatch,1,dispatch,1,dispatch
+honeycomb,2,2,2,honey | ##comb,3,h | oney | comb,2,honey | comb,3,h | oney | comb,3,h | oney | comb
+cleavis,1,2,3,cl | ##ea | ##vis,2,cle | avis,2,cle | avis,2,cle | avis,2,cle | avis
+blde,1,2,2,b | ##lde,2,bl | de,2,b | lde,2,b | lde,2,b | lde
+hydrolic,1,2,2,hydro | ##lic,2,hydro | lic,2,hydro | lic,3,hyd | ro | lic,2,hydro | lic
+helicoil,1,2,4,he | ##lic | ##oi | ##l,3,he | lico | il,2,helic | oil,3,he | lico | il,3,he | lico | il
+fuelsystem,1,2,3,fuels | ##yst | ##em,3,fu | els | ystem,2,fuels | ystem,3,fu | els | ystem,3,fu | els | ystem
+toolmark,1,2,2,tool | ##mark,2,tool | mark,2,tool | mark,2,tool | mark,2,tool | mark
+lockring,1,2,2,lock | ##ring,2,lock | ring,2,lock | ring,2,lock | ring,2,lock | ring
+centerlink,1,2,2,center | ##link,2,center | link,2,center | link,2,center | link,2,center | link
+nose,3,2,1,nose,1,nose,1,nose,1,nose,2,n | ose
+blending,2,2,1,blending,2,bl | ending,2,bl | ending,2,bl | ending,2,bl | ending
+inservice,1,2,4,ins | ##er | ##vic | ##e,2,in | service,2,ins | ervice,2,in | service,2,ins | ervice
+viton,1,2,2,vito | ##n,2,vit | on,2,vit | on,2,vit | on,2,vit | on
+vibro,1,2,2,vi | ##bro,3,v | ib | ro,2,vib | ro,3,v | ib | ro,3,v | ib | ro
+pressurisation,1,2,3,press | ##uri | ##sation,3,press | ur | isation,3,press | ur | isation,3,press | ur | isation,3,press | ur | isation
+cavitation,1,2,3,ca | ##vita | ##tion,3,c | av | itation,2,cav | itation,3,c | av | itation,3,c | av | itation
+birdcage,1,2,3,bird | ##ca | ##ge,3,bird | c | age,2,bird | cage,3,bird | c | age,3,bird | c | age
+vanes,1,2,2,vane | ##s,2,van | es,2,van | es,2,van | es,2,van | es
+placard,1,2,3,pl | ##aca | ##rd,2,plac | ard,2,plac | ard,2,plac | ard,3,pl | ac | ard
+electrode,1,2,1,electrode,2,elect | rode,1,electrode,2,elect | rode,2,elect | rode
+mag,1,2,1,mag,1,mag,1,mag,1,mag,1,mag
+lok,1,2,1,lok,1,lok,1,lok,1,lok,1,lok
+cycles,1,2,1,cycles,1,cycles,1,cycles,1,cycles,1,cycles
+butterfly,1,2,1,butterfly,3,but | ter | fly,1,butterfly,3,but | ter | fly,3,but | ter | fly
+clevis,66,2,3,cl | ##ev | ##is,2,cle | vis,2,cle | vis,2,cle | vis,3,c | lev | is
+vane,590,2,1,vane,2,v | ane,2,v | ane,2,v | ane,2,v | ane
+coking,166,2,2,co | ##king,2,c | oking,2,c | oking,2,c | oking,2,c | oking
+stator,72,2,2,stat | ##or,2,st | ator,2,st | ator,2,st | ator,2,st | ator
+axial,178,2,1,axial,1,axial,1,axial,2,ax | ial,1,axial
+pneumatic,83,2,3,p | ##ne | ##umatic,3,p | ne | umatic,2,pneum | atic,3,p | ne | umatic,3,p | ne | umatic
+penetrant,15,2,3,pen | ##et | ##rant,2,penet | rant,2,penet | rant,2,penetr | ant,3,pen | et | rant
+radial,79,2,1,radial,2,rad | ial,1,radial,2,rad | ial,2,rad | ial
+combustion,32,2,1,combustion,2,comb | ustion,2,comb | ustion,3,comb | ust | ion,3,comb | ust | ion
+solenoid,6,2,3,sole | ##no | ##id,3,s | olen | oid,3,sol | en | oid,2,sol | enoid,2,sol | enoid
+gasket,5,2,3,gas | ##ke | ##t,2,g | asket,2,g | asket,2,g | asket,2,g | asket
+shim,6,2,2,shi | ##m,2,sh | im,1,shim,1,shim,2,sh | im
+benchwork,2,2,2,bench | ##work,2,bench | work,2,bench | work,2,bench | work,2,bench | work
+unpreserved,2,2,3,un | ##pres | ##erved,3,un | pres | erved,2,un | preserved,3,un | pres | erved,3,un | pres | erved
+resonance,6,2,1,resonance,2,res | onance,1,resonance,3,res | on | ance,2,res | onance
+trim,6,2,1,trim,1,trim,1,trim,1,trim,1,trim
+bonding,4,2,1,bonding,2,bond | ing,1,bonding,2,bond | ing,2,bond | ing
+fretting,2,2,3,fr | ##etti | ##ng,2,fre | tting,3,f | rett | ing,2,fre | tting,3,f | rett | ing
+elastomer,2,2,4,el | ##ast | ##ome | ##r,3,el | ast | omer,2,elast | omer,3,el | ast | omer,3,el | ast | omer
+multicrack,1,2,3,multi | ##cr | ##ack,3,mult | ic | rack,3,mult | ic | rack,3,mult | ic | rack,3,mult | ic | rack
+valvelock,1,2,2,valve | ##lock,3,val | vel | ock,3,val | vel | ock,3,val | vel | ock,3,val | vel | ock
+bearingmovement,1,2,4,bearing | ##mo | ##ve | ##ment,3,b | earing | movement,2,bearing | movement,2,bearing | movement,4,b | earing | mov | ement
+assymount,1,2,3,ass | ##ym | ##ount,3,ass | ym | ount,3,ass | ym | ount,3,ass | ym | ount,3,ass | ym | ount
+linkbearing,1,2,3,link | ##be | ##aring,3,link | b | earing,2,link | bearing,2,link | bearing,3,link | b | earing
+limitoil,1,2,3,limit | ##oi | ##l,3,lim | ito | il,3,lim | ito | il,3,lim | ito | il,3,lim | ito | il
+blended,3,2,1,blended,2,bl | ended,2,bl | ended,2,bl | ended,2,bl | ended
+clampshell,1,2,3,cl | ##amps | ##hell,3,cl | amps | hell,2,clamps | hell,3,cl | amps | hell,3,clam | ps | hell
+splitline,1,2,2,split | ##line,2,split | line,2,split | line,2,split | line,2,split | line
+impingement,1,2,3,imp | ##inge | ##ment,3,imp | ing | ement,3,imp | ing | ement,3,imp | ing | ement,3,im | ping | ement
+micrometer,1,2,2,micro | ##meter,2,mic | rometer,2,mic | rometer,2,mic | rometer,3,mic | rom | eter
+burner,1,2,2,burn | ##er,2,burn | er,1,burner,2,burn | er,2,burn | er
+grounding,1,2,2,ground | ##ing,2,ground | ing,2,ground | ing,2,ground | ing,2,ground | ing
+composite,1,2,1,composite,1,composite,1,composite,2,com | posite,2,com | posite
+nondestructive,68,2,4,non | ##des | ##truct | ##ive,3,n | ond | estructive,3,n | ond | estructive,4,n | ond | estruct | ive,4,n | ond | estruct | ive
+innerskin,6,2,2,inner | ##skin,2,inners | kin,3,in | ners | kin,2,inners | kin,2,inners | kin
+datum,26,2,2,dat | ##um,1,datum,1,datum,1,datum,1,datum
+regulator,59,2,1,regulator,2,reg | ulator,2,reg | ulator,2,reg | ulator,2,reg | ulator
+lubrication,18,2,3,lu | ##bri | ##cation,3,lub | ric | ation,3,lub | ric | ation,3,lub | ric | ation,3,lub | ric | ation
+ecxiter,3,2,3,ec | ##xi | ##ter,2,ecx | iter,3,ec | x | iter,3,ec | x | iter,2,ecx | iter
+insulator,8,2,2,ins | ##ulator,2,ins | ulator,2,ins | ulator,2,ins | ulator,2,ins | ulator
+differential,22,2,1,differential,2,d | ifferential,1,differential,3,d | iffer | ential,3,d | iffer | ential
+anodisation,2,2,3,an | ##od | ##isation,3,an | od | isation,3,an | od | isation,3,an | od | isation,3,an | od | isation
+anodized,4,2,3,an | ##od | ##ized,3,an | od | ized,3,an | od | ized,3,an | od | ized,3,an | od | ized
+polytetrafluoroethylene,3,2,8,poly | ##tet | ##raf | ##lu | ##oro | ##eth | ##yle | ##ne,6,pol | yt | etra | flu | oro | ethylene,5,pol | yt | etra | fluoro | ethylene,6,pol | yt | etra | flu | oro | ethylene,5,pol | ytet | ra | fluoro | ethylene
+delamination,3,2,3,del | ##amina | ##tion,2,del | amination,2,del | amination,2,del | amination,2,del | amination
+transmission,12,2,1,transmission,2,trans | mission,1,transmission,2,trans | mission,2,trans | mission
+fillet,2,2,2,fill | ##et,2,fil | let,2,fil | let,2,fil | let,2,fil | let
+hyudraulic,1,2,5,h | ##yu | ##dra | ##uli | ##c,3,hy | ud | raulic,3,hy | ud | raulic,3,hy | ud | raulic,4,hy | ud | raul | ic
+sumpflow,1,2,3,sum | ##pf | ##low,3,s | ump | flow,3,sum | p | flow,3,s | ump | flow,3,sum | p | flow
+unservceable,1,2,5,un | ##ser | ##vc | ##ea | ##ble,4,un | serv | ce | able,4,un | serv | ce | able,4,un | serv | ce | able,4,un | serv | ce | able
+deflectorplate,1,2,4,def | ##le | ##ctor | ##plate,3,def | lector | plate,3,def | lector | plate,3,def | lector | plate,4,def | lect | or | plate
+fueltube,1,2,3,fuel | ##tub | ##e,3,fu | elt | ube,2,fuel | tube,3,fu | elt | ube,3,fu | elt | ube
+suspensionpoint,1,2,2,suspension | ##point,3,s | uspension | point,3,susp | ension | point,4,s | usp | ension | point,4,s | usp | ension | point
+drainplug,1,2,3,drain | ##pl | ##ug,3,d | rain | plug,2,drain | plug,3,dr | ain | plug,3,d | rain | plug
+desiccant,1,2,4,des | ##ic | ##can | ##t,3,des | ic | cant,3,des | ic | cant,3,des | icc | ant,3,des | icc | ant
+driveshaft,1,2,3,drives | ##ha | ##ft,3,dr | ives | haft,3,d | rives | haft,3,dr | ives | haft,3,dr | ives | haft
+cadmium,1,2,2,cad | ##mium,2,cad | mium,2,cad | mium,2,cad | mium,2,cad | mium
+mechanical,1,2,1,mechanical,2,me | chanical,1,mechanical,2,mechan | ical,2,me | chanical
+circuit,1,2,1,circuit,1,circuit,1,circuit,2,c | ircuit,2,circ | uit
+flange,349,2,2,fl | ##ange,2,fl | ange,2,fl | ange,2,fl | ange,2,fl | ange
+nozzle,343,2,2,no | ##zzle,2,no | zzle,2,no | zzle,2,no | zzle,2,no | zzle
+anodization,29,2,3,an | ##od | ##ization,3,an | od | ization,3,an | od | ization,3,an | od | ization,3,an | od | ization
+deflector,49,2,3,def | ##le | ##ctor,2,def | lector,2,def | lector,2,def | lector,3,def | lect | or
+anodize,11,2,3,an | ##od | ##ize,3,an | od | ize,3,an | od | ize,3,an | od | ize,3,an | od | ize
+strut,92,2,2,st | ##rut,2,str | ut,2,str | ut,2,str | ut,2,str | ut
+clearance,218,2,1,clearance,2,clear | ance,2,clear | ance,2,clear | ance,2,clear | ance
+actuator,18,2,3,act | ##ua | ##tor,2,act | uator,2,act | uator,2,act | uator,3,act | u | ator
+reinspection,6,2,3,reins | ##pe | ##ction,2,re | inspection,2,re | inspection,2,re | inspection,3,re | ins | pection
+arcing,10,2,2,arc | ##ing,2,ar | cing,2,ar | cing,2,ar | cing,2,ar | cing
+isolator,5,2,3,iso | ##lat | ##or,2,isol | ator,2,isol | ator,2,isol | ator,2,isol | ator
+pretwist,2,2,4,pre | ##t | ##wi | ##st,3,pret | w | ist,2,pre | twist,2,pret | wist,3,pret | w | ist
+sealant,5,2,2,seal | ##ant,3,se | al | ant,2,seal | ant,2,seal | ant,3,se | al | ant
+corossion,2,2,3,co | ##ross | ##ion,3,cor | oss | ion,3,cor | oss | ion,3,cor | oss | ion,3,cor | oss | ion
+transmitter,15,2,1,transmitter,2,trans | mitter,1,transmitter,2,trans | mitter,2,trans | mitter
+coupling,7,2,1,coupling,2,c | oupling,1,coupling,2,cou | pling,2,cou | pling
+dampeners,2,2,3,damp | ##ener | ##s,3,d | amp | eners,3,d | amp | eners,3,d | amp | eners,3,d | amp | eners
+burr,5,2,1,burr,2,b | urr,2,bur | r,2,b | urr,2,b | urr
+reducer,2,2,2,reduce | ##r,2,re | ducer,1,reducer,2,re | ducer,2,redu | cer
+toque,2,2,2,to | ##que,2,to | que,2,to | que,2,to | que,2,to | que
+benchcheck,1,2,3,bench | ##che | ##ck,2,bench | check,2,bench | check,2,bench | check,2,bench | check
+rubberdampener,1,2,4,rubber | ##dam | ##pen | ##er,5,rub | ber | d | amp | ener,4,rubber | d | amp | ener,5,rub | ber | d | amp | ener,4,rub | berd | amp | ener
+ignitionsystem,1,2,4,ignition | ##sy | ##ste | ##m,3,ign | itions | ystem,3,ign | itions | ystem,3,ign | itions | ystem,3,ign | itions | ystem
+coatingpitting,1,2,3,coating | ##pit | ##ting,4,co | ating | p | itting,3,coating | p | itting,4,co | ating | p | itting,4,co | ating | p | itting
+overhoal,1,2,3,over | ##ho | ##al,3,over | ho | al,3,over | ho | al,3,over | ho | al,3,over | ho | al
+nzzl,1,2,3,nz | ##z | ##l,3,n | zz | l,3,n | zz | l,3,n | zz | l,3,n | zz | l
+lockspacer,1,2,3,locks | ##pace | ##r,3,lock | sp | acer,2,lock | spacer,3,lock | sp | acer,3,lock | sp | acer
+sealmaterial,1,2,3,seal | ##mate | ##rial,3,se | alm | aterial,2,seal | material,3,se | alm | aterial,3,se | al | material
+cumbustion,1,2,3,cum | ##bus | ##tion,3,c | umb | ustion,3,c | umb | ustion,4,c | umb | ust | ion,4,c | umb | ust | ion
+labyrith,1,2,3,lab | ##yr | ##ith,3,lab | yr | ith,3,l | aby | rith,3,lab | yr | ith,3,lab | yr | ith
+harnesse,1,2,2,harness | ##e,3,h | arn | esse,3,h | arn | esse,3,h | arn | esse,3,h | arn | esse
+excitor,1,2,3,ex | ##cit | ##or,2,exc | itor,2,exc | itor,2,exc | itor,2,exc | itor
+actuation,1,2,2,act | ##uation,2,act | uation,2,act | uation,2,act | uation,2,act | uation
+couplings,1,2,2,coupling | ##s,2,cou | plings,2,cou | plings,2,cou | plings,3,cou | pl | ings
+concentric,1,2,2,con | ##centric,2,con | centric,2,con | centric,2,con | centric,3,con | cent | ric
+deformation,1,2,1,deformation,2,de | formation,1,deformation,2,de | formation,2,de | formation
+static,1,2,1,static,1,static,1,static,1,static,1,static
+exciter,351,2,3,ex | ##cite | ##r,2,exc | iter,2,exc | iter,2,exc | iter,2,exc | iter
+excentricity,41,2,3,ex | ##centric | ##ity,3,ex | centric | ity,3,ex | centric | ity,3,ex | centric | ity,4,ex | cent | ric | ity
+hydr,37,2,3,h | ##yd | ##r,2,hyd | r,2,hyd | r,1,hydr,2,hyd | r
+hydromechanical,50,2,4,hydro | ##me | ##chan | ##ical,2,hyd | romechanical,2,hyd | romechanical,3,hyd | rome | chanical,3,hyd | rome | chanical
+compressor,454,2,1,compressor,2,compress | or,2,compress | or,2,compress | or,3,com | press | or
+altenator,13,2,3,alt | ##ena | ##tor,2,alten | ator,2,alten | ator,2,alten | ator,2,alten | ator
+shroud,192,2,2,sh | ##roud,2,sh | roud,2,sh | roud,2,sh | roud,3,sh | ro | ud
+lug,137,2,2,lu | ##g,1,lug,1,lug,1,lug,1,lug
+valve,618,2,1,valve,2,val | ve,1,valve,2,val | ve,2,val | ve
+debonding,16,2,3,de | ##bon | ##ding,3,deb | ond | ing,3,deb | ond | ing,3,deb | ond | ing,3,deb | ond | ing
+corrosion,132,2,1,corrosion,2,cor | rosion,2,cor | rosion,2,cor | rosion,2,cor | rosion
+filterbowl,6,2,3,filter | ##bow | ##l,3,filter | b | owl,2,filter | bowl,3,filter | b | owl,3,filter | bow | l
+seal,465,2,1,seal,2,se | al,1,seal,1,seal,2,se | al
+circumferential,30,2,5,ci | ##rc | ##um | ##fer | ##ential,3,circ | um | ferential,3,circum | fer | ential,4,circ | um | fer | ential,4,circ | um | fer | ential
+alternator,34,2,2,alter | ##nator,2,altern | ator,2,altern | ator,2,altern | ator,2,altern | ator
+stopnut,5,2,2,stop | ##nut,2,stop | nut,2,stop | nut,2,stop | nut,2,stop | nut
+erosion,161,2,1,erosion,2,eros | ion,1,erosion,2,eros | ion,2,eros | ion
+bolthead,6,2,2,bolt | ##head,2,bol | thead,2,bol | thead,2,bol | thead,2,bol | thead
+bulletin,169,2,1,bulletin,2,bullet | in,2,bullet | in,2,bullet | in,2,bullet | in
+convex,63,2,1,convex,1,convex,1,convex,2,conv | ex,2,con | vex
+torque,51,2,1,torque,2,tor | que,1,torque,2,tor | que,2,tor | que
+pitting,30,2,2,pitt | ##ing,2,p | itting,2,p | itting,2,p | itting,2,p | itting
+inlet,57,2,1,inlet,2,in | let,2,in | let,2,in | let,2,in | let
+boot,63,2,1,boot,1,boot,1,boot,1,boot,1,boot
+nut,37,2,1,nut,1,nut,1,nut,1,nut,1,nut
+supplytube,3,2,3,supply | ##tub | ##e,3,supply | t | ube,2,supply | tube,3,s | upply | tube,3,supp | ly | tube
+ballbearing,4,2,3,ball | ##be | ##aring,3,ball | b | earing,2,ball | bearing,2,ball | bearing,3,ball | b | earing
+magnetic,63,2,1,magnetic,2,m | agnetic,1,magnetic,2,mag | netic,2,m | agnetic
+bushings,8,2,2,bush | ##ings,2,bush | ings,2,bush | ings,3,b | ush | ings,3,b | ush | ings
+nipple,11,2,1,nipple,2,nip | ple,2,ni | pple,2,n | ipple,3,n | ip | ple
+excit,3,2,2,ex | ##cit,2,ex | cit,2,ex | cit,2,ex | cit,2,ex | cit
+rivet,10,2,2,ri | ##vet,2,riv | et,2,riv | et,2,r | ivet,2,riv | et
+receptical,3,2,3,rec | ##ept | ##ical,3,re | cept | ical,3,re | cept | ical,3,re | cept | ical,3,re | cept | ical
+swirl,10,2,1,swirl,2,sw | irl,2,sw | irl,2,sw | irl,2,sw | irl
+exchanger,9,2,2,exchange | ##r,2,ex | changer,2,ex | changer,2,ex | changer,3,ex | ch | anger
+shaft,31,2,1,shaft,1,shaft,1,shaft,1,shaft,1,shaft
+contamination,22,2,1,contamination,2,cont | amination,1,contamination,2,cont | amination,2,cont | amination
+retainer,11,2,2,retain | ##er,2,ret | ainer,2,retain | er,2,ret | ainer,3,re | tain | er
+boltholes,3,2,2,bolt | ##holes,3,bol | th | oles,3,bol | th | oles,3,bol | th | oles,3,bol | th | oles
+oxidation,17,2,1,oxidation,2,oxid | ation,1,oxidation,2,oxid | ation,2,oxid | ation
+housing,153,2,1,housing,1,housing,1,housing,1,housing,2,h | ousing
+skin,58,2,1,skin,1,skin,1,skin,1,skin,1,skin
+isolation,26,2,1,isolation,2,is | olation,1,isolation,2,is | olation,2,is | olation
+bypass,22,2,1,bypass,2,b | ypass,1,bypass,2,b | ypass,2,b | ypass
+groundcable,2,2,2,ground | ##cable,3,ground | c | able,2,ground | cable,3,ground | c | able,3,ground | c | able
+hydrulic,2,2,4,h | ##yd | ##ru | ##lic,3,hyd | rul | ic,3,hyd | rul | ic,3,hydr | ul | ic,3,hyd | rul | ic
+leverarm,2,2,2,lever | ##arm,2,lever | arm,2,lever | arm,2,lever | arm,2,lever | arm
+abradeble,2,2,3,ab | ##rade | ##ble,3,ab | rade | ble,3,ab | rade | ble,3,abr | ade | ble,3,abr | ade | ble
+circumcential,2,2,5,ci | ##rc | ##um | ##cent | ##ial,4,circ | um | cent | ial,3,circum | cent | ial,4,circ | um | cent | ial,4,circ | um | cent | ial
+spectacle,13,2,1,spectacle,2,spect | acle,2,spect | acle,2,spect | acle,3,s | pect | acle
+silicone,7,2,2,silicon | ##e,2,sil | icone,2,sil | icone,2,sil | icone,3,s | ilic | one
+cycle,53,2,1,cycle,1,cycle,1,cycle,1,cycle,1,cycle
+errosion,2,2,3,er | ##ros | ##ion,2,er | rosion,2,er | rosion,2,er | rosion,2,er | rosion
+shealth,2,2,2,shea | ##lth,2,s | health,2,she | alth,2,s | health,2,s | health
+resistence,2,2,2,resist | ##ence,2,res | istence,2,res | istence,2,res | istence,2,res | istence
+interlock,5,2,2,inter | ##lock,2,inter | lock,2,inter | lock,2,inter | lock,2,inter | lock
+specification,15,2,1,specification,2,spec | ification,1,specification,2,spec | ification,2,spec | ification
+blad,4,2,2,b | ##lad,1,blad,1,blad,1,blad,1,blad
+assembly,114,2,1,assembly,1,assembly,1,assembly,1,assembly,1,assembly
+volatile,10,2,1,volatile,1,volatile,1,volatile,1,volatile,1,volatile
+oilsystem,2,2,3,oils | ##yst | ##em,3,o | ils | ystem,3,o | ils | ystem,3,o | ils | ystem,3,o | ils | ystem
+varnish,5,2,2,var | ##nish,3,var | n | ish,2,varn | ish,3,var | n | ish,3,var | n | ish
+tooling,5,2,2,tool | ##ing,2,tool | ing,2,tool | ing,2,tool | ing,2,tool | ing
+stud,8,2,1,stud,1,stud,1,stud,1,stud,1,stud
+gearboxes,4,2,2,gearbox | ##es,2,gear | boxes,2,gear | boxes,2,gear | boxes,3,ge | ar | boxes
+distortion,7,2,1,distortion,2,dist | ortion,1,distortion,2,dist | ortion,2,dist | ortion
+fitting,9,2,1,fitting,1,fitting,1,fitting,2,f | itting,2,f | itting
+braiding,3,2,2,braid | ##ing,2,bra | iding,2,bra | iding,2,bra | iding,2,bra | iding
+dovetail,3,2,2,dove | ##tail,3,d | ov | etail,3,d | ov | etail,3,d | ov | etail,3,d | ov | etail
+boss,12,2,1,boss,1,boss,1,boss,1,boss,1,boss
+disassembly,3,2,5,di | ##sas | ##se | ##mb | ##ly,2,dis | assembly,2,dis | assembly,2,dis | assembly,2,dis | assembly
+overhaul,6,2,1,overhaul,2,over | haul,2,over | haul,2,over | haul,2,over | haul
+axle,5,2,1,axle,2,ax | le,2,ax | le,2,ax | le,2,ax | le
+elongation,3,2,3,el | ##onga | ##tion,2,elong | ation,2,elong | ation,2,elong | ation,2,elong | ation
+brading,2,2,2,brad | ##ing,2,br | ading,2,br | ading,2,br | ading,2,br | ading
+deflection,3,2,3,def | ##le | ##ction,2,def | lection,2,def | lection,2,def | lection,2,def | lection
+craze,3,2,3,cr | ##az | ##e,2,cra | ze,2,cra | ze,2,cra | ze,3,c | ra | ze
+tubing,3,2,2,tub | ##ing,2,tub | ing,2,tub | ing,3,t | ub | ing,3,t | ub | ing
+busing,2,2,2,bus | ##ing,2,b | using,2,b | using,2,b | using,2,b | using
+dampen,2,2,2,damp | ##en,3,d | amp | en,3,d | amp | en,2,d | ampen,3,d | amp | en
+altinator,1,2,2,alt | ##inator,2,alt | inator,2,alt | inator,2,alt | inator,2,alt | inator
+damperner,1,2,3,damp | ##ern | ##er,3,dam | per | ner,3,dam | per | ner,3,dam | per | ner,3,dam | per | ner
+bearring,1,2,2,bear | ##ring,2,bear | ring,2,bear | ring,2,bear | ring,3,b | ear | ring
+ignitiom,1,2,3,ign | ##iti | ##om,3,ign | iti | om,3,ign | iti | om,3,ign | iti | om,3,ign | iti | om
+pmeumatic,1,2,3,pm | ##eum | ##atic,3,p | me | umatic,3,p | me | umatic,3,p | me | umatic,3,p | me | umatic
+turnbuckel,1,2,3,turn | ##buck | ##el,3,turn | buck | el,3,turn | buck | el,3,turn | buck | el,3,turn | buck | el
+hydrualic,1,2,4,h | ##yd | ##ru | ##alic,3,hyd | rual | ic,3,hyd | ru | alic,3,hydr | ual | ic,4,hyd | ru | al | ic
+fuelhose,1,2,3,fuel | ##hos | ##e,3,fuel | h | ose,2,fuel | hose,2,fuel | hose,4,f | uel | h | ose
+preumatic,1,2,2,pre | ##umatic,2,pre | umatic,2,pre | umatic,2,pre | umatic,2,pre | umatic
+oilsensor,1,2,3,oils | ##ens | ##or,3,o | ils | ensor,3,o | ils | ensor,3,o | ils | ensor,3,o | ils | ensor
+coatingparent,1,2,3,coating | ##par | ##ent,3,co | ating | parent,2,coating | parent,3,co | ating | parent,3,co | ating | parent
+draintube,1,2,3,drain | ##tub | ##e,3,d | raint | ube,3,d | raint | ube,3,d | raint | ube,3,d | raint | ube
+ecentricity,1,2,4,ec | ##ent | ##ric | ##ity,3,ec | entric | ity,3,ec | entric | ity,3,ec | entric | ity,3,ec | entric | ity
+exentricitie,1,2,5,ex | ##ent | ##ric | ##iti | ##e,3,ex | entric | itie,3,ex | entric | itie,3,ex | entric | itie,3,ex | entric | itie
+exentric,1,2,3,ex | ##ent | ##ric,2,ex | entric,2,ex | entric,2,ex | entric,2,ex | entric
+dampenere,1,2,3,damp | ##ener | ##e,4,d | amp | en | ere,4,d | amp | en | ere,3,d | ampen | ere,4,d | amp | en | ere
+danpener,1,2,3,dan | ##pen | ##er,3,dan | p | ener,3,dan | p | ener,3,dan | p | ener,3,dan | p | ener
+heatexchanger,1,2,4,heat | ##ex | ##chang | ##er,3,he | atex | changer,4,he | ate | x | changer,3,he | atex | changer,5,he | ate | x | ch | anger
+wornball,1,2,2,worn | ##ball,3,w | orn | ball,2,worn | ball,3,w | orn | ball,3,w | orn | ball
+vlave,1,2,3,v | ##lav | ##e,2,vl | ave,2,vl | ave,2,vl | ave,2,vl | ave
+sulpidation,1,2,3,sul | ##pid | ##ation,3,sul | pid | ation,3,sul | pid | ation,4,s | ulp | id | ation,4,s | ulp | id | ation
+connctor,1,2,3,con | ##nc | ##tor,2,conn | ctor,2,conn | ctor,2,conn | ctor,2,conn | ctor
+bushinghave,1,2,4,bush | ##ing | ##ha | ##ve,3,b | ushing | have,3,b | ushing | have,3,b | ushing | have,3,b | ushing | have
+oilpump,1,2,3,oil | ##pu | ##mp,3,oil | p | ump,2,oil | pump,2,oil | pump,4,o | il | p | ump
+snapring,1,2,2,snap | ##ring,2,snap | ring,2,snap | ring,2,snap | ring,3,s | nap | ring
+fuelpump,1,2,3,fuel | ##pu | ##mp,3,fuel | p | ump,2,fuel | pump,2,fuel | pump,4,f | uel | p | ump
+nozzleste,1,2,3,no | ##zzle | ##ste,4,no | zz | l | este,4,no | zz | l | este,4,no | zz | l | este,4,no | zz | l | este
+connectorpin,1,2,2,connector | ##pin,2,connector | pin,2,connector | pin,2,connector | pin,3,con | nector | pin
+contactpin,1,2,2,contact | ##pin,2,contact | pin,2,contact | pin,2,contact | pin,2,contact | pin
+ignigion,1,2,3,ign | ##ig | ##ion,2,ign | igion,2,ign | igion,2,ign | igion,2,ign | igion
+balbearing,1,2,3,bal | ##be | ##aring,3,bal | b | earing,2,bal | bearing,2,bal | bearing,3,bal | b | earing
+adilution,1,2,3,adi | ##lu | ##tion,2,adil | ution,2,adil | ution,2,adil | ution,2,adil | ution
+beyondlimits,1,2,3,beyond | ##lim | ##its,3,b | eyond | limits,2,beyond | limits,3,b | eyond | limits,3,be | yond | limits
+exhasut,1,2,3,ex | ##has | ##ut,3,ex | has | ut,3,ex | has | ut,3,ex | has | ut,3,ex | has | ut
+mountbearing,1,2,3,mount | ##be | ##aring,3,mount | b | earing,2,mount | bearing,2,mount | bearing,3,mount | b | earing
+harnee,1,2,3,ha | ##rne | ##e,2,har | nee,2,har | nee,2,har | nee,2,har | nee
+pressswitch,1,2,3,press | ##sw | ##itch,2,press | switch,2,press | switch,2,press | switch,2,press | switch
+systeminsp,1,2,3,system | ##ins | ##p,3,system | in | sp,2,system | insp,2,system | insp,3,system | ins | p
+mamifold,1,2,3,ma | ##mi | ##fold,2,mam | ifold,2,mam | ifold,2,mam | ifold,3,mam | if | old
+barrelnut,1,2,2,barrel | ##nut,4,bar | re | ln | ut,2,barrel | nut,4,bar | re | ln | ut,3,bar | rel | nut
+fillcap,1,2,2,fill | ##cap,2,fill | cap,2,fill | cap,2,fill | cap,2,fill | cap
+sulphidication,1,2,3,sul | ##phi | ##dication,4,sul | ph | id | ication,3,sulph | id | ication,5,s | ul | ph | id | ication,4,sul | ph | id | ication
+pneumatatic,1,2,5,p | ##ne | ##uma | ##tat | ##ic,4,p | ne | umat | atic,3,pneum | at | atic,4,p | ne | umat | atic,4,p | ne | umat | atic
+vonvex,1,2,3,von | ##ve | ##x,2,von | vex,2,von | vex,3,von | v | ex,2,von | vex
+lockpen,1,2,2,lock | ##pen,2,lock | pen,2,lock | pen,2,lock | pen,2,lock | pen
+turnbucle,1,2,3,turn | ##bu | ##cle,3,turn | b | ucle,3,turn | b | ucle,3,turn | b | ucle,3,turn | b | ucle
+resistance,8,2,1,resistance,2,res | istance,1,resistance,2,res | istance,2,res | istance
+transient,3,2,1,transient,2,trans | ient,2,trans | ient,2,trans | ient,2,trans | ient
+harnesses,2,2,2,harness | ##es,3,h | arn | esses,3,h | arness | es,3,h | arness | es,3,har | ness | es
+harnesss,1,2,2,harness | ##s,3,h | arness | s,3,h | arness | s,3,h | arness | s,3,har | ness | s
+pneumatick,1,2,4,p | ##ne | ##umatic | ##k,4,p | ne | umat | ick,3,pneum | at | ick,4,p | ne | umat | ick,4,p | ne | umat | ick
+rubbermount,1,2,2,rubber | ##mount,3,rub | ber | mount,2,rubber | mount,3,rub | ber | mount,3,rub | ber | mount
+faultcode,1,2,2,fault | ##code,2,fault | code,2,fault | code,2,fault | code,3,f | ault | code
+hydralic,1,2,2,hydra | ##lic,3,hyd | ral | ic,3,hyd | ral | ic,3,hyd | ral | ic,3,hyd | ral | ic
+sencor,1,2,2,sen | ##cor,3,s | enc | or,3,s | enc | or,3,s | enc | or,3,s | enc | or
+mudule,1,2,2,mud | ##ule,2,mud | ule,2,mud | ule,2,mud | ule,2,mud | ule
+retorqued,1,2,4,re | ##tor | ##que | ##d,4,ret | or | qu | ed,4,ret | or | qu | ed,4,ret | or | qu | ed,4,ret | or | qu | ed
+corrosive,2,2,3,co | ##rro | ##sive,3,cor | ros | ive,3,cor | ros | ive,3,cor | ros | ive,3,cor | ros | ive
+degr,1,2,2,de | ##gr,2,de | gr,2,de | gr,2,de | gr,2,de | gr
+eccentric,3,2,1,eccentric,2,ecc | entric,2,ecc | entric,2,ecc | entric,3,e | cc | entric
+airduct,1,2,3,air | ##du | ##ct,2,air | duct,2,air | duct,2,air | duct,2,air | duct
+valv,1,2,2,val | ##v,2,val | v,2,val | v,2,val | v,2,val | v
+accoustic,1,2,3,acc | ##ous | ##tic,2,acc | oustic,2,acc | oustic,2,acc | oustic,2,acc | oustic
+convexe,1,2,2,convex | ##e,2,convex | e,3,con | ve | xe,2,conv | exe,3,con | ve | xe
+rivit,1,2,3,ri | ##vi | ##t,1,rivit,1,rivit,2,r | ivit,2,riv | it
+braket,1,2,2,brake | ##t,2,bra | ket,2,brak | et,2,br | aket,3,b | rak | et
+harnas,1,2,3,ha | ##rna | ##s,2,h | arnas,2,h | arnas,2,h | arnas,2,h | arnas
+casing,2,2,2,cas | ##ing,2,c | asing,2,c | asing,2,c | asing,2,c | asing
+cage,3,2,1,cage,2,c | age,1,cage,2,c | age,2,c | age
+socket,2,2,1,socket,1,socket,1,socket,1,socket,1,socket
+discrepancy,2,2,4,disc | ##re | ##pan | ##cy,4,dis | cre | p | ancy,4,dis | cre | p | ancy,4,dis | cre | p | ancy,4,dis | cre | p | ancy
+busching,1,2,2,busch | ##ing,2,bus | ching,2,bus | ching,2,bus | ching,2,bus | ching
+fastner,1,2,2,fast | ##ner,2,fast | ner,2,fast | ner,2,fast | ner,2,fast | ner
+flang,1,2,2,fl | ##ang,2,fl | ang,2,fl | ang,2,fl | ang,2,fl | ang
+centric,2,2,2,cent | ##ric,1,centric,1,centric,1,centric,2,cent | ric
+grinding,2,2,1,grinding,2,gr | inding,2,gr | inding,2,gr | inding,2,gr | inding
+sleeving,1,2,3,sl | ##ee | ##ving,3,s | lee | ving,2,slee | ving,3,s | lee | ving,3,s | lee | ving
+lht,1,2,2,l | ##ht,2,l | ht,2,l | ht,2,l | ht,2,l | ht
+locknut,1,2,2,lock | ##nut,2,lock | nut,2,lock | nut,2,lock | nut,2,lock | nut
+vulcanizing,1,2,2,vulcan | ##izing,4,v | ul | can | izing,3,vul | can | izing,4,v | ul | can | izing,4,v | ul | can | izing
+excentric,1,2,2,ex | ##centric,2,ex | centric,2,ex | centric,2,ex | centric,3,ex | cent | ric
+grommet,1,2,3,gr | ##om | ##met,3,g | rom | met,3,g | rom | met,3,g | rom | met,3,g | rom | met
+controller,2,2,1,controller,1,controller,1,controller,1,controller,1,controller
+displacement,2,2,1,displacement,2,dis | placement,1,displacement,2,dis | placement,2,dis | placement
+pervious,1,2,2,per | ##vious,2,per | vious,2,per | vious,2,per | vious,2,per | vious
+motor,3,2,1,motor,1,motor,1,motor,1,motor,1,motor
+elec,1,2,2,el | ##ec,2,ele | c,2,ele | c,2,ele | c,2,ele | c
+lateral,2,2,1,lateral,2,l | ateral,1,lateral,2,l | ateral,2,l | ateral
+discolouration,1,2,3,disco | ##lou | ##ration,3,dis | colour | ation,3,dis | colour | ation,3,dis | colour | ation,4,dis | col | our | ation
+chafed,1,2,2,cha | ##fed,3,ch | af | ed,3,ch | af | ed,3,ch | af | ed,3,ch | af | ed
+pack,2,2,1,pack,1,pack,1,pack,1,pack,1,pack
+insolation,1,2,3,ins | ##ola | ##tion,2,ins | olation,2,ins | olation,2,ins | olation,2,ins | olation
+crimp,1,2,3,cr | ##im | ##p,2,cr | imp,2,c | rimp,2,cr | imp,3,c | rim | p
+solder,1,2,2,sold | ##er,2,s | older,2,s | older,2,s | older,2,s | older
+bootstrap,1,2,3,boots | ##tra | ##p,1,bootstrap,1,bootstrap,1,bootstrap,1,bootstrap
+bellow,1,2,2,bell | ##ow,2,b | ellow,2,b | ellow,2,b | ellow,2,b | ellow
+centerline,1,2,2,center | ##line,2,center | line,2,center | line,2,center | line,2,center | line
+choking,1,2,1,choking,2,ch | oking,2,ch | oking,2,ch | oking,2,ch | oking
+hoist,1,2,2,ho | ##ist,2,ho | ist,2,ho | ist,2,ho | ist,2,ho | ist
+plating,1,2,2,pl | ##ating,2,pl | ating,1,plating,2,pl | ating,2,pl | ating
+hinge,1,2,2,hi | ##nge,2,hing | e,2,hing | e,2,hing | e,2,hing | e
+millimeter,1,2,2,mill | ##imeter,2,mill | imeter,2,mill | imeter,2,mill | imeter,2,mill | imeter
+crank,1,2,1,crank,2,cr | ank,2,cr | ank,2,cr | ank,2,c | rank
+quadrant,1,2,1,quadrant,2,quadr | ant,2,quad | rant,2,quadr | ant,2,quad | rant
+rupture,1,2,3,ru | ##pt | ##ure,2,rupt | ure,2,rupt | ure,2,rupt | ure,2,rupt | ure
+bypassing,1,2,2,bypass | ##ing,3,b | yp | assing,3,b | yp | assing,3,b | yp | assing,3,b | yp | assing
+mesh,1,2,1,mesh,1,mesh,1,mesh,1,mesh,1,mesh
+shutdown,1,2,2,shut | ##down,1,shutdown,1,shutdown,1,shutdown,2,sh | utdown
+mating,1,2,1,mating,2,m | ating,2,m | ating,2,m | ating,2,m | ating
+alt,1,2,1,alt,1,alt,1,alt,1,alt,1,alt
+processor,1,2,1,processor,1,processor,1,processor,1,processor,1,processor
+silicon,1,2,1,silicon,2,sil | icon,2,sil | icon,2,sil | icon,2,sil | icon
+cooling,1,2,1,cooling,2,cool | ing,1,cooling,2,cool | ing,2,cool | ing
+crossover,1,2,1,crossover,2,c | rossover,2,c | rossover,2,c | rossover,2,c | rossover
+downstream,1,2,1,downstream,2,down | stream,2,down | stream,2,down | stream,2,down | stream
+geometry,1,2,1,geometry,1,geometry,1,geometry,1,geometry,1,geometry
+integrity,1,2,1,integrity,2,integr | ity,1,integrity,2,integr | ity,1,integrity
+interface,1,2,1,interface,1,interface,1,interface,1,interface,1,interface
+arc,1,2,1,arc,1,arc,1,arc,1,arc,1,arc
+frequency,1,2,1,frequency,1,frequency,1,frequency,1,frequency,1,frequency
+bush,1,2,1,bush,1,bush,1,bush,2,b | ush,2,b | ush
+disc,1,2,1,disc,1,disc,1,disc,1,disc,1,disc
+junction,1,2,1,junction,1,junction,1,junction,1,junction,2,j | unction
+parallel,1,2,1,parallel,1,parallel,1,parallel,1,parallel,1,parallel
+bus,1,2,1,bus,1,bus,1,bus,1,bus,1,bus
+engineer,1,2,1,engineer,2,engine | er,1,engineer,2,engine | er,2,engine | er
+race,1,2,1,race,1,race,1,race,1,race,1,race
+bushing,309,2,2,bush | ##ing,2,b | ushing,2,b | ushing,2,b | ushing,2,b | ushing
+dampner,35,2,2,damp | ##ner,3,d | amp | ner,3,d | amp | ner,3,d | amp | ner,3,d | amp | ner
+sump,240,2,2,sum | ##p,2,s | ump,2,sum | p,2,s | ump,2,sum | p
+gearbox,777,2,1,gearbox,2,gear | box,2,gear | box,2,gear | box,2,ge | arbox
+teflon,149,2,3,te | ##fl | ##on,2,te | flon,3,te | fl | on,3,te | fl | on,3,te | fl | on
+unbonding,16,2,3,un | ##bon | ##ding,3,un | bond | ing,2,un | bonding,3,un | bond | ing,3,un | bond | ing
+harness,322,2,1,harness,2,h | arness,2,h | arness,2,h | arness,2,har | ness
+sheath,131,2,1,sheath,2,she | ath,2,she | ath,2,she | ath,2,she | ath
+hydraulic,309,2,1,hydraulic,2,hyd | raulic,1,hydraulic,2,hyd | raulic,3,hyd | raul | ic
+sensor,158,2,1,sensor,1,sensor,1,sensor,1,sensor,1,sensor
+fillercap,5,2,3,fill | ##er | ##cap,3,fill | erc | ap,3,fill | erc | ap,3,fill | erc | ap,3,fill | erc | ap
+bearing,510,2,1,bearing,2,b | earing,1,bearing,1,bearing,2,b | earing
+sleeve,67,2,1,sleeve,3,s | lee | ve,2,s | leeve,3,s | lee | ve,3,s | le | eve
+thermal,96,2,1,thermal,1,thermal,1,thermal,1,thermal,1,thermal
+liner,85,2,1,liner,1,liner,1,liner,1,liner,1,liner
+dilution,10,2,2,dil | ##ution,2,dil | ution,2,dil | ution,3,d | il | ution,2,dil | ution
+receptacle,7,2,3,rec | ##ept | ##acle,3,re | cept | acle,3,re | cept | acle,3,re | cept | acle,3,re | cept | acle
+hanness,2,2,2,han | ##ness,2,h | anness,2,hann | ess,2,hann | ess,3,h | ann | ess
+connectors,8,2,2,connector | ##s,2,connect | ors,2,connect | ors,2,connect | ors,2,connect | ors
+conduit,9,2,3,con | ##du | ##it,2,con | duit,2,con | duit,2,con | duit,2,con | duit
+clerance,2,2,3,cl | ##eran | ##ce,2,cler | ance,2,cler | ance,2,cler | ance,2,cler | ance
+insitu,3,2,3,ins | ##it | ##u,2,ins | itu,2,ins | itu,2,ins | itu,2,ins | itu
+vent,10,2,1,vent,1,vent,1,vent,1,vent,1,vent
+wetting,4,2,2,wet | ##ting,2,wet | ting,2,wet | ting,2,wet | ting,2,w | etting
+titanium,5,2,1,titanium,3,t | itan | ium,2,titan | ium,3,t | itan | ium,3,t | itan | ium
+weld,4,2,2,we | ##ld,2,w | eld,2,w | eld,2,w | eld,2,w | eld
+allowable,3,2,2,allow | ##able,2,allow | able,2,allow | able,2,allow | able,2,allow | able
+dispensation,3,2,4,di | ##sp | ##ens | ##ation,2,disp | ensation,2,disp | ensation,2,disp | ensation,3,d | ispens | ation
+shielding,3,2,1,shielding,2,shield | ing,2,shield | ing,2,shield | ing,2,shield | ing
+grooving,2,2,3,gr | ##oo | ##ving,2,gro | oving,2,gro | oving,2,gro | oving,2,gro | oving
+bushinhs,1,2,3,bush | ##in | ##hs,3,bush | inh | s,3,bush | inh | s,4,b | ush | in | hs,4,b | ush | inh | s
+excenticity,1,2,4,ex | ##cent | ##ici | ##ty,3,ex | cent | icity,3,ex | cent | icity,3,ex | cent | icity,3,ex | cent | icity
+centervent,1,2,2,center | ##vent,2,center | vent,3,cent | erv | ent,3,cent | erv | ent,3,cent | erv | ent
+manifol,1,2,3,mani | ##fo | ##l,3,man | if | ol,3,man | if | ol,3,man | if | ol,3,man | if | ol
+dampners,1,2,2,damp | ##ners,3,d | amp | ners,3,d | amp | ners,3,d | amp | ners,3,d | amp | ners
+summp,1,2,2,sum | ##mp,2,sum | mp,2,sum | mp,2,summ | p,2,sum | mp
+chafedarea,1,2,4,cha | ##fed | ##are | ##a,4,ch | af | ed | area,4,ch | af | ed | area,4,ch | af | ed | area,4,ch | af | ed | area
+filterhousing,1,2,3,filter | ##ho | ##using,2,filter | housing,2,filter | housing,2,filter | housing,3,filter | h | ousing
+hysdraulic,1,2,5,h | ##ys | ##dra | ##uli | ##c,4,h | ys | d | raulic,4,h | ys | d | raulic,4,h | ys | d | raulic,5,h | ys | d | raul | ic
+nozlle,1,2,3,no | ##z | ##lle,2,noz | lle,2,noz | lle,3,no | z | lle,3,no | z | lle
+returnline,1,2,2,return | ##line,2,return | line,2,return | line,2,return | line,2,return | line
+alignment,4,2,1,alignment,1,alignment,1,alignment,1,alignment,1,alignment
+harmess,1,2,2,harm | ##ess,3,h | arm | ess,2,harm | ess,2,harm | ess,2,harm | ess
+vibration,2,2,1,vibration,2,v | ibration,2,v | ibration,2,v | ibration,2,v | ibration
+misfire,1,2,2,mis | ##fire,3,m | isf | ire,3,m | isf | ire,2,mis | fire,3,m | isf | ire
+splice,1,2,2,sp | ##lice,2,s | plice,1,splice,1,splice,2,s | plice
+ignition,699,2,1,ignition,2,ign | ition,1,ignition,2,ign | ition,2,ign | ition
+dillution,11,2,3,dil | ##lu | ##tion,3,d | ill | ution,3,d | ill | ution,3,d | ill | ution,3,d | ill | ution
+damper,134,2,2,damp | ##er,2,dam | per,2,dam | per,2,dam | per,2,dam | per
+module,466,2,1,module,1,module,1,module,1,module,1,module
+eccentricity,139,2,2,eccentric | ##ity,3,ecc | entric | ity,3,ecc | entric | ity,3,ecc | entric | ity,4,e | cc | entric | ity
+filtercap,6,2,2,filter | ##cap,2,filter | cap,2,filter | cap,2,filter | cap,2,filter | cap
+concave,90,2,2,con | ##cave,2,conc | ave,2,conc | ave,2,conc | ave,2,conc | ave
+exhaust,116,2,1,exhaust,2,ex | haust,1,exhaust,2,ex | haust,2,ex | haust
+detector,73,2,1,detector,2,det | ector,1,detector,2,det | ector,2,det | ector
+pressure,1264,2,1,pressure,1,pressure,1,pressure,1,pressure,1,pressure
+engine,1098,2,1,engine,1,engine,1,engine,1,engine,1,engine
+sulfuric,25,2,2,sulfur | ##ic,3,sul | fur | ic,2,sulf | uric,4,s | ul | fur | ic,3,s | ulf | uric
+electrical,253,2,1,electrical,2,elect | rical,1,electrical,2,elect | rical,2,elect | rical
+situ,34,2,1,situ,1,situ,1,situ,1,situ,2,s | itu
+particle,50,2,1,particle,1,particle,1,particle,1,particle,2,part | icle
+tipside,3,2,2,tips | ##ide,2,tips | ide,2,tip | side,2,tips | ide,2,tip | side
+igniton,3,2,3,ign | ##ito | ##n,2,ign | iton,2,ign | iton,2,ign | iton,2,ign | iton
+splitter,11,2,2,split | ##ter,2,split | ter,1,splitter,2,split | ter,2,split | ter
+spacer,9,2,2,space | ##r,2,sp | acer,1,spacer,2,sp | acer,2,sp | acer
+adapter,14,2,2,adapt | ##er,1,adapter,1,adapter,1,adapter,1,adapter
+probe,24,2,1,probe,1,probe,1,probe,1,probe,1,probe
+sheeth,3,2,2,sheet | ##h,2,she | eth,2,she | eth,2,she | eth,2,she | eth
+conector,3,2,2,cone | ##ctor,2,con | ector,2,con | ector,2,con | ector,2,con | ector
+acoustical,8,2,2,acoustic | ##al,3,ac | oust | ical,3,ac | oust | ical,3,ac | oust | ical,3,ac | oust | ical
+fuelfilter,2,2,3,fuel | ##fi | ##lter,3,fu | elf | ilter,4,fu | elf | il | ter,3,fu | elf | ilter,3,fu | elf | ilter
+recepticle,2,2,3,rec | ##ept | ##icle,3,re | cept | icle,3,re | cept | icle,3,re | cept | icle,3,re | cept | icle
+retificatie,2,2,5,re | ##ti | ##fi | ##cat | ##ie,3,ret | ific | atie,3,ret | ific | atie,3,ret | ific | atie,2,ret | ificatie
+carbon,32,2,1,carbon,1,carbon,1,carbon,1,carbon,1,carbon
+axis,25,2,1,axis,1,axis,1,axis,1,axis,1,axis
+ceramic,12,2,1,ceramic,2,cer | amic,1,ceramic,2,cer | amic,2,cer | amic
+oxydation,2,2,3,ox | ##yd | ##ation,3,ox | yd | ation,2,oxyd | ation,3,ox | yd | ation,3,ox | yd | ation
+lube,4,2,2,lu | ##be,2,l | ube,2,l | ube,2,l | ube,2,l | ube
+jumper,9,2,1,jumper,2,j | umper,2,j | umper,2,jum | per,2,jum | per
+cranking,3,2,2,crank | ##ing,2,cr | anking,2,cr | anking,2,cr | anking,3,c | rank | ing
+electr,2,2,2,elect | ##r,2,elect | r,2,elect | r,2,elect | r,2,elect | r
+chamber,24,2,1,chamber,2,ch | amber,1,chamber,2,ch | amber,2,ch | amber
+spherical,7,2,1,spherical,2,s | pherical,2,sph | erical,2,s | pherical,3,s | ph | erical
+mounts,5,2,1,mounts,2,mount | s,2,mount | s,2,mount | s,2,mount | s
+diameter,10,2,1,diameter,1,diameter,1,diameter,2,diam | eter,2,d | iameter
+hydro,4,2,1,hydro,1,hydro,1,hydro,2,hyd | ro,1,hydro
+lockhole,1,2,2,lock | ##hole,2,lock | hole,2,lock | hole,2,lock | hole,2,lock | hole
+bolthol,1,2,2,bolt | ##hol,3,bol | th | ol,2,bol | thol,2,bol | thol,3,bol | th | ol
+sulfiric,1,2,3,sul | ##fi | ##ric,4,s | ulf | ir | ic,3,sulf | ir | ic,4,s | ulf | ir | ic,4,s | ulf | ir | ic
+igniyion,1,2,3,ign | ##iy | ##ion,3,ign | iy | ion,3,ign | iy | ion,3,ign | iy | ion,3,ign | iy | ion
+errossion,1,2,3,er | ##ross | ##ion,3,er | ross | ion,3,er | ross | ion,3,er | ross | ion,3,er | ross | ion
+partnummer,1,2,3,part | ##num | ##mer,2,part | nummer,2,part | nummer,2,part | nummer,2,part | nummer
+insultation,1,2,2,insult | ##ation,3,ins | ult | ation,3,ins | ult | ation,3,ins | ult | ation,3,ins | ult | ation
+wearspot,1,2,2,wears | ##pot,2,wear | spot,2,wear | spot,2,wear | spot,2,wear | spot
+oilsupply,1,2,3,oils | ##up | ##ply,4,o | ils | up | ply,2,oil | supply,3,o | ils | upply,3,o | ils | upply
+oiltube,1,2,3,oil | ##tub | ##e,3,o | ilt | ube,3,o | ilt | ube,3,o | ilt | ube,3,o | ilt | ube
+torqe,1,2,3,tor | ##q | ##e,2,tor | qe,2,tor | qe,2,tor | qe,3,tor | q | e
+bconnector,1,2,3,bc | ##onne | ##ctor,2,b | connector,2,b | connector,2,b | connector,3,b | con | nector
+connectorrubber,1,2,3,connector | ##ru | ##bber,3,connector | rub | ber,2,connector | rubber,3,connector | rub | ber,4,con | nector | rub | ber
+inspecttion,1,2,2,inspect | ##tion,2,inspect | tion,2,inspect | tion,2,inspect | tion,3,ins | pect | tion
+harnees,1,2,3,ha | ##rne | ##es,3,har | ne | es,3,har | ne | es,2,har | nees,3,har | ne | es
+ancornut,1,2,3,an | ##cor | ##nut,3,anc | orn | ut,3,anc | orn | ut,3,anc | orn | ut,3,anc | orn | ut
+tubecavity,1,2,3,tube | ##ca | ##vity,3,tub | ec | avity,3,tub | ec | avity,4,t | ub | ec | avity,5,t | ub | ec | av | ity
+geerodeerde,1,2,4,gee | ##rod | ##eer | ##de,4,ge | er | ode | erde,3,ge | erode | erde,4,ge | er | ode | erde,4,ge | er | ode | erde
+connecotrs,1,2,4,con | ##ne | ##cot | ##rs,4,con | ne | cot | rs,4,con | ne | cot | rs,4,con | ne | cot | rs,4,con | ne | cot | rs
+indiameter,1,2,2,india | ##meter,2,indi | ameter,3,ind | iam | eter,2,ind | iameter,2,ind | iameter
+shutof,1,2,2,shut | ##of,3,sh | ut | of,2,shut | of,3,sh | ut | of,3,sh | ut | of
+rbberdamper,1,2,4,rb | ##ber | ##dam | ##per,4,rb | ber | dam | per,4,rb | ber | dam | per,4,rb | ber | dam | per,4,rb | ber | dam | per
+clambs,1,2,3,cl | ##am | ##bs,3,cl | amb | s,3,cl | amb | s,3,cl | amb | s,3,cl | amb | s
+excentry,1,2,3,ex | ##cent | ##ry,3,ex | cent | ry,3,ex | cent | ry,3,ex | cent | ry,3,ex | cent | ry
+discharge,4,2,1,discharge,2,dis | charge,1,discharge,2,dis | charge,2,d | ischarge
+convave,1,2,3,con | ##va | ##ve,2,conv | ave,2,conv | ave,2,conv | ave,2,conv | ave
+valave,1,2,2,val | ##ave,2,val | ave,2,val | ave,2,val | ave,2,val | ave
+spring,12,2,1,spring,1,spring,1,spring,1,spring,1,spring
+bracked,1,2,2,bra | ##cked,2,b | racked,2,br | acked,2,br | acked,2,brack | ed
+valce,1,2,2,val | ##ce,2,val | ce,2,val | ce,2,val | ce,2,val | ce
+srew,1,2,2,sr | ##ew,2,s | rew,2,s | rew,2,s | rew,2,s | rew
+gear,4,2,1,gear,1,gear,1,gear,1,gear,2,ge | ar
+engineering,8,2,1,engineering,1,engineering,1,engineering,1,engineering,2,engine | ering
+coil,2,2,1,coil,1,coil,1,coil,1,coil,2,co | il
+labyrint,1,2,3,lab | ##yr | ##int,3,lab | yr | int,3,l | aby | rint,3,lab | yr | int,3,lab | yr | int
+troubleshoot,1,2,2,troubles | ##hoot,3,tro | ubles | hoot,3,trou | bles | hoot,3,tr | oubles | hoot,3,tro | ubles | hoot
+layard,1,2,2,lay | ##ard,2,lay | ard,2,lay | ard,2,lay | ard,2,lay | ard
+weft,1,2,2,we | ##ft,2,we | ft,2,we | ft,2,we | ft,2,we | ft
+land,5,2,1,land,1,land,1,land,1,land,1,land
+overload,1,2,2,over | ##load,2,over | load,2,over | load,2,over | load,2,over | load
+circumference,1,2,4,ci | ##rc | ##um | ##ference,3,circ | um | ference,2,circum | ference,3,circ | um | ference,3,circ | um | ference
+pedestal,1,2,1,pedestal,2,ped | estal,2,ped | estal,2,ped | estal,2,ped | estal
+breakaway,1,2,1,breakaway,2,break | away,2,break | away,2,break | away,3,bre | aka | way
+tow,1,2,1,tow,1,tow,1,tow,1,tow,2,t | ow
+collar,1,2,1,collar,2,c | ollar,1,collar,2,coll | ar,2,c | ollar
+pipe,1,2,1,pipe,1,pipe,1,pipe,1,pipe,1,pipe
+hybrid,1,2,1,hybrid,1,hybrid,1,hybrid,2,hy | brid,2,hy | brid
+shock,1,2,1,shock,1,shock,1,shock,1,shock,2,sh | ock
+joint,1,2,1,joint,1,joint,1,joint,1,joint,1,joint
+dampener,142,3,2,damp | ##ener,3,d | amp | ener,3,d | amp | ener,3,d | amp | ener,3,d | amp | ener
+popout,14,3,2,pop | ##out,2,pop | out,2,pop | out,2,pop | out,2,pop | out
+wiring,36,3,1,wiring,2,w | iring,1,wiring,2,w | iring,2,w | iring
+thread,68,3,1,thread,1,thread,1,thread,1,thread,1,thread
+lanyard,10,3,2,lan | ##yard,3,l | any | ard,2,l | anyard,2,lany | ard,3,l | any | ard
+carryover,2,3,2,carry | ##over,2,carry | over,2,carry | over,2,carry | over,3,car | ry | over
+configuration,6,3,1,configuration,1,configuration,1,configuration,1,configuration,1,configuration
+scouring,1,3,2,sc | ##ouring,3,sc | our | ing,2,sc | ouring,2,sc | ouring,3,sc | our | ing
+porous,1,3,2,por | ##ous,2,por | ous,2,por | ous,2,por | ous,2,por | ous
+unbonded,175,3,3,un | ##bon | ##ded,3,un | bond | ed,2,un | bonded,3,un | bond | ed,3,un | bond | ed
+tipcorner,19,3,3,tip | ##cor | ##ner,2,tip | corner,2,tip | corner,2,tip | corner,3,tip | cor | ner
+duct,329,3,1,duct,1,duct,1,duct,1,duct,1,duct
+contaiment,13,3,3,con | ##tai | ##ment,3,cont | a | iment,2,conta | iment,3,cont | a | iment,3,con | ta | iment
+chafing,62,3,3,cha | ##fin | ##g,3,ch | af | ing,3,ch | af | ing,3,ch | af | ing,3,ch | af | ing
+bolt,360,3,1,bolt,1,bolt,1,bolt,1,bolt,1,bolt
+cone,388,3,1,cone,1,cone,1,cone,1,cone,1,cone
+containment,123,3,1,containment,2,cont | ainment,2,contain | ment,2,contain | ment,2,cont | ainment
+serviceable,64,3,2,service | ##able,2,service | able,2,service | able,2,service | able,2,service | able
+washer,45,3,2,wash | ##er,1,washer,1,washer,1,washer,2,was | her
+generator,187,3,1,generator,1,generator,1,generator,1,generator,1,generator
+insulation,75,3,1,insulation,2,ins | ulation,2,ins | ulation,2,ins | ulation,2,ins | ulation
+notch,87,3,1,notch,2,not | ch,1,notch,2,not | ch,2,not | ch
+cocking,23,3,2,cock | ##ing,2,cock | ing,2,cock | ing,2,cock | ing,2,cock | ing
+indicator,97,3,1,indicator,1,indicator,1,indicator,1,indicator,2,ind | icator
+bracket,137,3,1,bracket,2,b | racket,1,bracket,2,br | acket,2,brack | et
+fault,131,3,1,fault,1,fault,1,fault,1,fault,2,f | ault
+shield,214,3,1,shield,1,shield,1,shield,1,shield,1,shield
+nick,341,3,1,nick,1,nick,1,nick,1,nick,1,nick
+finding,417,3,1,finding,1,finding,1,finding,1,finding,2,f | inding
+wire,122,3,1,wire,1,wire,1,wire,1,wire,1,wire
+defect,40,3,1,defect,2,def | ect,1,defect,2,def | ect,2,def | ect
+braid,18,3,1,braid,2,bra | id,2,bra | id,2,bra | id,2,bra | id
+blend,55,3,1,blend,1,blend,1,blend,1,blend,2,bl | end
+stage,950,3,1,stage,1,stage,1,stage,1,stage,1,stage
+core,152,3,1,core,1,core,1,core,1,core,1,core
+tail,65,3,1,tail,1,tail,1,tail,1,tail,1,tail
+fluorescent,13,3,1,fluorescent,3,flu | ores | cent,2,flu | orescent,3,flu | ores | cent,2,flu | orescent
+shutoff,5,3,2,shut | ##off,3,sh | ut | off,2,shut | off,3,sh | ut | off,3,sh | ut | off
+debris,22,3,1,debris,2,de | bris,1,debris,2,de | bris,2,de | bris
+ingnition,2,3,3,ing | ##ni | ##tion,2,ing | nition,3,ing | n | ition,3,ing | n | ition,3,ing | n | ition
+dome,25,3,1,dome,2,d | ome,1,dome,2,d | ome,2,d | ome
+terminal,40,3,1,terminal,1,terminal,1,terminal,1,terminal,1,terminal
+unison,9,3,1,unison,2,un | ison,2,un | ison,2,un | ison,2,un | ison
+root,29,3,1,root,1,root,1,root,1,root,1,root
+frame,43,3,1,frame,1,frame,1,frame,1,frame,1,frame
+checklist,11,3,2,check | ##list,2,check | list,1,checklist,2,check | list,2,check | list
+tension,21,3,1,tension,2,t | ension,1,tension,2,t | ension,2,t | ension
+preservation,25,3,1,preservation,2,pres | ervation,2,pres | ervation,2,pres | ervation,2,pres | ervation
+rod,17,3,1,rod,1,rod,1,rod,1,rod,1,rod
+component,24,3,1,component,1,component,1,component,1,component,1,component
+acoustic,20,3,1,acoustic,1,acoustic,1,acoustic,2,ac | oustic,2,ac | oustic
+eroded,7,3,1,eroded,2,er | oded,2,er | oded,2,er | oded,2,er | oded
+blanket,6,3,1,blanket,2,blank | et,2,blank | et,2,blank | et,2,blank | et
+authority,37,3,1,authority,1,authority,1,authority,1,authority,2,author | ity
+disk,8,3,1,disk,1,disk,1,disk,1,disk,1,disk
+inspect,5,3,1,inspect,1,inspect,1,inspect,1,inspect,2,ins | pect
+bypassed,5,3,1,bypassed,3,b | ypass | ed,3,b | yp | assed,3,b | yp | assed,3,b | yp | assed
+protrusion,3,3,3,pro | ##tr | ##usion,3,pro | tr | usion,3,pro | tr | usion,3,pro | tr | usion,3,pro | tr | usion
+quad,5,3,1,quad,1,quad,1,quad,1,quad,1,quad
+booth,6,3,1,booth,2,bo | oth,2,bo | oth,2,bo | oth,2,bo | oth
+locking,4,3,1,locking,2,lock | ing,1,locking,1,locking,2,lock | ing
+plugs,3,3,2,plug | ##s,2,pl | ugs,2,pl | ugs,2,pl | ugs,2,plug | s
+port,16,3,1,port,1,port,1,port,1,port,1,port
+barrel,5,3,1,barrel,2,bar | rel,1,barrel,2,bar | rel,2,bar | rel
+failure,11,3,1,failure,1,failure,1,failure,1,failure,1,failure
+ground,21,3,1,ground,1,ground,1,ground,1,ground,1,ground
+structural,6,3,1,structural,1,structural,1,structural,2,struct | ural,2,struct | ural
+leakge,1,3,2,leak | ##ge,3,le | ak | ge,2,leak | ge,3,le | ak | ge,3,le | ak | ge
+hoseclamp,1,3,3,hose | ##cl | ##amp,4,h | ose | cl | amp,2,hose | clamp,3,hose | cl | amp,4,h | ose | cl | amp
+oilcover,1,3,3,oil | ##co | ##ver,2,oil | cover,2,oil | cover,2,oil | cover,3,o | il | cover
+surfaceprotection,1,3,4,surface | ##pro | ##tec | ##tion,2,surface | protection,2,surface | protection,3,surface | pro | tection,3,surface | prote | ction
+lekkage,1,3,3,le | ##kka | ##ge,3,le | kk | age,3,le | kk | age,3,le | kk | age,3,le | kk | age
+crancking,1,3,3,cr | ##an | ##cking,4,c | ran | ck | ing,2,cran | cking,3,cran | ck | ing,4,c | ran | ck | ing
+drainline,1,3,2,drain | ##line,3,d | rain | line,2,drain | line,3,dr | ain | line,3,d | rain | line
+innersurface,1,3,3,inner | ##sur | ##face,2,inners | urface,3,in | ners | urface,2,inners | urface,2,inners | urface
+concaveside,1,3,3,con | ##cave | ##side,3,conc | aves | ide,3,conc | aves | ide,3,conc | aves | ide,3,conc | aves | ide
+servicability,1,3,3,ser | ##vic | ##ability,3,serv | ic | ability,2,servic | ability,3,serv | ic | ability,3,serv | ic | ability
+housimg,1,3,4,ho | ##us | ##im | ##g,2,hous | img,2,hous | img,3,h | ous | img,3,h | ous | img
+insideconnector,1,3,4,inside | ##con | ##ne | ##ctor,2,inside | connector,2,inside | connector,2,inside | connector,3,inside | con | nector
+ingition,1,3,2,ing | ##ition,2,ing | ition,2,ing | ition,2,ing | ition,2,ing | ition
+ignieter,1,3,3,ign | ##ie | ##ter,2,ign | ieter,3,ign | i | eter,2,ign | ieter,3,ign | i | eter
+cicumferential,1,3,4,ci | ##cum | ##fer | ##ential,3,c | icum | ferential,4,c | icum | fer | ential,4,c | icum | fer | ential,4,c | icum | fer | ential
+worksope,1,3,2,works | ##ope,3,work | so | pe,3,work | so | pe,3,work | so | pe,3,work | so | pe
+frontbrake,1,3,3,front | ##bra | ##ke,3,front | bra | ke,2,front | brake,3,front | br | ake,3,front | bra | ke
+connectpoint,1,3,2,connect | ##point,2,connect | point,2,connect | point,2,connect | point,2,connect | point
+geconformeerd,1,3,5,ge | ##con | ##form | ##eer | ##d,4,ge | con | forme | erd,4,ge | con | forme | erd,4,ge | con | forme | erd,4,ge | con | forme | erd
+dectector,1,3,3,dec | ##tec | ##tor,3,de | ct | ector,3,d | ect | ector,3,d | ect | ector,3,de | ct | ector
+supplyfilter,1,3,3,supply | ##fi | ##lter,2,supply | filter,2,supply | filter,3,s | upply | filter,3,supp | ly | filter
+pinsbolt,1,3,2,pins | ##bolt,2,pins | bolt,2,pins | bolt,2,pins | bolt,2,pins | bolt
+ratchet,2,3,2,rat | ##chet,2,rat | chet,2,rat | chet,2,rat | chet,2,rat | chet
+switching,4,3,1,switching,2,switch | ing,1,switching,2,switch | ing,2,switch | ing
+protusion,1,3,3,pro | ##tus | ##ion,2,prot | usion,2,prot | usion,2,prot | usion,2,prot | usion
+builup,1,3,3,bu | ##il | ##up,2,bu | ilup,3,bu | il | up,3,b | uil | up,3,bu | il | up
+fualt,1,3,3,fu | ##al | ##t,3,f | ual | t,3,f | ual | t,3,f | ual | t,3,f | ual | t
+overhang,2,3,2,over | ##hang,2,over | hang,2,over | hang,2,over | hang,2,over | hang
+zone,8,3,1,zone,1,zone,1,zone,1,zone,1,zone
+labirinth,1,3,4,lab | ##iri | ##nt | ##h,3,lab | ir | inth,3,lab | ir | inth,3,lab | ir | inth,3,lab | ir | inth
+assembley,1,3,2,assemble | ##y,3,ass | emb | ley,2,assemble | y,2,assemble | y,2,ass | embley
+beam,4,3,1,beam,1,beam,1,beam,1,beam,1,beam
+distress,3,3,1,distress,2,dist | ress,2,dist | ress,2,dist | ress,2,dist | ress
+findings,4,3,1,findings,2,find | ings,1,findings,2,find | ings,2,find | ings
+recoat,1,3,2,rec | ##oat,2,re | coat,2,re | coat,2,re | coat,3,re | co | at
+channel,8,3,1,channel,1,channel,1,channel,1,channel,1,channel
+flex,2,3,1,flex,1,flex,1,flex,1,flex,1,flex
+roughedge,1,3,2,rough | ##edge,3,ro | ughed | ge,3,rou | g | hedge,4,rou | g | hed | ge,4,rou | g | hed | ge
+rotation,3,3,1,rotation,1,rotation,1,rotation,1,rotation,1,rotation
+sheild,1,3,3,she | ##il | ##d,2,she | ild,2,she | ild,2,she | ild,2,she | ild
+hardware,3,3,1,hardware,1,hardware,1,hardware,1,hardware,2,hard | ware
+chaffing,1,3,3,cha | ##ffin | ##g,2,chaff | ing,3,ch | aff | ing,3,ch | aff | ing,2,chaff | ing
+packing,2,3,1,packing,1,packing,1,packing,1,packing,2,pack | ing
+unthreaded,1,3,4,un | ##th | ##rea | ##ded,3,un | thread | ed,2,un | threaded,3,un | thread | ed,3,un | thread | ed
+foil,2,3,1,foil,1,foil,1,foil,1,foil,2,fo | il
+union,8,3,1,union,1,union,1,union,1,union,1,union
+manhandling,1,3,3,man | ##hand | ##ling,2,man | handling,2,man | handling,2,man | handling,3,man | hand | ling
+strike,3,3,1,strike,1,strike,1,strike,1,strike,2,st | rike
+cluster,2,3,1,cluster,1,cluster,1,cluster,1,cluster,1,cluster
+config,1,3,3,con | ##fi | ##g,1,config,1,config,1,config,1,config
+familiarization,1,3,2,familiar | ##ization,3,f | amiliar | ization,2,familiar | ization,3,f | amiliar | ization,3,famil | iar | ization
+granule,1,3,2,gran | ##ule,2,gran | ule,2,gran | ule,2,gran | ule,2,gran | ule
+delta,2,3,1,delta,1,delta,1,delta,1,delta,1,delta
+conformance,1,3,2,conform | ##ance,2,con | formance,2,con | formance,2,con | formance,2,con | formance
+separator,1,3,3,sep | ##arat | ##or,1,separator,1,separator,1,separator,2,se | parator
+rework,1,3,2,re | ##work,2,re | work,2,re | work,2,re | work,2,re | work
+graze,1,3,2,graz | ##e,2,gra | ze,2,gra | ze,2,gra | ze,2,gra | ze
+bead,1,3,2,bea | ##d,2,be | ad,2,be | ad,2,be | ad,2,be | ad
+conformation,1,3,2,conform | ##ation,2,con | formation,2,con | formation,2,con | formation,2,con | formation
+override,1,3,2,over | ##ride,1,override,1,override,1,override,1,override
+molten,1,3,1,molten,2,mol | ten,2,mol | ten,2,mol | ten,2,mol | ten
+mass,2,3,1,mass,1,mass,1,mass,1,mass,1,mass
+fade,1,3,1,fade,1,fade,1,fade,1,fade,1,fade
+elbow,1,3,1,elbow,2,el | bow,1,elbow,2,el | bow,2,el | bow
+regulating,1,3,1,regulating,2,reg | ulating,1,regulating,2,reg | ulating,2,reg | ulating
+crater,1,3,1,crater,2,cr | ater,2,cr | ater,2,cr | ater,2,cr | ater
+jacket,1,3,1,jacket,2,j | acket,1,jacket,2,j | acket,2,j | acket
+film,3,3,1,film,1,film,1,film,1,film,1,film
+modification,1,3,1,modification,2,mod | ification,1,modification,2,mod | ification,2,mod | ification
+capped,1,3,1,capped,2,c | apped,1,capped,2,c | apped,2,c | apped
+log,1,3,1,log,1,log,1,log,1,log,1,log
+requirement,1,3,1,requirement,2,require | ment,1,requirement,2,require | ment,2,require | ment
+firing,1,3,1,firing,2,f | iring,1,firing,2,f | iring,2,f | iring
+balance,1,3,1,balance,1,balance,1,balance,1,balance,1,balance
+window,1,3,1,window,1,window,1,window,1,window,1,window
+sector,1,3,1,sector,1,sector,1,sector,1,sector,2,se | ctor
+capacity,1,3,1,capacity,1,capacity,1,capacity,1,capacity,2,cap | acity
+profile,1,3,1,profile,1,profile,1,profile,1,profile,1,profile
+band,1,3,1,band,1,band,1,band,1,band,1,band
+cavity,4,3,1,cavity,2,c | avity,2,cav | ity,2,c | avity,3,c | av | ity
+indentation,1,3,2,ind | ##entation,2,ind | entation,2,indent | ation,2,indent | ation,2,ind | entation
+track,1,3,1,track,1,track,1,track,1,track,1,track
+coating,582,3,1,coating,2,co | ating,1,coating,2,co | ating,2,co | ating
+blade,1503,3,1,blade,1,blade,1,blade,1,blade,2,bl | ade
+booster,88,3,1,booster,2,bo | oster,2,bo | oster,2,bo | oster,2,bo | oster
+starter,288,3,1,starter,1,starter,1,starter,1,starter,2,st | arter
+rub,51,3,1,rub,1,rub,1,rub,1,rub,1,rub
+fan,758,3,1,fan,1,fan,1,fan,1,fan,1,fan
+buildup,56,3,2,build | ##up,2,build | up,3,bu | il | dup,3,b | uil | dup,3,bu | il | dup
+mount,1200,3,1,mount,1,mount,1,mount,1,mount,1,mount
+dim,53,3,1,dim,1,dim,1,dim,1,dim,1,dim
+link,666,3,1,link,1,link,1,link,1,link,1,link
+flow,471,3,1,flow,1,flow,1,flow,1,flow,1,flow
+dimensional,154,3,1,dimensional,1,dimensional,1,dimensional,2,dim | ensional,1,dimensional
+deviation,46,3,1,deviation,2,dev | iation,1,deviation,2,de | viation,2,de | viation
+plate,176,3,1,plate,1,plate,1,plate,1,plate,1,plate
+heater,20,3,2,heat | ##er,2,he | ater,1,heater,1,heater,1,heater
+shafing,3,3,3,sha | ##fin | ##g,3,sh | af | ing,3,sh | af | ing,3,sh | af | ing,3,sh | af | ing
+indication,56,3,1,indication,2,indic | ation,1,indication,2,ind | ication,2,ind | ication
+chip,47,3,1,chip,1,chip,1,chip,1,chip,1,chip
+groove,34,3,1,groove,2,gro | ove,2,gro | ove,2,gro | ove,2,gro | ove
+flaking,6,3,2,fl | ##aking,2,fl | aking,2,fl | aking,2,fl | aking,2,fl | aking
+cradle,16,3,1,cradle,2,cr | adle,2,c | radle,2,cr | adle,3,c | rad | le
+burnmark,2,3,2,burn | ##mark,2,burn | mark,2,burn | mark,2,burn | mark,2,burn | mark
+destructive,18,3,1,destructive,2,d | estructive,1,destructive,2,des | tructive,3,dest | ruct | ive
+interval,17,3,1,interval,1,interval,1,interval,1,interval,1,interval
+reference,103,3,1,reference,1,reference,1,reference,1,reference,1,reference
+looseness,4,3,2,loosen | ##ess,3,lo | osen | ess,3,lo | osen | ess,3,lo | osen | ess,3,lo | osen | ess
+serial,29,3,1,serial,1,serial,1,serial,1,serial,1,serial
+play,373,3,1,play,1,play,1,play,1,play,1,play
+switch,21,3,1,switch,1,switch,1,switch,1,switch,1,switch
+control,140,3,1,control,1,control,1,control,1,control,1,control
+disconnect,5,3,3,disco | ##nne | ##ct,1,disconnect,1,disconnect,1,disconnect,2,dis | connect
+metallic,9,3,1,metallic,2,metal | lic,1,metallic,2,metal | lic,2,met | allic
+residue,6,3,1,residue,2,res | idue,2,resid | ue,2,res | idue,3,res | id | ue
+tag,10,3,1,tag,1,tag,1,tag,1,tag,1,tag
+digital,38,3,1,digital,1,digital,1,digital,1,digital,1,digital
+bench,13,3,1,bench,1,bench,1,bench,1,bench,1,bench
+radius,8,3,1,radius,1,radius,1,radius,1,radius,1,radius
+hang,8,3,1,hang,1,hang,1,hang,1,hang,1,hang
+software,18,3,1,software,1,software,1,software,1,software,1,software
+corrective,4,3,2,correct | ##ive,2,correct | ive,2,correct | ive,2,correct | ive,2,correct | ive
+unscheduled,3,3,4,un | ##sche | ##du | ##led,2,uns | cheduled,2,uns | cheduled,2,uns | cheduled,2,uns | cheduled
+flake,3,3,2,fl | ##ake,1,flake,1,flake,1,flake,2,fl | ake
+thickness,5,3,1,thickness,1,thickness,1,thickness,2,th | ickness,2,th | ickness
+tightening,3,3,1,tightening,2,tight | ening,2,tight | ening,2,tight | ening,3,t | ight | ening
+regulation,8,3,1,regulation,1,regulation,1,regulation,2,reg | ulation,1,regulation
+rating,9,3,1,rating,1,rating,1,rating,1,rating,1,rating
+detection,5,3,1,detection,2,d | etection,1,detection,2,d | etection,2,d | etection
+marking,6,3,1,marking,2,mark | ing,1,marking,2,mark | ing,2,mark | ing
+trough,3,3,1,trough,2,t | rough,2,t | rough,2,tr | ough,2,t | rough
+integrated,8,3,1,integrated,2,integr | ated,1,integrated,2,integr | ated,2,integr | ated
+adjustable,3,3,1,adjustable,2,adjust | able,1,adjustable,2,adjust | able,3,ad | just | able
+nodeviation,1,3,3,node | ##via | ##tion,2,node | viation,2,node | viation,2,node | viation,2,node | viation
+clearnace,1,3,3,clear | ##nac | ##e,3,cle | arn | ace,3,cle | arn | ace,3,cle | arn | ace,3,cle | arn | ace
+completionkit,1,3,2,completion | ##kit,2,completion | kit,2,completion | kit,2,completion | kit,3,com | pletion | kit
+concavesurface,1,3,4,con | ##cave | ##sur | ##face,3,conc | aves | urface,3,conc | aves | urface,3,conc | aves | urface,3,conc | aves | urface
+bypasst,1,3,2,bypass | ##t,4,b | yp | as | st,4,b | yp | as | st,4,b | yp | as | st,3,b | yp | asst
+crackat,1,3,2,crack | ##at,3,c | rack | at,2,crack | at,3,cr | ack | at,3,c | rack | at
+varnisch,1,3,3,var | ##nis | ##ch,3,var | n | isch,2,varn | isch,3,var | n | isch,3,var | n | isch
+fromvalvs,1,3,3,from | ##val | ##vs,3,from | val | vs,3,from | val | vs,3,from | val | vs,3,from | val | vs
+restraint,3,3,1,restraint,2,rest | raint,2,rest | raint,2,rest | raint,2,rest | raint
+notches,2,3,2,notch | ##es,2,not | ches,2,not | ches,2,not | ches,2,not | ches
+blistering,2,3,3,b | ##list | ##ering,3,bl | ister | ing,3,bl | ister | ing,3,bl | ister | ing,3,bl | ister | ing
+sperical,1,3,3,sp | ##eric | ##al,3,s | per | ical,3,s | per | ical,3,s | per | ical,3,s | per | ical
+cell,5,3,1,cell,1,cell,1,cell,1,cell,1,cell
+symptom,2,3,3,sy | ##mpt | ##om,2,sym | ptom,3,s | ympt | om,2,sym | ptom,3,sym | pt | om
+bar,6,3,1,bar,1,bar,1,bar,1,bar,1,bar
+defective,2,3,1,defective,2,def | ective,2,def | ective,2,def | ective,2,def | ective
+anchor,3,3,1,anchor,1,anchor,1,anchor,1,anchor,1,anchor
+section,8,3,1,section,1,section,1,section,1,section,1,section
+conform,2,3,1,conform,1,conform,1,conform,2,con | form,2,con | form
+humidity,2,3,1,humidity,2,hum | idity,1,humidity,1,humidity,2,hum | idity
+retention,2,3,1,retention,2,ret | ention,2,ret | ention,2,ret | ention,2,ret | ention
+disfiguration,1,3,4,di | ##sf | ##ig | ##uration,2,dis | figuration,2,dis | figuration,2,dis | figuration,3,dis | fig | uration
+signal,3,3,1,signal,1,signal,1,signal,1,signal,1,signal
+suspect,2,3,1,suspect,2,sus | pect,2,sus | pect,2,sus | pect,2,sus | pect
+pocket,2,3,1,pocket,2,p | ocket,1,pocket,2,p | ocket,2,p | ocket
+lease,2,3,1,lease,1,lease,1,lease,1,lease,1,lease
+shoulder,2,3,1,shoulder,2,sh | oulder,1,shoulder,2,should | er,2,should | er
+stem,2,3,1,stem,1,stem,1,stem,1,stem,1,stem
+swab,1,3,2,sw | ##ab,2,sw | ab,2,sw | ab,2,sw | ab,2,sw | ab
+screwdriver,1,3,3,screw | ##drive | ##r,3,s | crew | driver,1,screwdriver,3,s | crew | driver,4,s | cre | wd | river
+shell,2,3,1,shell,1,shell,1,shell,1,shell,1,shell
+locator,1,3,3,lo | ##cat | ##or,2,loc | ator,1,locator,1,locator,2,loc | ator
+shank,1,3,2,shan | ##k,2,sh | ank,1,shank,2,sh | ank,2,sh | ank
+weight,2,3,1,weight,1,weight,1,weight,1,weight,1,weight
+restrain,1,3,1,restrain,2,rest | rain,2,rest | rain,2,restr | ain,2,rest | rain
+bridge,2,3,1,bridge,1,bridge,1,bridge,1,bridge,1,bridge
+grooves,1,3,1,grooves,2,gro | oves,2,gro | oves,2,gro | oves,2,gro | oves
+deficiency,1,3,1,deficiency,2,def | iciency,2,def | iciency,2,def | iciency,2,def | iciency
+distribution,2,3,1,distribution,1,distribution,1,distribution,1,distribution,2,dist | ribution
+key,2,3,1,key,1,key,1,key,1,key,1,key
+spark,1,3,1,spark,1,spark,1,spark,1,spark,1,spark
+texture,1,3,1,texture,1,texture,1,texture,1,texture,1,texture
+monitoring,1,3,1,monitoring,1,monitoring,1,monitoring,2,monitor | ing,2,monitor | ing
+functional,1,3,1,functional,1,functional,1,functional,1,functional,1,functional
+witness,1,3,1,witness,2,w | itness,1,witness,2,w | itness,2,w | itness
+shift,1,3,1,shift,1,shift,1,shift,1,shift,1,shift
+approval,1,3,1,approval,1,approval,1,approval,1,approval,1,approval
+schedule,1,3,1,schedule,1,schedule,1,schedule,1,schedule,1,schedule
+analysis,1,3,1,analysis,1,analysis,1,analysis,1,analysis,1,analysis
+hold,1,3,1,hold,1,hold,1,hold,1,hold,1,hold
+seat,1,3,1,seat,1,seat,1,seat,1,seat,1,seat
+release,1,3,1,release,1,release,1,release,1,release,1,release
+run,1,3,1,run,1,run,1,run,1,run,1,run
+clamp,68,3,2,cl | ##amp,2,cl | amp,1,clamp,2,cl | amp,2,cl | amp
+wet,28,3,1,wet,1,wet,1,wet,1,wet,1,wet
+arm,18,3,1,arm,1,arm,1,arm,1,arm,1,arm
+trace,3,3,1,trace,1,trace,1,trace,1,trace,1,trace
+resilient,1,3,3,res | ##ili | ##ent,2,res | ilient,2,res | ilient,3,res | il | ient,2,res | ilient
+major,1,3,1,major,1,major,1,major,1,major,1,major
+bolthole,51,3,2,bolt | ##hole,3,bol | th | ole,2,bol | thole,3,bol | th | ole,3,bol | th | ole
+subtask,56,3,3,sub | ##tas | ##k,2,sub | task,2,sub | task,2,sub | task,2,sub | task
+dent,693,3,1,dent,1,dent,1,dent,1,dent,2,d | ent
+partnumber,16,3,3,part | ##num | ##ber,2,part | number,2,part | number,2,part | number,2,part | number
+ignit,14,3,2,ign | ##it,2,ign | it,2,ign | it,2,ign | it,1,ignit
+hose,200,3,1,hose,2,h | ose,1,hose,1,hose,2,h | ose
+plug,345,3,1,plug,1,plug,1,plug,1,plug,1,plug
+filter,305,3,1,filter,1,filter,1,filter,1,filter,1,filter
+tube,526,3,1,tube,2,t | ube,1,tube,1,tube,1,tube
+bumper,94,3,1,bumper,2,bum | per,1,bumper,2,bum | per,2,bum | per
+clearence,7,3,2,clear | ##ence,2,clear | ence,2,cle | arence,2,clear | ence,2,clear | ence
+pin,222,3,1,pin,1,pin,1,pin,1,pin,1,pin
+inpection,5,3,3,in | ##pe | ##ction,2,in | pection,2,in | pection,2,in | pection,2,in | pection
+retification,6,3,3,re | ##ti | ##fication,2,ret | ification,2,ret | ification,2,ret | ification,2,ret | ification
+syst,19,3,2,sy | ##st,1,syst,1,syst,2,s | yst,2,s | yst
+clock,300,3,1,clock,1,clock,1,clock,1,clock,1,clock
+unbounded,26,3,3,un | ##bound | ##ed,2,un | bounded,2,un | bounded,2,un | bounded,3,un | bound | ed
+threadmark,4,3,2,thread | ##mark,2,thread | mark,2,thread | mark,2,thread | mark,2,thread | mark
+migration,176,3,1,migration,1,migration,1,migration,1,migration,2,m | igration
+guide,837,3,1,guide,1,guide,1,guide,1,guide,1,guide
+cable,199,3,1,cable,2,c | able,1,cable,2,c | able,2,c | able
+edge,506,3,1,edge,1,edge,1,edge,1,edge,1,edge
+damage,448,3,1,damage,1,damage,1,damage,1,damage,2,dam | age
+barrier,94,3,1,barrier,2,bar | rier,1,barrier,2,bar | rier,2,bar | rier
+condition,369,3,1,condition,1,condition,1,condition,1,condition,1,condition
+shaving,19,3,2,sha | ##ving,2,sh | aving,2,sh | aving,2,sh | aving,2,sh | aving
+clereance,3,3,3,cl | ##ere | ##ance,3,cl | ere | ance,3,cl | ere | ance,3,cl | ere | ance,3,cl | ere | ance
+panel,170,3,1,panel,1,panel,1,panel,1,panel,1,panel
+cracke,4,3,2,crack | ##e,3,c | rack | e,2,crack | e,3,cr | ack | e,3,c | rack | e
+screw,32,3,1,screw,2,s | crew,1,screw,2,s | crew,2,s | crew
+bowl,104,3,1,bowl,2,b | owl,1,bowl,2,b | owl,2,bow | l
+ring,140,3,1,ring,1,ring,1,ring,1,ring,1,ring
+impact,257,3,1,impact,1,impact,1,impact,1,impact,2,imp | act
+material,301,3,1,material,1,material,1,material,1,material,1,material
+drive,183,3,1,drive,1,drive,1,drive,1,drive,1,drive
+lever,20,3,1,lever,1,lever,1,lever,1,lever,1,lever
+tank,71,3,1,tank,1,tank,1,tank,1,tank,2,t | ank
+segment,57,3,1,segment,1,segment,1,segment,1,segment,1,segment
+cooler,17,3,1,cooler,2,co | oler,1,cooler,2,cool | er,2,co | oler
+standard,242,3,1,standard,1,standard,1,standard,1,standard,1,standard
+procedure,38,3,1,procedure,1,procedure,1,procedure,1,procedure,2,pro | cedure
+elongatad,2,3,3,el | ##onga | ##tad,3,elong | at | ad,3,elong | at | ad,3,elong | at | ad,3,elong | at | ad
+tamplate,2,3,2,tam | ##plate,2,tam | plate,2,tam | plate,2,tam | plate,3,t | am | plate
+leakeage,2,3,3,leak | ##ea | ##ge,3,le | ake | age,3,le | ake | age,3,le | ake | age,3,le | ake | age
+oflimit,2,3,3,of | ##lim | ##it,2,ofl | imit,2,of | limit,2,of | limit,3,o | fl | imit
+flowt,2,3,2,flow | ##t,2,flow | t,2,flow | t,2,flow | t,2,flow | t
+ball,73,3,1,ball,1,ball,1,ball,1,ball,1,ball
+surface,107,3,1,surface,1,surface,1,surface,1,surface,1,surface
+screen,71,3,1,screen,1,screen,1,screen,1,screen,1,screen
+chaving,2,3,2,cha | ##ving,2,ch | aving,2,ch | aving,2,ch | aving,2,ch | aving
+posotion,2,3,3,po | ##so | ##tion,2,pos | otion,2,pos | otion,2,pos | otion,2,pos | otion
+contact,64,3,1,contact,1,contact,1,contact,1,contact,1,contact
+deposit,16,3,1,deposit,1,deposit,1,deposit,1,deposit,2,de | posit
+lead,294,3,1,lead,1,lead,1,lead,1,lead,1,lead
+test,72,3,1,test,1,test,1,test,1,test,1,test
+exchang,2,3,2,ex | ##chang,2,ex | chang,2,ex | chang,2,ex | chang,3,ex | ch | ang
+pop,63,3,1,pop,1,pop,1,pop,1,pop,1,pop
+position,241,3,1,position,1,position,1,position,1,position,1,position
+protection,53,3,1,protection,1,protection,1,protection,2,pro | tection,2,prote | ction
+leading,171,3,1,leading,1,leading,1,leading,1,leading,1,leading
+code,47,3,1,code,1,code,1,code,1,code,1,code
+strip,18,3,1,strip,1,strip,1,strip,1,strip,1,strip
+output,19,3,1,output,1,output,1,output,1,output,1,output
+cover,69,3,1,cover,1,cover,1,cover,1,cover,1,cover
+inbound,5,3,2,in | ##bound,2,in | bound,2,in | bound,2,in | bound,2,in | bound
+installation,16,3,1,installation,1,installation,1,installation,1,installation,2,install | ation
+insert,7,3,1,insert,1,insert,1,insert,1,insert,1,insert
+attachment,8,3,1,attachment,1,attachment,1,attachment,1,attachment,1,attachment
+tape,12,3,1,tape,1,tape,1,tape,2,t | ape,1,tape
+level,127,3,1,level,1,level,1,level,1,level,1,level
+par,9,3,1,par,1,par,1,par,1,par,1,par
+sight,12,3,1,sight,2,s | ight,1,sight,2,s | ight,2,s | ight
+lip,7,3,1,lip,1,lip,1,lip,1,lip,1,lip
+parent,13,3,1,parent,1,parent,1,parent,1,parent,1,parent
+seating,8,3,1,seating,2,se | ating,2,se | ating,2,se | ating,2,se | ating
+safety,20,3,1,safety,2,s | afety,1,safety,2,s | afety,2,s | afety
+pollution,7,3,1,pollution,2,poll | ution,1,pollution,2,poll | ution,2,poll | ution
+flush,4,3,1,flush,1,flush,1,flush,1,flush,1,flush
+mismatch,3,3,3,mis | ##mat | ##ch,2,m | ismatch,2,m | ismatch,2,m | ismatch,3,m | ism | atch
+connection,15,3,1,connection,1,connection,1,connection,1,connection,1,connection
+hook,6,3,1,hook,1,hook,1,hook,1,hook,1,hook
+correction,4,3,1,correction,2,corre | ction,1,correction,2,cor | rection,2,cor | rection
+command,14,3,1,command,1,command,1,command,1,command,1,command
+memory,10,3,1,memory,1,memory,1,memory,1,memory,1,memory
+leaking,3,3,1,leaking,2,le | aking,2,le | aking,2,le | aking,2,le | aking
+clogging,2,3,3,cl | ##og | ##ging,3,cl | og | ging,3,cl | og | ging,3,cl | og | ging,3,cl | og | ging
+horizontal,5,3,1,horizontal,1,horizontal,1,horizontal,1,horizontal,1,horizontal
+minimum,7,3,1,minimum,1,minimum,1,minimum,1,minimum,1,minimum
+mispositionering,1,3,3,mis | ##position | ##ering,3,mis | position | ering,3,mis | position | ering,3,mis | position | ering,3,mis | position | ering
+clockmissing,1,3,3,clock | ##mis | ##sing,2,clock | missing,2,clock | missing,2,clock | missing,2,clock | missing
+boltset,1,3,2,bolts | ##et,2,bolt | set,2,bolt | set,2,bolt | set,3,bol | ts | et
+enigine,1,3,3,en | ##ig | ##ine,2,enig | ine,2,enig | ine,2,enig | ine,2,enig | ine
+coveringapprox,1,3,4,covering | ##app | ##ro | ##x,2,covering | approx,2,covering | approx,3,cover | ing | approx,3,cover | ing | approx
+sealnot,1,3,2,seal | ##not,3,se | al | not,2,seal | not,2,seal | not,3,se | al | not
+ajustable,1,3,3,aj | ##ust | ##able,3,aj | ust | able,3,aj | ust | able,3,aj | ust | able,3,aj | ust | able
+coatin,1,3,2,coat | ##in,2,co | atin,2,co | atin,2,co | atin,2,co | atin
+laekage,1,3,3,la | ##eka | ##ge,3,la | ek | age,3,la | ek | age,3,la | ek | age,3,la | ek | age
+diformation,1,3,3,di | ##form | ##ation,3,d | iform | ation,3,d | iform | ation,3,d | iform | ation,3,d | iform | ation
+crackfrom,1,3,3,crack | ##fr | ##om,3,c | rack | from,2,crack | from,3,cr | ack | from,3,c | rack | from
+cancave,1,3,2,can | ##cave,3,c | anc | ave,2,canc | ave,3,c | anc | ave,3,c | anc | ave
+pertruding,1,3,3,per | ##tr | ##uding,3,per | tr | uding,3,per | tr | uding,3,per | tr | uding,3,per | tr | uding
+detecor,1,3,3,det | ##ec | ##or,3,det | ec | or,3,det | ec | or,3,det | ec | or,3,det | ec | or
+bladeswith,1,3,2,blades | ##with,3,bl | ades | with,3,bl | ades | with,3,bl | ades | with,3,bl | ades | with
+damagedo,1,3,2,damaged | ##o,3,dam | aged | o,2,damaged | o,3,dam | aged | o,3,dam | aged | o
+initer,1,3,2,in | ##iter,2,in | iter,2,in | iter,2,in | iter,2,in | iter
+thisengine,1,3,3,this | ##eng | ##ine,2,this | engine,2,this | engine,2,this | engine,2,this | engine
+dimenional,1,3,3,dime | ##nio | ##nal,3,d | imen | ional,3,dim | en | ional,3,d | imen | ional,3,d | imen | ional
+dimentionl,1,3,4,dime | ##nti | ##on | ##l,4,d | iment | ion | l,4,d | iment | ion | l,4,d | iment | ion | l,4,d | iment | ion | l
+dispensatie,1,3,5,di | ##sp | ##ens | ##ati | ##e,3,d | ispens | atie,3,disp | ens | atie,3,disp | ens | atie,3,d | ispens | atie
+inspecction,1,3,4,ins | ##pe | ##cc | ##tion,3,ins | pec | ction,3,ins | pec | ction,3,ins | pec | ction,3,ins | pec | ction
+inspexction,1,3,4,ins | ##pe | ##x | ##ction,3,ins | pex | ction,3,ins | pex | ction,3,ins | pex | ction,3,ins | pex | ction
+icnition,1,3,3,ic | ##ni | ##tion,2,icn | ition,3,ic | n | ition,3,ic | n | ition,3,ic | n | ition
+igition,1,3,3,i | ##git | ##ion,2,ig | ition,2,ig | ition,2,ig | ition,2,ig | ition
+insoection,1,3,3,ins | ##oe | ##ction,3,in | so | ection,3,in | so | ection,3,in | so | ection,3,in | so | ection
+ispection,1,3,3,is | ##pe | ##ction,2,is | pection,2,is | pection,2,is | pection,2,is | pection
+picturesnote,1,3,2,pictures | ##note,3,p | ictures | note,2,pictures | note,2,pictures | note,3,p | ictures | note
+intrsection,1,3,3,int | ##rse | ##ction,3,int | r | section,2,intr | section,2,intr | section,3,in | tr | section
+limitswithout,1,3,3,limits | ##with | ##out,2,limits | without,2,limits | without,2,limits | without,2,limits | without
+inoil,1,3,3,in | ##oi | ##l,2,ino | il,2,ino | il,2,ino | il,2,ino | il
+outerliner,1,3,2,outer | ##liner,2,outer | liner,2,outer | liner,2,outer | liner,2,outer | liner
+damague,1,3,3,dam | ##ag | ##ue,2,dam | ague,2,dam | ague,2,dam | ague,2,dam | ague
+leakkage,1,3,3,leak | ##ka | ##ge,3,le | akk | age,3,le | akk | age,3,le | akk | age,3,le | akk | age
+cracksfigure,1,3,4,cracks | ##fi | ##gur | ##e,3,c | racks | figure,3,cr | acks | figure,3,cr | acks | figure,4,c | rack | sf | igure
+vissual,1,3,3,vis | ##su | ##al,3,v | iss | ual,3,v | iss | ual,3,v | iss | ual,3,v | iss | ual
+inpscetion,1,3,4,in | ##ps | ##ce | ##tion,4,in | ps | cet | ion,4,in | ps | cet | ion,4,in | psc | et | ion,5,in | ps | c | et | ion
+cracked,3,3,1,cracked,2,c | racked,2,cr | acked,2,cr | acked,3,c | rack | ed
+support,27,3,1,support,1,support,1,support,1,support,1,support
+padss,1,3,2,pads | ##s,2,pad | ss,2,pad | ss,2,pad | ss,2,pad | ss
+frnt,1,3,2,fr | ##nt,2,fr | nt,2,fr | nt,2,fr | nt,2,fr | nt
+elektrical,1,3,4,el | ##ek | ##tric | ##al,3,ele | ktr | ical,3,ele | ktr | ical,3,ele | ktr | ical,3,ele | ktr | ical
+attatchment,1,3,3,at | ##tat | ##chment,3,att | atch | ment,3,att | atch | ment,3,att | atch | ment,3,att | atch | ment
+mailfunction,1,3,3,mail | ##fu | ##nction,2,mail | function,2,mail | function,2,mail | function,2,mail | function
+bypasse,1,3,2,bypass | ##e,3,b | yp | asse,3,b | yp | asse,3,b | yp | asse,3,b | yp | asse
+seperation,1,3,2,sep | ##eration,3,se | per | ation,2,se | peration,3,se | per | ation,3,se | per | ation
+hoses,2,3,2,hose | ##s,2,h | oses,2,h | oses,2,hos | es,2,h | oses
+bit,6,3,1,bit,1,bit,1,bit,1,bit,1,bit
+nuts,3,3,1,nuts,1,nuts,1,nuts,1,nuts,2,n | uts
+accumulation,3,3,1,accumulation,2,acc | umulation,1,accumulation,3,acc | um | ulation,2,accum | ulation
+countour,1,3,2,count | ##our,2,count | our,2,count | our,2,count | our,2,count | our
+demensional,1,3,3,dem | ##ens | ##ional,2,dem | ensional,2,dem | ensional,2,dem | ensional,3,dem | ens | ional
+wheel,5,3,1,wheel,1,wheel,1,wheel,1,wheel,1,wheel
+gap,5,3,1,gap,1,gap,1,gap,1,gap,1,gap
+electic,1,3,2,elect | ##ic,2,elect | ic,2,elect | ic,2,elect | ic,2,elect | ic
+rightarm,1,3,2,right | ##arm,2,right | arm,2,right | arm,2,right | arm,2,right | arm
+sharp,5,3,1,sharp,1,sharp,1,sharp,1,sharp,1,sharp
+assesment,1,3,3,ass | ##es | ##ment,2,asses | ment,2,asses | ment,2,asses | ment,2,asses | ment
+spinning,3,3,1,spinning,2,sp | inning,1,spinning,2,sp | inning,2,sp | inning
+restriction,3,3,1,restriction,1,restriction,1,restriction,1,restriction,2,rest | riction
+panl,1,3,2,pan | ##l,2,pan | l,2,pan | l,2,pan | l,2,pan | l
+wign,1,3,2,wig | ##n,2,w | ign,2,w | ign,2,w | ign,2,w | ign
+hybird,1,3,3,h | ##y | ##bird,2,hy | bird,2,hy | bird,2,hy | bird,2,hy | bird
+migratie,1,3,3,mig | ##rat | ##ie,3,m | igr | atie,2,mig | ratie,3,m | igr | atie,3,mig | rat | ie
+tubes,3,3,1,tubes,2,t | ubes,2,tub | es,2,t | ubes,2,t | ubes
+craddle,1,3,3,cr | ##ad | ##dle,2,cr | addle,2,cr | addle,2,cr | addle,2,cr | addle
+measurable,2,3,2,me | ##asurable,2,meas | urable,1,measurable,3,me | as | urable,3,me | as | urable
+onderhoud,1,3,4,on | ##der | ##ho | ##ud,2,onder | houd,2,onder | houd,2,onder | houd,2,onder | houd
+removable,2,3,2,re | ##movable,2,rem | ovable,2,rem | ovable,2,rem | ovable,3,rem | ov | able
+bend,3,3,1,bend,1,bend,1,bend,1,bend,2,b | end
+dummy,2,3,1,dummy,1,dummy,1,dummy,1,dummy,1,dummy
+hard,7,3,1,hard,1,hard,1,hard,1,hard,1,hard
+press,12,3,1,press,1,press,1,press,1,press,1,press
+feed,4,3,1,feed,1,feed,1,feed,1,feed,1,feed
+attachement,1,3,2,attache | ##ment,2,att | achement,3,att | ache | ment,2,att | achement,2,att | achement
+base,8,3,1,base,1,base,1,base,1,base,1,base
+leg,4,3,1,leg,1,leg,1,leg,1,leg,1,leg
+bundle,2,3,1,bundle,1,bundle,1,bundle,1,bundle,1,bundle
+rust,2,3,1,rust,1,rust,1,rust,1,rust,1,rust
+reparable,1,3,2,rep | ##arable,2,re | parable,3,re | par | able,2,re | parable,2,re | parable
+performance,9,3,1,performance,1,performance,1,performance,1,performance,1,performance
+recheck,1,3,3,rec | ##he | ##ck,2,re | check,2,re | check,2,re | check,2,re | check
+protector,2,3,1,protector,2,prote | ctor,2,prote | ctor,2,prote | ctor,2,prote | ctor
+figure,5,3,1,figure,1,figure,1,figure,1,figure,1,figure
+investigation,4,3,1,investigation,2,invest | igation,2,invest | igation,2,invest | igation,3,in | vest | igation
+twisted,2,3,1,twisted,2,tw | isted,1,twisted,2,tw | isted,2,tw | isted
+shelf,2,3,1,shelf,2,s | helf,1,shelf,2,s | helf,2,s | helf
+braising,1,3,2,bra | ##ising,2,bra | ising,2,bra | ising,2,bra | ising,2,bra | ising
+clip,2,3,1,clip,1,clip,1,clip,1,clip,1,clip
+departure,3,3,1,departure,2,depart | ure,1,departure,1,departure,3,de | part | ure
+acceptable,2,3,1,acceptable,1,acceptable,1,acceptable,1,acceptable,1,acceptable
+repaired,2,3,1,repaired,2,re | paired,2,re | paired,2,re | paired,2,re | paired
+slot,2,3,1,slot,1,slot,1,slot,1,slot,1,slot
+locked,2,3,1,locked,1,locked,1,locked,1,locked,1,locked
+supplement,2,3,1,supplement,2,sup | plement,1,supplement,2,supp | lement,2,supp | lement
+substance,2,3,1,substance,2,sub | stance,2,sub | stance,2,sub | stance,2,sub | stance
+input,2,3,1,input,1,input,1,input,1,input,1,input
+amendment,2,3,1,amendment,3,am | end | ment,2,am | endment,3,am | end | ment,2,am | endment
+layer,2,3,1,layer,1,layer,1,layer,1,layer,1,layer
+vertical,2,3,1,vertical,1,vertical,1,vertical,1,vertical,1,vertical
+extinguisher,1,3,4,ex | ##ting | ##uis | ##her,3,ext | ingu | isher,3,ext | ingu | isher,4,ext | ing | uis | her,3,ext | ingu | isher
+buckles,1,3,2,buckle | ##s,2,buck | les,2,buck | les,2,buck | les,2,buck | les
+tie,2,3,1,tie,1,tie,1,tie,1,tie,1,tie
+brushing,1,3,1,brushing,2,br | ushing,2,brush | ing,2,br | ushing,2,br | ushing
+soot,1,3,2,soo | ##t,2,so | ot,2,so | ot,2,so | ot,2,so | ot
+opening,3,3,1,opening,1,opening,1,opening,1,opening,1,opening
+sludge,1,3,2,sl | ##udge,2,sl | udge,2,sl | udge,2,sl | udge,2,sl | udge
+stock,2,3,1,stock,1,stock,1,stock,1,stock,1,stock
+application,2,3,1,application,1,application,1,application,1,application,1,application
+type,3,3,1,type,1,type,1,type,1,type,1,type
+jammed,1,3,1,jammed,2,jam | med,2,jam | med,2,jam | med,2,j | ammed
+block,2,3,1,block,1,block,1,block,1,block,1,block
+strapped,1,3,1,strapped,2,stra | pped,2,stra | pped,2,str | apped,2,stra | pped
+unprotected,1,3,4,un | ##pro | ##tec | ##ted,2,un | protected,2,un | protected,2,un | protected,2,un | protected
+strap,1,3,1,strap,1,strap,1,strap,1,strap,1,strap
+hot,2,3,1,hot,1,hot,1,hot,1,hot,1,hot
+split,2,3,1,split,1,split,1,split,1,split,1,split
+dead,2,3,1,dead,1,dead,1,dead,1,dead,1,dead
+standardization,1,3,1,standardization,2,standard | ization,2,standard | ization,2,standard | ization,2,standard | ization
+superficial,1,3,1,superficial,3,super | fic | ial,3,super | f | icial,3,super | fic | ial,3,super | f | icial
+form,3,3,1,form,1,form,1,form,1,form,1,form
+fore,1,3,1,fore,1,fore,1,fore,1,fore,1,fore
+smell,1,3,1,smell,2,sm | ell,2,sm | ell,2,sm | ell,2,sm | ell
+bubble,1,3,1,bubble,1,bubble,1,bubble,1,bubble,2,b | ubble
+reject,1,3,1,reject,1,reject,1,reject,1,reject,1,reject
+fence,1,3,1,fence,2,f | ence,1,fence,2,f | ence,2,f | ence
+micro,1,3,1,micro,1,micro,1,micro,1,micro,1,micro
+ear,1,3,1,ear,1,ear,1,ear,1,ear,1,ear
+routine,1,3,1,routine,1,routine,1,routine,1,routine,1,routine
+catalog,1,3,1,catalog,1,catalog,1,catalog,1,catalog,1,catalog
+blocked,1,3,1,blocked,1,blocked,1,blocked,1,blocked,2,block | ed
+sample,1,3,1,sample,1,sample,1,sample,1,sample,1,sample
+certificate,1,3,1,certificate,1,certificate,1,certificate,1,certificate,2,cert | ificate
+electricity,1,3,1,electricity,2,electric | ity,1,electricity,2,electric | ity,2,electric | ity
+notice,1,3,1,notice,1,notice,1,notice,1,notice,1,notice
+tier,1,3,1,tier,1,tier,1,tier,1,tier,2,t | ier
+counter,1,3,1,counter,1,counter,1,counter,1,counter,1,counter
+path,1,3,1,path,1,path,1,path,1,path,1,path
+traffic,1,3,1,traffic,1,traffic,1,traffic,1,traffic,2,tra | ffic
+chart,1,3,1,chart,1,chart,1,chart,1,chart,1,chart
+break,1,3,1,break,1,break,1,break,1,break,1,break
+fine,1,3,1,fine,1,fine,1,fine,1,fine,1,fine
+recording,1,3,1,recording,2,rec | ording,1,recording,2,record | ing,2,rec | ording
+failed,1,3,1,failed,1,failed,1,failed,1,failed,1,failed
+match,1,3,1,match,1,match,1,match,1,match,1,match
+space,1,3,1,space,1,space,1,space,1,space,1,space
+process,1,3,1,process,1,process,1,process,1,process,1,process
+body,1,3,1,body,1,body,1,body,1,body,1,body
+production,1,3,1,production,1,production,1,production,1,production,1,production
+life,1,3,1,life,1,life,1,life,1,life,1,life
+crack,401,3,1,crack,2,c | rack,1,crack,2,cr | ack,2,c | rack
+limit,1409,3,1,limit,1,limit,1,limit,1,limit,1,limit
+template,42,3,1,template,1,template,1,template,1,template,1,template
+bow,41,3,1,bow,1,bow,1,bow,1,bow,1,bow
+prong,1,3,2,pro | ##ng,2,pr | ong,1,prong,2,pr | ong,2,pr | ong
+bulge,1,3,1,bulge,2,bul | ge,2,bul | ge,2,bul | ge,2,bul | ge
+inspection,2707,3,1,inspection,1,inspection,1,inspection,1,inspection,2,ins | pection
+connector,429,3,1,connector,1,connector,1,connector,1,connector,2,con | nector
+pad,408,3,1,pad,1,pad,1,pad,1,pad,1,pad
+outlet,445,3,1,outlet,2,out | let,1,outlet,2,out | let,2,out | let
+dimensial,7,3,3,dime | ##ns | ##ial,2,dim | ensial,3,dim | ens | ial,3,dim | ens | ial,3,d | imens | ial
+maintenance,1384,3,1,maintenance,1,maintenance,1,maintenance,1,maintenance,2,main | tenance
+leakage,71,3,2,leak | ##age,3,le | ak | age,2,leak | age,3,le | ak | age,3,le | ak | age
+partnr,5,3,2,part | ##nr,2,part | nr,2,part | nr,2,part | nr,2,part | nr
+tip,405,3,1,tip,1,tip,1,tip,1,tip,1,tip
+fuel,475,3,1,fuel,1,fuel,1,fuel,1,fuel,2,f | uel
+scratch,93,3,1,scratch,1,scratch,1,scratch,1,scratch,2,scr | atch
+seperator,4,3,3,sep | ##era | ##tor,3,se | per | ator,3,se | per | ator,2,se | perator,3,se | per | ator
+timestamp,21,3,3,times | ##tam | ##p,1,timestamp,1,timestamp,1,timestamp,1,timestamp
+check,235,3,1,check,1,check,1,check,1,check,1,check
+tear,88,3,1,tear,1,tear,1,tear,1,tear,2,te | ar
+connecter,6,3,2,connect | ##er,2,connect | er,2,connect | er,2,connect | er,2,connect | er
+shop,385,3,1,shop,1,shop,1,shop,1,shop,1,shop
+supply,456,3,1,supply,1,supply,1,supply,2,s | upply,2,supp | ly
+suply,4,3,2,su | ##ply,2,su | ply,2,sup | ly,2,sup | ly,2,sup | ly
+burn,108,3,1,burn,1,burn,1,burn,1,burn,1,burn
+indentification,4,3,3,ind | ##ent | ##ification,2,indent | ification,2,indent | ification,2,indent | ification,2,indent | ification
+visual,314,3,1,visual,1,visual,1,visual,1,visual,1,visual
+wear,148,3,1,wear,1,wear,1,wear,1,wear,1,wear
+repair,121,3,1,repair,1,repair,1,repair,1,repair,2,rep | air
+lock,62,3,1,lock,1,lock,1,lock,1,lock,1,lock
+foot,245,3,1,foot,1,foot,1,foot,1,foot,1,foot
+filler,18,3,2,fill | ##er,2,f | iller,1,filler,2,f | iller,2,f | iller
+drain,32,3,1,drain,2,d | rain,1,drain,2,dr | ain,2,d | rain
+minor,321,3,1,minor,1,minor,1,minor,1,minor,1,minor
+kit,41,3,1,kit,1,kit,1,kit,1,kit,1,kit
+worn,46,3,1,worn,2,w | orn,1,worn,2,w | orn,2,w | orn
+spot,127,3,1,spot,1,spot,1,spot,1,spot,1,spot
+curl,11,3,1,curl,1,curl,1,curl,1,curl,1,curl
+bare,28,3,1,bare,1,bare,1,bare,1,bare,1,bare
+electronic,98,3,1,electronic,1,electronic,1,electronic,2,elect | ronic,2,elect | ronic
+ice,129,3,1,ice,1,ice,1,ice,1,ice,1,ice
+cap,42,3,1,cap,1,cap,1,cap,1,cap,1,cap
+identification,39,3,1,identification,2,ident | ification,1,identification,2,ident | ification,2,ident | ification
+partical,2,3,2,part | ##ical,2,part | ical,2,part | ical,2,part | ical,2,part | ical
+matirial,2,3,3,mat | ##iri | ##al,3,mat | ir | ial,3,mat | ir | ial,3,mat | ir | ial,3,mat | ir | ial
+connerctor,2,3,2,conner | ##ctor,3,con | ner | ctor,3,con | ner | ctor,3,con | ner | ctor,3,con | ner | ctor
+elecrical,2,3,4,el | ##ec | ##rica | ##l,3,ele | cr | ical,3,ele | cr | ical,3,ele | cr | ical,3,ele | cr | ical
+dimenson,2,3,2,dime | ##nson,2,dim | enson,2,dim | enson,2,dim | enson,3,d | imens | on
+shielden,2,3,2,shield | ##en,2,shield | en,2,shield | en,2,shield | en,2,shield | en
+discoloration,6,3,3,disco | ##lor | ##ation,3,dis | color | ation,3,dis | color | ation,3,dis | color | ation,3,dis | color | ation
+platform,81,3,1,platform,1,platform,1,platform,1,platform,1,platform
+lot,79,3,1,lot,1,lot,1,lot,1,lot,1,lot
+satisfactory,12,3,1,satisfactory,2,satisf | actory,2,satisf | actory,2,s | atisfactory,3,s | atisf | actory
+system,651,3,1,system,1,system,1,system,1,system,1,system
+case,232,3,1,case,1,case,1,case,1,case,1,case
+suface,2,3,2,su | ##face,2,su | face,3,s | uf | ace,3,s | uf | ace,2,su | face
+limiet,2,3,3,lim | ##ie | ##t,2,lim | iet,2,lim | iet,2,lim | iet,2,lim | iet
+abnormal,11,3,1,abnormal,2,ab | normal,2,ab | normal,2,ab | normal,2,ab | normal
+door,44,3,1,door,1,door,1,door,1,door,1,door
+temperature,32,3,1,temperature,1,temperature,1,temperature,1,temperature,1,temperature
+spiral,13,3,1,spiral,2,sp | iral,1,spiral,2,spir | al,2,sp | iral
+replace,39,3,1,replace,1,replace,1,replace,1,replace,1,replace
+inspectie,2,3,2,inspect | ##ie,2,inspect | ie,2,inspect | ie,2,inspect | ie,3,ins | pect | ie
+task,32,3,1,task,1,task,1,task,1,task,1,task
+sheet,18,3,1,sheet,1,sheet,1,sheet,1,sheet,1,sheet
+leak,9,3,1,leak,2,le | ak,1,leak,2,le | ak,2,le | ak
+detail,21,3,1,detail,1,detail,1,detail,1,detail,1,detail
+schield,2,3,3,sc | ##hi | ##eld,2,sch | ield,2,sch | ield,2,sch | ield,2,sch | ield
+demper,2,3,2,dem | ##per,2,dem | per,2,dem | per,2,dem | per,2,dem | per
+accordance,17,3,1,accordance,3,acc | ord | ance,2,accord | ance,2,accord | ance,3,acc | ord | ance
+dimension,12,3,1,dimension,1,dimension,1,dimension,1,dimension,2,dim | ension
+fire,78,3,1,fire,1,fire,1,fire,1,fire,1,fire
+flame,10,3,1,flame,2,fl | ame,2,fl | ame,2,fl | ame,2,fl | ame
+handling,16,3,1,handling,1,handling,1,handling,1,handling,2,hand | ling
+line,195,3,1,line,1,line,1,line,1,line,1,line
+service,206,3,1,service,1,service,1,service,1,service,1,service
+environmental,26,3,1,environmental,2,environment | al,1,environmental,2,environment | al,2,environment | al
+backup,10,3,1,backup,1,backup,1,backup,1,backup,1,backup
+air,89,3,1,air,1,air,1,air,1,air,1,air
+mark,63,3,1,mark,1,mark,1,mark,1,mark,1,mark
+buckle,4,3,1,buckle,2,buck | le,2,buck | le,2,b | uckle,2,buck | le
+loosen,3,3,1,loosen,2,lo | osen,2,lo | osen,2,lo | osen,2,lo | osen
+bent,6,3,1,bent,1,bent,1,bent,2,b | ent,1,bent
+movement,33,3,1,movement,1,movement,1,movement,1,movement,2,mov | ement
+element,11,3,1,element,1,element,1,element,1,element,1,element
+critical,25,3,1,critical,1,critical,1,critical,1,critical,1,critical
+gas,11,3,1,gas,1,gas,1,gas,1,gas,1,gas
+mat,4,3,1,mat,1,mat,1,mat,1,mat,1,mat
+center,47,3,1,center,1,center,1,center,1,center,1,center
+delivery,7,3,1,delivery,1,delivery,1,delivery,1,delivery,1,delivery
+pass,12,3,1,pass,1,pass,1,pass,1,pass,1,pass
+extension,9,3,1,extension,1,extension,1,extension,1,extension,1,extension
+pit,5,3,1,pit,1,pit,1,pit,1,pit,1,pit
+equipment,11,3,1,equipment,1,equipment,1,equipment,1,equipment,2,equ | ipment
+isulation,1,3,2,is | ##ulation,2,is | ulation,2,is | ulation,2,is | ulation,2,is | ulation
+damagec,1,3,2,damage | ##c,2,damage | c,2,damage | c,2,damage | c,3,dam | age | c
+inspecton,1,3,2,inspect | ##on,2,inspect | on,2,inspect | on,2,inspect | on,3,ins | pect | on
+noticedold,1,3,2,noticed | ##old,3,not | iced | old,2,noticed | old,2,noticed | old,3,not | iced | old
+limtit,1,3,3,lim | ##ti | ##t,2,lim | tit,2,lim | tit,2,lim | tit,2,lim | tit
+surafce,1,3,3,sur | ##af | ##ce,3,sur | af | ce,3,sur | af | ce,3,sur | af | ce,4,s | ura | f | ce
+scrachte,1,3,4,sc | ##rac | ##ht | ##e,3,sc | ra | chte,2,scr | achte,3,sc | ra | chte,3,sc | ra | chte
+diletion,1,3,3,dil | ##eti | ##on,3,d | ilet | ion,3,d | ilet | ion,3,d | ile | tion,3,d | ile | tion
+referencedata,1,3,2,referenced | ##ata,3,refer | enced | ata,2,referenced | ata,3,refer | enced | ata,3,refer | enced | ata
+repairedbut,1,3,3,repaired | ##bu | ##t,3,re | paired | but,3,re | paired | but,5,re | pa | ire | db | ut,3,re | paired | but
+defectsare,1,3,2,defects | ##are,3,def | ects | are,3,def | ects | are,3,def | ects | are,4,def | ect | s | are
+findeings,1,3,3,find | ##ein | ##gs,3,f | inde | ings,3,find | e | ings,3,find | e | ings,3,f | inde | ings
+adjencent,1,3,4,ad | ##je | ##nce | ##nt,2,adj | encent,2,adj | encent,2,adj | encent,2,adj | encent
+inspetion,1,3,3,ins | ##pet | ##ion,4,in | sp | et | ion,3,insp | et | ion,3,insp | et | ion,3,ins | pet | ion
+electrtical,1,3,3,elect | ##rti | ##cal,3,elect | rt | ical,3,elect | rt | ical,3,elect | rt | ical,3,elect | rt | ical
+indenification,1,3,3,ind | ##eni | ##fication,2,inden | ification,2,inden | ification,2,inden | ification,2,inden | ification
+toreplace,1,3,3,tore | ##pl | ##ace,3,t | ore | place,3,t | ore | place,3,t | ore | place,3,t | ore | place
+inginition,1,3,3,ing | ##ini | ##tion,2,ing | inition,2,ing | inition,2,ing | inition,2,ing | inition
+maount,1,3,2,mao | ##unt,2,ma | ount,2,ma | ount,2,ma | ount,2,ma | ount
+bootom,1,3,2,boot | ##om,2,boot | om,2,boot | om,2,boot | om,2,boot | om
+distoration,1,3,3,di | ##stor | ##ation,3,d | istor | ation,2,dist | oration,2,dist | oration,2,dist | oration
+idication,1,3,2,id | ##ication,2,id | ication,2,id | ication,2,id | ication,2,id | ication
+inulation,1,3,2,in | ##ulation,2,in | ulation,2,in | ulation,2,in | ulation,2,in | ulation
+detactor,1,3,3,det | ##act | ##or,2,det | actor,2,det | actor,2,det | actor,2,det | actor
+andmeasure,1,3,4,and | ##me | ##as | ##ure,2,and | measure,2,and | measure,2,and | measure,2,and | measure
+map,9,3,1,map,1,map,1,map,1,map,1,map
+face,12,3,1,face,1,face,1,face,1,face,1,face
+damner,1,3,2,damn | ##er,2,dam | ner,2,dam | ner,2,dam | ner,2,dam | ner
+foult,1,3,2,foul | ##t,2,fo | ult,2,f | oult,3,f | ou | lt,3,f | ou | lt
+dpth,1,3,3,d | ##pt | ##h,2,d | pth,2,dp | th,2,d | pth,2,d | pth
+fluid,4,3,1,fluid,1,fluid,1,fluid,1,fluid,1,fluid
+square,11,3,1,square,1,square,1,square,1,square,1,square
+impct,1,3,2,imp | ##ct,2,imp | ct,2,imp | ct,2,imp | ct,2,imp | ct
+measurment,1,3,4,me | ##as | ##ur | ##ment,3,meas | ur | ment,3,meas | ur | ment,4,me | as | ur | ment,4,me | as | ur | ment
+platfom,1,3,4,pl | ##at | ##fo | ##m,3,plat | f | om,3,plat | f | om,3,plat | f | om,3,plat | f | om
+tool,5,3,1,tool,1,tool,1,tool,1,tool,1,tool
+design,17,3,1,design,1,design,1,design,1,design,1,design
+egde,1,3,3,e | ##g | ##de,2,eg | de,2,eg | de,1,egde,2,eg | de
+lengt,1,3,2,len | ##gt,2,l | engt,2,leng | t,2,l | engt,2,l | engt
+sealt,1,3,2,seal | ##t,2,se | alt,2,se | alt,2,se | alt,2,se | alt
+distace,1,3,3,di | ##sta | ##ce,2,dist | ace,2,dist | ace,2,dist | ace,2,dist | ace
+dry,6,3,1,dry,1,dry,1,dry,1,dry,2,d | ry
+degree,14,3,1,degree,1,degree,1,degree,1,degree,1,degree
+assessement,1,3,2,assess | ##ement,3,ass | ess | ement,3,ass | esse | ment,3,ass | esse | ment,3,ass | ess | ement
+accessoire,1,3,2,access | ##oire,2,access | oire,2,access | oire,2,access | oire,2,access | oire
+separation,4,3,1,separation,2,se | paration,1,separation,2,se | paration,2,se | paration
+twist,3,3,1,twist,2,tw | ist,1,twist,2,tw | ist,2,tw | ist
+true,8,3,1,true,1,true,1,true,1,true,1,true
+action,12,3,1,action,1,action,1,action,1,action,1,action
+power,15,3,1,power,1,power,1,power,1,power,1,power
+speed,7,3,1,speed,1,speed,1,speed,1,speed,1,speed
+manaul,1,3,2,mana | ##ul,2,mana | ul,2,mana | ul,2,mana | ul,2,man | aul
+safty,1,3,3,sa | ##ft | ##y,2,sa | fty,2,sa | fty,2,sa | fty,3,s | aft | y
+wornout,1,3,2,worn | ##out,3,w | orn | out,2,worn | out,3,w | orn | out,3,w | orn | out
+matel,1,3,2,mate | ##l,2,mat | el,2,mat | el,2,mat | el,2,mat | el
+primary,10,3,1,primary,1,primary,1,primary,1,primary,1,primary
+disconnected,2,3,1,disconnected,2,dis | connected,1,disconnected,2,dis | connected,2,dis | connected
+head,17,3,1,head,1,head,1,head,1,head,1,head
+status,8,3,1,status,1,status,1,status,1,status,1,status
+splash,2,3,1,splash,2,s | plash,1,splash,2,s | plash,2,s | plash
+meter,3,3,1,meter,1,meter,1,meter,1,meter,1,meter
+measure,4,3,1,measure,1,measure,1,measure,1,measure,1,measure
+strater,1,3,3,st | ##rate | ##r,2,str | ater,2,str | ater,2,str | ater,2,str | ater
+pannel,1,3,2,pan | ##nel,2,p | annel,2,p | annel,2,p | annel,2,p | annel
+adge,1,3,2,ad | ##ge,1,adge,2,ad | ge,1,adge,1,adge
+stand,5,3,1,stand,1,stand,1,stand,1,stand,1,stand
+proforma,1,3,3,prof | ##or | ##ma,2,pro | forma,2,pro | forma,2,pro | forma,2,pro | forma
+version,9,3,1,version,1,version,1,version,1,version,1,version
+authorization,2,3,1,authorization,1,authorization,1,authorization,1,authorization,1,authorization
+fill,3,3,1,fill,1,fill,1,fill,1,fill,1,fill
+degreed,1,3,2,degree | ##d,2,deg | reed,2,deg | reed,3,de | gre | ed,3,deg | re | ed
+document,3,3,1,document,1,document,1,document,1,document,1,document
+transportation,4,3,1,transportation,2,transport | ation,2,transport | ation,2,transport | ation,2,transport | ation
+overhead,2,3,1,overhead,2,over | head,1,overhead,2,over | head,2,over | head
+list,20,3,1,list,1,list,1,list,1,list,1,list
+unscrewed,1,3,4,un | ##sc | ##rew | ##ed,3,uns | cre | wed,3,uns | cre | wed,3,uns | cre | wed,3,uns | cre | wed
+flexible,2,3,1,flexible,2,flex | ible,1,flexible,2,flex | ible,2,flex | ible
+cut,4,3,1,cut,1,cut,1,cut,1,cut,1,cut
+crisscross,1,3,3,cr | ##iss | ##cross,3,cr | iss | cross,3,cr | iss | cross,3,cr | iss | cross,3,cr | iss | cross
+green,5,3,1,green,1,green,1,green,1,green,1,green
+oval,2,3,1,oval,1,oval,1,oval,1,oval,1,oval
+burns,2,3,1,burns,2,burn | s,2,burn | s,2,burn | s,2,burn | s
+loop,2,3,1,loop,1,loop,1,loop,1,loop,1,loop
+accomplished,2,3,1,accomplished,3,ac | compl | ished,2,accompl | ished,3,ac | compl | ished,4,ac | com | pl | ished
+instruction,2,3,1,instruction,1,instruction,1,instruction,1,instruction,2,inst | ruction
+wall,3,3,1,wall,1,wall,1,wall,1,wall,1,wall
+mechanism,2,3,1,mechanism,2,mechan | ism,1,mechanism,2,mechan | ism,3,me | chan | ism
+burned,2,3,1,burned,2,burn | ed,1,burned,2,burn | ed,2,burn | ed
+sliver,1,3,2,sl | ##iver,2,sl | iver,2,s | liver,2,sl | iver,2,sl | iver
+loosening,1,3,2,loosen | ##ing,2,loos | ening,2,loos | ening,2,loos | ening,3,lo | os | ening
+irreparable,1,3,4,ir | ##re | ##para | ##ble,3,ir | re | parable,3,irre | par | able,2,irre | parable,2,irre | parable
+passenger,2,3,1,passenger,2,pass | enger,1,passenger,2,pass | enger,2,pass | enger
+demand,2,3,1,demand,1,demand,1,demand,2,d | emand,2,dem | and
+unbound,1,3,2,un | ##bound,2,un | bound,2,un | bound,2,un | bound,2,un | bound
+painting,2,3,1,painting,2,paint | ing,1,painting,1,painting,2,pain | ting
+flat,2,3,1,flat,1,flat,1,flat,1,flat,1,flat
+cross,3,3,1,cross,1,cross,1,cross,1,cross,1,cross
+post,4,3,1,post,1,post,1,post,1,post,1,post
+active,3,3,1,active,1,active,1,active,1,active,1,active
+adjacent,2,3,1,adjacent,1,adjacent,1,adjacent,2,adj | acent,2,adj | acent
+range,3,3,1,range,1,range,1,range,1,range,1,range
+finish,2,3,1,finish,1,finish,1,finish,1,finish,1,finish
+splinter,1,3,1,splinter,2,spl | inter,2,spl | inter,2,spl | inter,3,s | pl | inter
+jelly,1,3,1,jelly,2,jel | ly,2,j | elly,2,j | elly,2,jel | ly
+complain,1,3,1,complain,2,com | plain,2,com | plain,2,compl | ain,2,com | plain
+distance,2,3,1,distance,1,distance,1,distance,1,distance,1,distance
+expiration,1,3,2,ex | ##piration,1,expiration,1,expiration,1,expiration,2,ex | piration
+clockwise,1,3,1,clockwise,1,clockwise,1,clockwise,2,clock | wise,2,clock | wise
+sound,2,3,1,sound,1,sound,1,sound,1,sound,1,sound
+dissolve,1,3,1,dissolve,3,d | iss | olve,2,diss | olve,3,d | iss | olve,3,d | iss | olve
+operation,2,3,1,operation,1,operation,1,operation,1,operation,1,operation
+adjustment,1,3,1,adjustment,2,adjust | ment,1,adjustment,2,adjust | ment,3,ad | just | ment
+don,2,3,1,don,1,don,1,don,1,don,1,don
+positioning,1,3,1,positioning,2,position | ing,2,position | ing,2,position | ing,2,position | ing
+checking,1,3,1,checking,1,checking,1,checking,1,checking,1,checking
+wash,1,3,1,wash,1,wash,1,wash,1,wash,2,w | ash
+judgement,1,3,1,judgement,2,jud | gement,2,jud | gement,2,jud | gement,2,jud | gement
+fork,1,3,1,fork,1,fork,1,fork,1,fork,1,fork
+knife,1,3,1,knife,1,knife,1,knife,1,knife,1,knife
+complaint,1,3,1,complaint,2,com | plaint,2,compl | aint,2,compl | aint,3,com | pl | aint
+originating,1,3,1,originating,2,origin | ating,2,origin | ating,2,origin | ating,2,origin | ating
+intact,1,3,1,intact,2,int | act,2,int | act,2,int | act,2,int | act
+tight,1,3,1,tight,1,tight,1,tight,1,tight,2,t | ight
+consumption,1,3,1,consumption,2,consum | ption,1,consumption,2,cons | umption,3,con | sum | ption
+measuring,1,3,1,measuring,2,me | asuring,2,meas | uring,2,me | asuring,2,me | asuring
+record,2,3,1,record,1,record,1,record,1,record,1,record
+reverse,1,3,1,reverse,1,reverse,1,reverse,1,reverse,1,reverse
+grove,1,3,1,grove,2,gro | ve,1,grove,2,gro | ve,2,g | rove
+intermediate,1,3,1,intermediate,2,inter | mediate,1,intermediate,2,inter | mediate,2,inter | mediate
+interpretation,1,3,1,interpretation,2,interpret | ation,1,interpretation,2,interpret | ation,2,interpret | ation
+touch,1,3,1,touch,1,touch,1,touch,1,touch,1,touch
+pattern,1,3,1,pattern,1,pattern,1,pattern,1,pattern,1,pattern
+card,1,3,1,card,1,card,1,card,1,card,1,card
+turning,1,3,1,turning,2,turn | ing,1,turning,2,turn | ing,2,turn | ing
+method,1,3,1,method,1,method,1,method,1,method,1,method
+format,1,3,1,format,1,format,1,format,1,format,1,format
+entry,1,3,1,entry,1,entry,1,entry,1,entry,1,entry
+potential,1,3,1,potential,1,potential,1,potential,1,potential,2,pot | ential
+state,2,3,1,state,1,state,1,state,1,state,1,state
+technical,1,3,1,technical,1,technical,1,technical,1,technical,2,techn | ical
+double,1,3,1,double,1,double,1,double,1,double,1,double
+closed,1,3,1,closed,1,closed,1,closed,1,closed,1,closed
+health,1,3,1,health,1,health,1,health,1,health,1,health
+round,1,3,1,round,1,round,1,round,1,round,1,round
+free,1,3,1,free,1,free,1,free,1,free,1,free
+period,1,4,1,period,1,period,1,period,1,period,1,period
+repairable,35,4,2,repair | ##able,3,rep | ai | rable,2,repair | able,2,repair | able,3,rep | ai | rable
+deliverd,8,4,2,deliver | ##d,3,del | iver | d,2,deliver | d,2,deliver | d,3,del | iver | d
+visuel,14,4,2,vis | ##uel,2,vis | uel,2,vis | uel,2,vis | uel,2,vis | uel
+imperfection,32,4,2,imperfect | ##ion,2,imper | fection,2,imper | fection,2,imper | fection,2,imper | fection
+pump,246,4,1,pump,2,p | ump,1,pump,1,pump,2,p | ump
+rough,328,4,1,rough,1,rough,1,rough,1,rough,1,rough
+depth,334,4,1,depth,1,depth,1,depth,1,depth,1,depth
+transfer,325,4,1,transfer,1,transfer,1,transfer,1,transfer,1,transfer
+chapter,234,4,1,chapter,1,chapter,1,chapter,1,chapter,1,chapter
+applicable,36,4,1,applicable,2,ap | plicable,1,applicable,2,app | licable,2,ap | plicable
+visible,98,4,1,visible,1,visible,1,visible,1,visible,1,visible
+inner,108,4,1,inner,1,inner,1,inner,1,inner,1,inner
+excessive,37,4,1,excessive,3,ex | cess | ive,2,excess | ive,3,ex | cess | ive,3,ex | cess | ive
+forward,208,4,1,forward,1,forward,1,forward,1,forward,1,forward
+glass,82,4,1,glass,1,glass,1,glass,1,glass,1,glass
+inch,34,4,1,inch,1,inch,1,inch,1,inch,1,inch
+anti,137,4,1,anti,1,anti,1,anti,1,anti,1,anti
+revision,18,4,1,revision,1,revision,1,revision,1,revision,2,re | vision
+button,15,4,1,button,1,button,1,button,1,button,1,button
+chain,38,4,1,chain,1,chain,1,chain,1,chain,1,chain
+open,253,4,1,open,1,open,1,open,1,open,1,open
+inventory,12,4,1,inventory,1,inventory,1,inventory,1,inventory,1,inventory
+heavy,56,4,1,heavy,1,heavy,1,heavy,1,heavy,2,he | avy
+soft,20,4,1,soft,1,soft,1,soft,1,soft,1,soft
+warning,15,4,1,warning,1,warning,1,warning,1,warning,1,warning
+measured,13,4,1,measured,1,measured,1,measured,2,me | asured,1,measured
+heat,17,4,1,heat,1,heat,1,heat,1,heat,1,heat
+electric,22,4,1,electric,1,electric,1,electric,1,electric,1,electric
+bag,7,4,1,bag,1,bag,1,bag,1,bag,1,bag
+package,8,4,1,package,1,package,1,package,1,package,1,package
+point,50,4,1,point,1,point,1,point,1,point,1,point
+criterion,4,4,1,criterion,2,c | riterion,1,criterion,1,criterion,2,c | riterion
+frond,2,4,2,fr | ##ond,2,fr | ond,2,fr | ond,2,fr | ond,2,fr | ond
+damaged,8,4,1,damaged,2,dam | aged,1,damaged,2,dam | aged,2,dam | aged
+heatewr,1,4,3,heat | ##ew | ##r,3,he | ate | wr,3,he | ate | wr,3,he | ate | wr,3,he | ate | wr
+anckor,1,4,3,an | ##cko | ##r,3,an | ck | or,3,an | ck | or,3,an | ck | or,3,an | ck | or
+rubberis,1,4,2,rubber | ##is,3,rub | ber | is,2,rubber | is,3,rub | ber | is,3,rub | ber | is
+emoval,1,4,3,em | ##ova | ##l,2,em | oval,2,em | oval,2,em | oval,2,em | oval
+posistion,1,4,3,po | ##sis | ##tion,3,pos | ist | ion,3,pos | ist | ion,3,pos | ist | ion,3,pos | ist | ion
+thelimit,1,4,3,the | ##lim | ##it,2,the | limit,2,the | limit,2,the | limit,2,the | limit
+projectnr,1,4,2,project | ##nr,2,project | nr,2,project | nr,2,project | nr,2,project | nr
+materila,1,4,2,mater | ##ila,2,mater | ila,2,mater | ila,2,mater | ila,3,m | ater | ila
+repaireable,1,4,3,repair | ##ea | ##ble,4,re | pa | ire | able,4,re | pa | ire | able,4,re | pa | ire | able,4,re | pa | ire | able
+dimensios,1,4,3,dime | ##ns | ##ios,3,dim | ens | ios,3,dim | ens | ios,3,dim | ens | ios,3,d | imens | ios
+repaird,1,4,2,repair | ##d,2,repair | d,2,repair | d,2,repair | d,2,rep | aird
+depht,1,4,3,de | ##ph | ##t,2,dep | ht,2,dep | ht,2,dep | ht,3,de | p | ht
+environmetal,1,4,5,en | ##vir | ##on | ##met | ##al,3,en | viron | metal,2,environ | metal,3,en | viron | metal,3,environ | met | al
+invertory,1,4,3,in | ##vert | ##ory,2,invert | ory,2,invert | ory,2,invert | ory,3,in | vert | ory
+aviable,1,4,2,av | ##iable,2,avi | able,2,avi | able,2,avi | able,2,avi | able
+worrn,1,4,3,wo | ##rr | ##n,3,w | orr | n,2,wor | rn,3,w | orr | n,3,w | orr | n
+foundwithin,1,4,3,found | ##with | ##in,2,found | within,2,found | within,2,found | within,2,found | within
+sense,7,4,1,sense,1,sense,1,sense,1,sense,2,s | ense
+innerside,1,4,2,inner | ##side,2,inners | ide,3,in | ners | ide,2,inners | ide,2,inners | ide
+laboratory,5,4,1,laboratory,2,labor | atory,1,laboratory,2,labor | atory,2,labor | atory
+relative,5,4,1,relative,1,relative,1,relative,1,relative,1,relative
+compleet,1,4,3,com | ##ple | ##et,3,com | ple | et,2,comple | et,3,com | ple | et,3,com | ple | et
+visuele,1,4,3,vis | ##uel | ##e,2,vis | uele,2,vis | uele,2,vis | uele,2,vis | uele
+build,6,4,1,build,1,build,1,build,1,build,1,build
+turn,7,4,1,turn,1,turn,1,turn,1,turn,1,turn
+change,8,4,1,change,1,change,1,change,1,change,1,change
+main,16,4,1,main,1,main,1,main,1,main,1,main
+project,9,4,1,project,1,project,1,project,1,project,1,project
+special,9,4,1,special,1,special,1,special,1,special,1,special
+retrieve,2,4,1,retrieve,1,retrieve,1,retrieve,1,retrieve,2,re | trieve
+consultation,2,4,1,consultation,2,consult | ation,2,consult | ation,2,consult | ation,3,cons | ult | ation
+set,12,4,1,set,1,set,1,set,1,set,1,set
+buton,1,4,2,but | ##on,2,but | on,1,buton,2,but | on,2,but | on
+stop,4,4,1,stop,1,stop,1,stop,1,stop,1,stop
+buttock,1,4,2,butt | ##ock,3,but | t | ock,2,butt | ock,3,but | t | ock,3,but | t | ock
+smooth,2,4,1,smooth,1,smooth,1,smooth,1,smooth,2,s | mooth
+work,10,4,1,work,1,work,1,work,1,work,1,work
+alternate,2,4,1,alternate,1,alternate,1,alternate,1,alternate,2,altern | ate
+site,5,4,1,site,1,site,1,site,1,site,1,site
+print,2,4,1,print,1,print,1,print,1,print,1,print
+undamaged,1,4,3,und | ##ama | ##ged,3,und | am | aged,2,und | amaged,2,und | amaged,3,und | am | aged
+vendor,1,4,1,vendor,1,vendor,1,vendor,1,vendor,1,vendor
+usable,1,4,1,usable,1,usable,1,usable,1,usable,1,usable
+stationary,1,4,1,stationary,2,station | ary,1,stationary,2,station | ary,2,station | ary
+size,2,4,1,size,1,size,1,size,1,size,1,size
+alert,1,4,1,alert,1,alert,1,alert,1,alert,1,alert
+boxes,1,4,1,boxes,1,boxes,1,boxes,1,boxes,1,boxes
+min,1,4,1,min,1,min,1,min,1,min,1,min
+enhanced,1,4,1,enhanced,2,enh | anced,1,enhanced,2,enh | anced,2,en | hanced
+burning,1,4,1,burning,2,burn | ing,1,burning,2,burn | ing,2,burn | ing
+indicate,1,4,1,indicate,2,ind | icate,1,indicate,2,ind | icate,2,ind | icate
+severe,1,4,1,severe,2,se | vere,1,severe,2,se | vere,2,se | vere
+affected,1,4,1,affected,1,affected,1,affected,1,affected,2,aff | ected
+effect,1,4,1,effect,1,effect,1,effect,1,effect,1,effect
+mixed,1,4,1,mixed,1,mixed,1,mixed,1,mixed,2,m | ixed
+external,4,4,1,external,1,external,1,external,1,external,1,external
+sea,1,4,1,sea,1,sea,1,sea,1,sea,1,sea
+hall,1,4,1,hall,1,hall,1,hall,1,hall,1,hall
+division,1,4,1,division,1,division,1,division,1,division,1,division
+accessory,2229,4,1,accessory,2,access | ory,1,accessory,2,access | ory,2,access | ory
+lenght,12,4,2,len | ##ght,2,l | enght,2,leng | ht,2,leng | ht,3,l | eng | ht
+enviremental,10,4,4,en | ##vir | ##ement | ##al,3,env | irement | al,3,env | irement | al,3,env | irement | al,3,env | irement | al
+enviromental,11,4,4,en | ##vir | ##ome | ##ntal,3,env | iro | mental,4,en | vi | ro | mental,3,env | iro | mental,4,en | vi | ro | mental
+aprox,12,4,2,apr | ##ox,2,apro | x,2,ap | rox,2,apro | x,2,ap | rox
+dimentional,13,4,3,dime | ##nti | ##onal,3,d | iment | ional,3,d | iment | ional,3,d | iment | ional,3,d | iment | ional
+manual,1755,4,1,manual,1,manual,1,manual,1,manual,1,manual
+replaceable,62,4,2,replace | ##able,2,replace | able,1,replaceable,2,replace | able,2,replace | able
+cubic,240,4,1,cubic,1,cubic,1,cubic,2,c | ubic,2,c | ubic
+rubber,368,4,1,rubber,2,rub | ber,1,rubber,2,rub | ber,2,rub | ber
+detach,52,4,2,det | ##ach,1,detach,1,detach,1,detach,2,det | ach
+variable,485,4,1,variable,1,variable,1,variable,1,variable,1,variable
+spray,111,4,1,spray,2,sp | ray,1,spray,2,spr | ay,2,sp | ray
+oil,1433,4,1,oil,1,oil,1,oil,1,oil,2,o | il
+paint,307,4,1,paint,1,paint,1,paint,1,paint,2,p | aint
+hole,348,4,1,hole,1,hole,1,hole,1,hole,1,hole
+length,3568,4,1,length,1,length,1,length,1,length,1,length
+remark,53,4,1,remark,1,remark,1,remark,1,remark,1,remark
+attach,51,4,1,attach,1,attach,1,attach,1,attach,1,attach
+item,111,4,1,item,1,item,1,item,1,item,1,item
+dirty,92,4,1,dirty,1,dirty,1,dirty,1,dirty,2,dir | ty
+hand,1168,4,1,hand,1,hand,1,hand,1,hand,1,hand
+outer,135,4,1,outer,1,outer,1,outer,1,outer,1,outer
+metal,213,4,1,metal,1,metal,1,metal,1,metal,2,met | al
+sytem,3,4,2,sy | ##tem,2,sy | tem,3,s | yt | em,2,sy | tem,3,s | yt | em
+metalic,3,4,2,metal | ##ic,2,metal | ic,2,metal | ic,2,met | alic,3,met | al | ic
+upper,417,4,1,upper,1,upper,1,upper,1,upper,1,upper
+rear,127,4,1,rear,1,rear,1,rear,1,rear,2,re | ar
+box,202,4,1,box,1,box,1,box,1,box,1,box
+sign,164,4,1,sign,1,sign,1,sign,1,sign,1,sign
+cooking,36,4,1,cooking,2,co | oking,1,cooking,2,c | ooking,2,co | oking
+measurement,30,4,1,measurement,1,measurement,1,measurement,1,measurement,2,measure | ment
+removal,53,4,1,removal,2,rem | oval,1,removal,2,rem | oval,2,rem | oval
+testing,67,4,1,testing,1,testing,1,testing,1,testing,1,testing
+unit,189,4,1,unit,1,unit,1,unit,1,unit,1,unit
+suspeeted,2,4,4,su | ##sp | ##eet | ##ed,3,sus | pe | eted,3,sus | pe | eted,3,sus | pe | eted,3,sus | pe | eted
+poor,144,4,1,poor,1,poor,1,poor,1,poor,1,poor
+dirt,22,4,1,dirt,2,dir | t,1,dirt,2,d | irt,2,d | irt
+bad,95,4,1,bad,1,bad,1,bad,1,bad,1,bad
+readable,10,4,2,read | ##able,2,read | able,1,readable,2,read | able,2,read | able
+computer,101,4,1,computer,1,computer,1,computer,1,computer,1,computer
+intersection,34,4,1,intersection,1,intersection,1,intersection,1,intersection,2,inter | section
+bended,4,4,2,bend | ##ed,2,b | ended,2,b | ended,2,b | ended,2,b | ended
+revieuw,2,4,3,rev | ##ieu | ##w,3,rev | ie | uw,3,rev | ieu | w,3,rev | ie | uw,3,rev | ieu | w
+visiual,2,4,3,vis | ##iu | ##al,2,visi | ual,2,visi | ual,2,visi | ual,2,visi | ual
+coverd,2,4,2,cover | ##d,2,cover | d,2,cover | d,2,cover | d,2,cover | d
+damge,2,4,2,dam | ##ge,2,dam | ge,2,dam | ge,2,dam | ge,2,dam | ge
+probaly,2,4,3,pro | ##bal | ##y,3,pro | bal | y,3,pro | bal | y,2,prob | aly,3,pro | bal | y
+report,144,4,1,report,1,report,1,report,1,report,1,report
+complition,2,4,3,com | ##pl | ##ition,2,compl | ition,2,compl | ition,2,compl | ition,3,com | pl | ition
+residu,2,4,3,res | ##id | ##u,2,res | idu,2,res | idu,2,res | idu,2,res | idu
+visable,2,4,2,visa | ##ble,2,vis | able,2,vis | able,2,vis | able,2,vis | able
+max,47,4,1,max,1,max,1,max,1,max,1,max
+completion,39,4,1,completion,1,completion,1,completion,1,completion,2,com | pletion
+corner,52,4,1,corner,1,corner,1,corner,1,corner,2,cor | ner
+cool,26,4,1,cool,1,cool,1,cool,1,cool,1,cool
+fount,4,4,2,f | ##ount,2,f | ount,2,f | ount,2,f | ount,2,f | ount
+splatter,5,4,3,sp | ##lat | ##ter,2,spl | atter,2,spl | atter,2,spl | atter,3,s | pl | atter
+glue,7,4,1,glue,2,gl | ue,1,glue,2,gl | ue,2,gl | ue
+rapport,6,4,2,rap | ##port,1,rapport,1,rapport,1,rapport,2,rap | port
+maximum,38,4,1,maximum,1,maximum,1,maximum,1,maximum,1,maximum
+incoming,11,4,1,incoming,1,incoming,1,incoming,1,incoming,2,in | coming
+table,56,4,1,table,1,table,1,table,1,table,1,table
+hight,3,4,2,high | ##t,2,h | ight,2,h | ight,2,h | ight,2,h | ight
+electrician,5,4,2,electric | ##ian,2,electric | ian,2,electric | ian,2,electric | ian,2,electric | ian
+stuck,10,4,1,stuck,2,st | uck,2,st | uck,2,st | uck,2,st | uck
+partial,17,4,1,partial,1,partial,1,partial,1,partial,1,partial
+value,30,4,1,value,1,value,1,value,1,value,1,value
+area,352,4,1,area,1,area,1,area,1,area,1,area
+plastic,11,4,1,plastic,1,plastic,1,plastic,1,plastic,1,plastic
+additional,55,4,1,additional,1,additional,1,additional,1,additional,1,additional
+mising,2,4,2,mis | ##ing,2,m | ising,2,m | ising,2,m | ising,2,m | ising
+quantity,8,4,1,quantity,1,quantity,1,quantity,1,quantity,1,quantity
+protective,8,4,1,protective,2,protect | ive,1,protective,2,protect | ive,1,protective
+losse,2,4,2,loss | ##e,2,los | se,2,los | se,2,los | se,2,los | se
+available,52,4,1,available,1,available,1,available,1,available,1,available
+substitute,11,4,1,substitute,2,sub | stitute,2,sub | stitute,2,sub | stitute,2,sub | stitute
+app,7,4,1,app,1,app,1,app,1,app,1,app
+significant,38,4,1,significant,1,significant,1,significant,2,sign | ificant,2,sign | ificant
+cord,5,4,1,cord,1,cord,1,cord,1,cord,1,cord
+upto,2,4,2,up | ##to,2,up | to,2,upt | o,2,upt | o,2,upt | o
+light,36,4,1,light,1,light,1,light,1,light,1,light
+normal,14,4,1,normal,1,normal,1,normal,1,normal,1,normal
+internal,14,4,1,internal,1,internal,1,internal,1,internal,1,internal
+replacement,11,4,1,replacement,2,re | placement,1,replacement,1,replacement,2,re | placement
+part,352,4,1,part,1,part,1,part,1,part,1,part
+request,11,4,1,request,1,request,1,request,1,request,1,request
+advise,4,4,1,advise,2,adv | ise,2,adv | ise,2,adv | ise,2,adv | ise
+typical,11,4,1,typical,1,typical,1,typical,2,typ | ical,2,typ | ical
+recommend,4,4,1,recommend,1,recommend,1,recommend,1,recommend,2,re | commend
+present,41,4,1,present,1,present,1,present,1,present,1,present
+perform,10,4,1,perform,1,perform,1,perform,1,perform,1,perform
+review,19,4,1,review,1,review,1,review,1,review,1,review
+piesce,1,4,3,pie | ##sc | ##e,2,pies | ce,2,pies | ce,2,pies | ce,2,pies | ce
+severanl,1,4,3,se | ##vera | ##nl,3,sever | an | l,3,sever | an | l,4,se | ver | an | l,3,sever | an | l
+sideto,1,4,2,side | ##to,2,sid | eto,2,sid | eto,2,sid | eto,2,sid | eto
+transpoert,1,4,3,trans | ##po | ##ert,3,trans | po | ert,3,trans | po | ert,3,trans | po | ert,3,trans | po | ert
+indification,1,4,2,ind | ##ification,2,ind | ification,2,ind | ification,2,ind | ification,2,ind | ification
+identifaction,1,4,5,id | ##ent | ##if | ##act | ##ion,3,ident | if | action,3,ident | if | action,3,ident | if | action,3,ident | if | action
+douwnload,1,4,5,do | ##uw | ##nl | ##oa | ##d,3,dou | wn | load,3,dou | wn | load,3,dou | wn | load,4,d | ou | wn | load
+signsof,1,4,2,signs | ##of,2,sign | sof,2,sign | sof,2,sign | sof,3,sign | so | f
+placesmissing,1,4,3,places | ##mis | ##sing,2,places | missing,2,places | missing,2,places | missing,2,places | missing
+enviromentel,1,4,5,en | ##vir | ##ome | ##nte | ##l,4,env | iro | ment | el,5,en | vi | ro | ment | el,4,env | iro | ment | el,5,en | vi | ro | ment | el
+envouremental,1,4,4,en | ##vo | ##ure | ##mental,4,env | ou | rement | al,4,env | ou | rement | al,3,env | oure | mental,3,env | oure | mental
+dificult,1,4,4,di | ##fi | ##cu | ##lt,3,d | ific | ult,3,d | ific | ult,3,d | ific | ult,3,d | ific | ult
+inpackt,1,4,3,in | ##pack | ##t,3,in | pack | t,3,in | pack | t,3,in | pack | t,3,in | pack | t
+cheack,1,4,2,che | ##ack,2,che | ack,2,che | ack,2,che | ack,2,che | ack
+nosignificant,1,4,4,nos | ##ign | ##ific | ##ant,3,nos | ign | ificant,3,nos | ign | ificant,3,nos | ign | ificant,3,nos | ign | ificant
+leadinng,1,4,3,lead | ##inn | ##g,3,le | adin | ng,3,le | adin | ng,3,le | adin | ng,3,le | adin | ng
+complaind,1,4,2,complain | ##d,3,com | pla | ind,3,com | plain | d,3,compl | a | ind,3,com | plain | d
+possibel,1,4,3,po | ##ssi | ##bel,2,poss | ibel,2,poss | ibel,2,poss | ibel,2,poss | ibel
+satisfactionay,1,4,2,satisfaction | ##ay,3,satisf | action | ay,3,satisf | action | ay,3,s | atisfaction | ay,4,s | atisf | action | ay
+polution,1,4,2,pol | ##ution,2,pol | ution,2,p | olution,2,pol | ution,2,p | olution
+prjct,1,4,3,pr | ##j | ##ct,3,pr | j | ct,2,prj | ct,3,pr | j | ct,3,pr | j | ct
+andlower,1,4,3,and | ##lowe | ##r,2,and | lower,2,and | lower,2,and | lower,2,and | lower
+sustem,1,4,3,su | ##ste | ##m,3,s | ust | em,2,sust | em,3,s | ust | em,3,s | ust | em
+lenghti,1,4,3,len | ##ght | ##i,2,leng | hti,2,leng | hti,2,leng | hti,3,l | eng | hti
+incomming,1,4,3,inc | ##om | ##ming,3,in | comm | ing,3,in | comm | ing,3,in | comm | ing,3,in | com | ming
+sevaral,1,4,3,se | ##vara | ##l,3,se | var | al,3,se | var | al,3,se | var | al,3,se | var | al
+numner,1,4,3,nu | ##m | ##ner,2,num | ner,2,num | ner,2,num | ner,2,num | ner
+sctrach,1,4,3,sc | ##tra | ##ch,3,s | ct | rach,3,s | ct | rach,3,s | ct | rach,3,s | ct | rach
+stationairy,1,4,3,station | ##air | ##y,2,station | airy,2,station | airy,2,station | airy,3,station | air | y
+tranportation,1,4,3,tran | ##port | ##ation,3,tran | port | ation,3,tran | port | ation,3,tran | port | ation,3,tran | port | ation
+treahd,1,4,3,tre | ##ah | ##d,3,tre | ah | d,3,tre | ah | d,3,tre | ah | d,3,tre | ah | d
+sugest,1,4,3,su | ##ges | ##t,3,s | ug | est,3,s | ug | est,3,s | ug | est,3,s | ug | est
+arrival,8,4,1,arrival,1,arrival,1,arrival,1,arrival,2,arr | ival
+download,5,4,1,download,1,download,1,download,1,download,1,download
+clean,6,4,1,clean,1,clean,1,clean,1,clean,1,clean
+piecesa,1,4,2,pieces | ##a,2,pieces | a,2,pieces | a,2,pieces | a,2,pieces | a
+removel,1,4,2,remove | ##l,2,rem | ovel,2,rem | ovel,2,rem | ovel,2,rem | ovel
+thisshop,1,4,3,this | ##sho | ##p,2,this | shop,3,th | iss | hop,2,this | shop,4,th | iss | h | op
+appliccable,1,4,3,app | ##lic | ##cable,4,ap | plic | c | able,2,applic | cable,4,app | lic | c | able,4,ap | plic | c | able
+signd,1,4,2,sign | ##d,2,sign | d,2,sig | nd,2,sig | nd,2,sig | nd
+parental,3,4,1,parental,2,parent | al,2,parent | al,2,parent | al,2,parent | al
+insuficient,1,4,3,ins | ##uf | ##icient,3,ins | uf | icient,3,ins | uf | icient,3,ins | uf | icient,3,ins | uf | icient
+complete,13,4,1,complete,1,complete,1,complete,1,complete,1,complete
+completeness,2,4,2,complete | ##ness,3,com | ple | teness,2,comple | teness,3,com | ple | teness,3,com | ple | teness
+sufferd,1,4,2,suffer | ##d,3,su | ffer | d,3,s | uffer | d,3,s | uffer | d,3,su | ffer | d
+picure,1,4,2,pic | ##ure,2,pic | ure,2,pic | ure,2,pic | ure,2,pic | ure
+appox,1,4,2,app | ##ox,2,app | ox,2,app | ox,2,app | ox,2,app | ox
+totaly,1,4,2,total | ##y,2,total | y,2,total | y,2,total | y,2,total | y
+thelower,1,4,3,the | ##lowe | ##r,2,the | lower,2,the | lower,2,the | lower,2,the | lower
+uitgevoerd,1,4,6,ui | ##t | ##ge | ##vo | ##er | ##d,3,uit | ge | voerd,3,uit | ge | voerd,3,uit | ge | voerd,3,uit | ge | voerd
+minimun,1,4,2,mini | ##mun,3,min | im | un,2,minim | un,3,min | im | un,3,min | im | un
+morethan,1,4,2,more | ##than,3,mor | eth | an,2,more | than,2,more | than,3,mor | eth | an
+reduced,8,4,1,reduced,1,reduced,1,reduced,2,re | duced,2,redu | ced
+activity,8,4,1,activity,1,activity,1,activity,1,activity,1,activity
+result,18,4,1,result,1,result,1,result,1,result,1,result
+centimeter,2,4,2,cent | ##imeter,2,cent | imeter,2,cent | imeter,2,cent | imeter,2,cent | imeter
+loss,10,4,1,loss,1,loss,1,loss,1,loss,1,loss
+data,9,4,1,data,1,data,1,data,1,data,1,data
+inpact,1,4,3,in | ##pac | ##t,2,inp | act,2,inp | act,2,inp | act,2,inp | act
+generel,1,4,2,gene | ##rel,2,gener | el,2,gener | el,2,gener | el,2,gener | el
+moist,3,4,1,moist,2,mo | ist,2,mo | ist,2,mo | ist,2,mo | ist
+overall,10,4,1,overall,1,overall,1,overall,1,overall,2,over | all
+row,5,4,1,row,1,row,1,row,1,row,1,row
+transport,8,4,1,transport,1,transport,1,transport,1,transport,1,transport
+paperwork,2,4,1,paperwork,2,paper | work,2,paper | work,2,paper | work,2,paper | work
+sand,4,4,1,sand,1,sand,1,sand,1,sand,2,s | and
+effective,6,4,1,effective,1,effective,1,effective,1,effective,2,e | ffective
+cloudy,2,4,1,cloudy,2,cloud | y,2,cloud | y,2,cloud | y,2,cloud | y
+generic,3,4,1,generic,1,generic,1,generic,1,generic,1,generic
+procent,1,4,2,pro | ##cent,2,pro | cent,2,pro | cent,2,pro | cent,2,pro | cent
+video,11,4,1,video,1,video,1,video,1,video,1,video
+salt,4,4,1,salt,1,salt,1,salt,1,salt,2,s | alt
+short,14,4,1,short,1,short,1,short,1,short,1,short
+bill,7,4,1,bill,1,bill,1,bill,1,bill,1,bill
+noted,8,4,1,noted,2,not | ed,2,not | ed,2,not | ed,2,not | ed
+consult,2,4,1,consult,1,consult,1,consult,1,consult,2,cons | ult
+detailed,4,4,1,detailed,2,d | etailed,1,detailed,2,d | etailed,2,d | etailed
+improper,2,4,1,improper,2,im | proper,2,im | proper,2,im | proper,3,im | pro | per
+multi,5,4,1,multi,1,multi,1,multi,1,multi,1,multi
+difference,4,4,1,difference,1,difference,1,difference,1,difference,2,d | ifference
+hour,5,4,1,hour,1,hour,1,hour,1,hour,1,hour
+percent,4,4,1,percent,1,percent,1,percent,1,percent,1,percent
+management,7,4,1,management,1,management,1,management,1,management,1,management
+miner,2,4,1,miner,1,miner,1,miner,1,miner,2,min | er
+file,3,4,1,file,1,file,1,file,1,file,1,file
+circumstantially,1,4,6,ci | ##rc | ##ums | ##tan | ##tial | ##ly,4,circ | um | stant | ially,2,circum | stantially,4,circ | um | stant | ially,4,circ | um | stant | ially
+rest,6,4,1,rest,1,rest,1,rest,1,rest,1,rest
+basic,4,4,1,basic,1,basic,1,basic,1,basic,1,basic
+necessary,4,4,1,necessary,1,necessary,1,necessary,1,necessary,2,necess | ary
+robbery,2,4,1,robbery,2,rob | bery,2,rob | bery,2,rob | bery,2,rob | bery
+information,7,4,1,information,1,information,1,information,1,information,1,information
+gill,2,4,1,gill,2,g | ill,1,gill,2,g | ill,2,g | ill
+useable,1,4,2,use | ##able,2,use | able,2,use | able,2,use | able,2,use | able
+cleaning,2,4,1,cleaning,2,clean | ing,1,cleaning,2,clean | ing,2,cle | aning
+able,6,4,1,able,1,able,1,able,1,able,1,able
+posible,1,4,2,po | ##sible,2,pos | ible,2,pos | ible,2,pos | ible,2,pos | ible
+remain,4,4,1,remain,1,remain,1,remain,1,remain,2,rem | ain
+evidence,4,4,1,evidence,1,evidence,1,evidence,2,e | vidence,2,ev | idence
+average,5,4,1,average,1,average,1,average,1,average,1,average
+costumer,1,4,2,costume | ##r,2,cost | umer,2,cost | umer,2,cost | umer,2,cost | umer
+floe,1,4,2,fl | ##oe,2,f | loe,2,flo | e,2,f | loe,2,f | loe
+outside,5,4,1,outside,1,outside,1,outside,1,outside,1,outside
+minimal,2,4,1,minimal,1,minimal,1,minimal,1,minimal,2,min | imal
+need,4,4,1,need,1,need,1,need,1,need,1,need
+transporte,1,4,2,transport | ##e,2,trans | porte,2,trans | porte,2,trans | porte,2,trans | porte
+problem,3,4,1,problem,1,problem,1,problem,1,problem,1,problem
+pen,2,4,1,pen,1,pen,1,pen,1,pen,1,pen
+return,5,4,1,return,1,return,1,return,1,return,1,return
+error,2,4,1,error,1,error,1,error,1,error,1,error
+label,3,4,1,label,1,label,1,label,1,label,1,label
+wide,4,4,1,wide,1,wide,1,wide,1,wide,1,wide
+thick,2,4,1,thick,1,thick,1,thick,2,th | ick,2,th | ick
+invoice,1,4,3,in | ##vo | ##ice,1,invoice,1,invoice,1,invoice,1,invoice
+remove,2,4,1,remove,1,remove,1,remove,1,remove,1,remove
+close,4,4,1,close,1,close,1,close,1,close,1,close
+silver,3,4,1,silver,1,silver,1,silver,1,silver,2,sil | ver
+threat,2,4,1,threat,2,th | reat,1,threat,2,th | reat,2,th | reat
+fuzz,1,4,2,fu | ##zz,2,f | uzz,2,f | uzz,2,f | uzz,2,f | uzz
+bode,1,4,2,bo | ##de,2,b | ode,2,b | ode,2,b | ode,2,b | ode
+discard,1,4,2,disc | ##ard,2,disc | ard,1,discard,1,discard,2,disc | ard
+outermost,1,4,2,outer | ##most,2,out | ermost,2,outer | most,2,outer | most,2,outer | most
+sticker,1,4,2,stick | ##er,2,st | icker,1,sticker,2,st | icker,2,st | icker
+filthy,1,4,1,filthy,2,fil | thy,2,fil | thy,2,fil | thy,2,fil | thy
+expiry,1,4,3,ex | ##pi | ##ry,2,ex | piry,1,expiry,1,expiry,2,ex | piry
+liter,1,4,1,liter,1,liter,1,liter,1,liter,1,liter
+cleanup,1,4,1,cleanup,1,cleanup,1,cleanup,1,cleanup,2,clean | up
+dark,2,4,1,dark,1,dark,1,dark,1,dark,1,dark
+cause,2,4,1,cause,1,cause,1,cause,1,cause,1,cause
+addition,3,4,1,addition,1,addition,1,addition,1,addition,2,add | ition
+attention,2,4,1,attention,1,attention,1,attention,1,attention,2,att | ention
+removed,2,4,1,removed,1,removed,1,removed,1,removed,1,removed
+time,9,4,1,time,1,time,1,time,1,time,1,time
+shipment,1,4,1,shipment,1,shipment,2,ship | ment,1,shipment,2,ship | ment
+rusty,1,4,1,rusty,2,rust | y,1,rusty,2,rust | y,2,rust | y
+specific,2,4,1,specific,1,specific,1,specific,1,specific,1,specific
+federal,2,4,1,federal,2,f | ederal,1,federal,2,f | ederal,2,f | ederal
+administration,2,4,1,administration,1,administration,1,administration,2,administr | ation,2,ad | ministration
+emigration,1,4,1,emigration,2,em | igration,2,em | igration,2,em | igration,2,em | igration
+noticeable,1,4,1,noticeable,2,notice | able,2,notice | able,2,notice | able,2,notice | able
+calculation,1,4,1,calculation,1,calculation,1,calculation,2,cal | culation,2,calc | ulation
+mound,1,4,1,mound,2,m | ound,2,m | ound,2,m | ound,2,m | ound
+limited,2,4,1,limited,1,limited,1,limited,1,limited,1,limited
+dig,1,4,1,dig,1,dig,1,dig,1,dig,1,dig
+local,3,4,1,local,1,local,1,local,1,local,1,local
+force,2,4,1,force,1,force,1,force,1,force,1,force
+portable,1,4,1,portable,2,port | able,1,portable,1,portable,2,port | able
+centre,2,4,1,centre,1,centre,1,centre,1,centre,2,cent | re
+burnt,1,4,1,burnt,2,burn | t,1,burnt,2,burn | t,2,burn | t
+pointing,1,4,1,pointing,2,point | ing,1,pointing,2,point | ing,2,point | ing
+repeat,1,4,1,repeat,1,repeat,1,repeat,1,repeat,1,repeat
+update,1,4,1,update,1,update,1,update,1,update,1,update
+edges,1,4,1,edges,1,edges,1,edges,1,edges,1,edges
+longtime,1,4,1,longtime,2,long | time,2,long | time,2,long | time,2,long | time
+vicinity,1,4,1,vicinity,2,vic | inity,2,vic | inity,2,vic | inity,2,vic | inity
+raw,1,4,1,raw,1,raw,1,raw,1,raw,1,raw
+accurate,1,4,1,accurate,2,acc | urate,1,accurate,2,accur | ate,2,accur | ate
+shipping,1,4,1,shipping,1,shipping,1,shipping,1,shipping,1,shipping
+thin,1,4,1,thin,1,thin,1,thin,1,thin,2,th | in
+bold,1,4,1,bold,1,bold,1,bold,1,bold,1,bold
+identical,1,4,1,identical,1,identical,1,identical,2,ident | ical,2,ident | ical
+relevant,1,4,1,relevant,1,relevant,1,relevant,2,re | levant,2,re | levant
+ride,1,4,1,ride,1,ride,1,ride,1,ride,1,ride
+coal,1,4,1,coal,1,coal,1,coal,1,coal,1,coal
+object,1,4,1,object,1,object,1,object,1,object,1,object
+duo,1,4,1,duo,1,duo,2,du | o,2,du | o,2,du | o
+conclusion,1,4,1,conclusion,2,con | clusion,1,conclusion,2,con | clusion,2,con | clusion
+second,3,4,1,second,1,second,1,second,1,second,1,second
+option,1,4,1,option,1,option,1,option,1,option,1,option
+unusual,1,4,1,unusual,2,un | usual,2,un | usual,2,un | usual,2,un | usual
+proper,1,4,1,proper,1,proper,1,proper,1,proper,2,pro | per
+loan,1,4,1,loan,1,loan,1,loan,1,loan,1,loan
+ward,1,4,1,ward,1,ward,1,ward,1,ward,1,ward
+temporary,1,4,1,temporary,1,temporary,1,temporary,1,temporary,2,t | emporary
+equal,1,4,1,equal,1,equal,1,equal,1,equal,1,equal
+overview,1,4,1,overview,1,overview,1,overview,1,overview,1,overview
+eye,1,4,1,eye,1,eye,1,eye,1,eye,1,eye
+determined,1,4,1,determined,1,determined,1,determined,2,determ | ined,2,determ | ined
+content,1,4,1,content,1,content,1,content,1,content,1,content
+agreement,1,4,1,agreement,1,agreement,1,agreement,1,agreement,2,ag | reement
+connected,1,4,1,connected,1,connected,1,connected,1,connected,1,connected
+alternative,1,4,1,alternative,1,alternative,1,alternative,1,alternative,2,altern | ative
+environment,1,4,1,environment,1,environment,1,environment,1,environment,1,environment
+presence,1,4,1,presence,1,presence,1,presence,1,presence,1,presence
+direction,1,4,1,direction,1,direction,1,direction,1,direction,1,direction
+lack,1,4,1,lack,1,lack,1,lack,1,lack,1,lack
+attempt,1,4,1,attempt,1,attempt,1,attempt,1,attempt,2,att | empt
+remaining,1,4,1,remaining,1,remaining,1,remaining,1,remaining,1,remaining
+self,1,4,1,self,1,self,1,self,1,self,1,self
+united,2,4,1,united,2,un | ited,1,united,2,un | ited,2,un | ited
+description,1,4,1,description,1,description,1,description,1,description,1,description
+associated,1,4,1,associated,1,associated,1,associated,1,associated,1,associated
+organization,1,4,1,organization,1,organization,1,organization,1,organization,1,organization
+prior,1,4,1,prior,1,prior,1,prior,1,prior,2,p | rior
+term,1,4,1,term,1,term,1,term,1,term,1,term
+man,1,4,1,man,1,man,1,man,1,man,1,man
+loose,499,4,1,loose,2,lo | ose,1,loose,2,lo | ose,2,lo | ose
+piece,203,4,1,piece,1,piece,1,piece,1,piece,1,piece
+quick,58,4,1,quick,1,quick,1,quick,1,quick,1,quick
+width,43,4,1,width,1,width,1,width,1,width,1,width
+note,103,4,1,note,1,note,1,note,1,note,1,note
+unreadable,5,4,3,un | ##rea | ##dable,3,un | read | able,2,un | readable,3,un | read | able,3,un | read | able
+broken,36,4,1,broken,1,broken,1,broken,1,broken,1,broken
+missing,72,4,1,missing,1,missing,1,missing,1,missing,1,missing
+correct,13,4,1,correct,1,correct,1,correct,1,correct,1,correct
+incorrect,6,4,1,incorrect,1,incorrect,1,incorrect,1,incorrect,2,inc | orrect
+noticed,8,4,1,noticed,2,not | iced,1,noticed,1,noticed,2,not | iced
+location,29,4,1,location,1,location,1,location,1,location,1,location
+visit,13,4,1,visit,1,visit,1,visit,1,visit,1,visit
+addittional,1,4,3,add | ##itt | ##ional,3,add | itt | ional,3,add | itt | ional,4,add | it | tion | al,3,add | itt | ional
+cunsult,1,4,3,cu | ##ns | ##ult,3,c | uns | ult,3,c | uns | ult,3,c | uns | ult,3,c | uns | ult
+recomend,1,4,3,rec | ##ome | ##nd,2,re | comend,1,recomend,2,re | comend,3,re | com | end
+arounfd,1,4,4,ar | ##oun | ##f | ##d,3,ar | oun | fd,3,ar | oun | fd,3,ar | oun | fd,3,ar | oun | fd
+gerneral,1,4,3,ge | ##rner | ##al,3,ger | ner | al,3,ger | ner | al,3,ger | ner | al,2,gern | eral
+seperate,1,4,2,sep | ##erate,3,se | per | ate,2,se | perate,2,se | perate,3,se | per | ate
+side,26,4,1,side,1,side,1,side,1,side,1,side
+end,44,4,1,end,1,end,1,end,1,end,1,end
+actual,5,4,1,actual,1,actual,1,actual,1,actual,1,actual
+total,16,4,1,total,1,total,1,total,1,total,1,total
+opposite,3,4,1,opposite,2,op | posite,1,opposite,2,op | posite,2,op | posite
+different,7,4,1,different,1,different,1,different,1,different,1,different
+page,4,4,1,page,1,page,1,page,1,page,1,page
+spry,1,4,2,sp | ##ry,2,spr | y,2,sp | ry,2,spr | y,2,spr | y
+relation,2,4,1,relation,1,relation,1,relation,1,relation,1,relation
+room,3,4,1,room,1,room,1,room,1,room,1,room
+extra,2,4,1,extra,1,extra,1,extra,1,extra,1,extra
+champion,2,4,1,champion,2,ch | ampion,1,champion,2,champ | ion,2,ch | ampion
+regular,2,4,1,regular,1,regular,1,regular,1,regular,1,regular
+house,3,4,1,house,1,house,1,house,1,house,1,house
+mild,1,4,1,mild,2,m | ild,1,mild,2,m | ild,2,m | ild
+refer,2,4,1,refer,1,refer,1,refer,1,refer,1,refer
+mention,1,4,1,mention,1,mention,1,mention,1,mention,2,ment | ion
+ready,1,4,1,ready,1,ready,1,ready,1,ready,1,ready
+apart,1,4,1,apart,1,apart,1,apart,1,apart,1,apart
+letter,1,4,1,letter,1,letter,1,letter,1,letter,1,letter
+entire,1,4,1,entire,2,ent | ire,1,entire,2,ent | ire,2,ent | ire
+notable,1,4,1,notable,2,not | able,2,not | able,2,not | able,2,not | able
+late,1,4,1,late,1,late,1,late,1,late,1,late
+following,1,4,1,following,1,following,1,following,1,following,1,following
+found,1,4,1,found,1,found,1,found,1,found,1,found
+serveral,26,4,2,server | ##al,2,server | al,2,server | al,2,server | al,2,server | al
+picture,277,4,1,picture,1,picture,1,picture,1,picture,1,picture
+low,902,4,1,low,1,low,1,low,1,low,1,low
+minute,240,4,1,minute,1,minute,1,minute,1,minute,2,min | ute
+punt,20,4,1,punt,1,punt,1,punt,1,punt,1,punt
+right,605,4,1,right,1,right,1,right,1,right,1,right
+thanone,2,4,2,than | ##one,2,than | one,2,than | one,2,than | one,2,than | one
+photo,52,4,1,photo,1,photo,1,photo,1,photo,1,photo
+customer,23,4,1,customer,1,customer,1,customer,1,customer,1,customer
+wrong,32,4,1,wrong,1,wrong,1,wrong,1,wrong,1,wrong
+small,563,4,1,small,1,small,1,small,1,small,1,small
+gereral,2,4,3,ge | ##rera | ##l,2,ger | eral,2,ger | eral,2,ger | eral,2,ger | eral
+high,683,4,1,high,1,high,1,high,1,high,1,high
+left,257,4,1,left,1,left,1,left,1,left,1,left
+deep,33,4,1,deep,1,deep,1,deep,1,deep,1,deep
+dusty,5,4,1,dusty,2,d | usty,2,dust | y,2,dust | y,3,d | ust | y
+general,200,4,1,general,1,general,1,general,1,general,1,general
+send,13,4,1,send,1,send,1,send,1,send,1,send
+reason,21,4,1,reason,1,reason,1,reason,1,reason,1,reason
+smal,2,4,2,sm | ##al,2,sm | al,2,sm | al,2,sm | al,2,s | mal
+missin,2,4,2,miss | ##in,2,miss | in,2,miss | in,2,miss | in,2,miss | in
+possible,35,4,1,possible,1,possible,1,possible,1,possible,1,possible
+extern,2,4,2,ex | ##tern,1,extern,1,extern,1,extern,1,extern
+witch,6,4,1,witch,1,witch,1,witch,1,witch,1,witch
+unknown,22,4,1,unknown,1,unknown,1,unknown,1,unknown,1,unknown
+dust,6,4,1,dust,2,d | ust,1,dust,1,dust,2,d | ust
+text,15,4,1,text,1,text,1,text,1,text,1,text
+impossible,7,4,1,impossible,2,im | possible,1,impossible,2,im | possible,2,im | possible
+large,53,4,1,large,1,large,1,large,1,large,1,large
+department,36,4,1,department,1,department,1,department,1,department,1,department
+red,28,4,1,red,1,red,1,red,1,red,1,red
+trust,10,4,1,trust,1,trust,1,trust,1,trust,2,tr | ust
+slight,5,4,1,slight,2,sl | ight,2,sl | ight,2,sl | ight,2,s | light
+multiple,17,4,1,multiple,1,multiple,1,multiple,1,multiple,1,multiple
+piciture,1,4,3,pic | ##it | ##ure,2,pic | iture,3,p | icit | ure,2,pic | iture,2,pic | iture
+picie,1,4,2,pic | ##ie,2,pic | ie,2,pic | ie,2,pic | ie,2,pic | ie
+sevral,1,4,3,se | ##vr | ##al,2,sev | ral,2,sev | ral,2,sev | ral,2,se | vral
+allowedto,1,4,2,allowed | ##to,2,allowed | to,2,allowed | to,2,allowed | to,2,allowed | to
+beensent,1,4,3,been | ##sen | ##t,3,be | ens | ent,3,be | ens | ent,3,be | ens | ent,3,be | ens | ent
+severalminor,1,4,3,several | ##min | ##or,3,se | veral | minor,2,several | minor,3,se | veral | minor,3,sever | al | minor
+lessthen,1,4,3,less | ##the | ##n,3,les | st | hen,3,les | st | hen,3,les | st | hen,3,les | st | hen
+aplicable,1,4,3,ap | ##lica | ##ble,2,aplic | able,2,aplic | able,2,ap | licable,3,ap | lic | able
+foundseveral,1,4,4,found | ##se | ##vera | ##l,3,found | se | veral,2,found | several,3,found | se | veral,3,found | sever | al
+chapther,1,4,3,cha | ##pt | ##her,2,chap | ther,2,chap | ther,2,chap | ther,2,chap | ther
+vieuw,1,4,2,vie | ##uw,2,vie | uw,3,v | ieu | w,2,vie | uw,3,v | ieu | w
+non,41,4,1,non,1,non,1,non,1,non,1,non
+number,74,4,1,number,1,number,1,number,1,number,1,number
+pound,4,4,1,pound,2,p | ound,1,pound,2,p | ound,2,p | ound
+big,17,4,1,big,1,big,1,big,1,big,1,big
+inside,12,4,1,inside,1,inside,1,inside,1,inside,1,inside
+black,25,4,1,black,1,black,1,black,1,black,1,black
+shortest,3,4,1,shortest,2,short | est,1,shortest,2,short | est,2,short | est
+throuh,1,4,3,th | ##rou | ##h,2,thro | uh,3,th | rou | h,3,th | rou | h,3,th | rou | h
+waarschijnlijk,1,4,6,wa | ##ars | ##chi | ##jn | ##li | ##jk,3,wa | arsch | ijnlijk,2,wa | arschijnlijk,2,wa | arschijnlijk,2,wa | arschijnlijk
+accross,1,4,2,acc | ##ross,2,acc | ross,2,acc | ross,2,acc | ross,2,acc | ross
+linit,1,4,2,lin | ##it,2,l | init,2,l | init,2,l | init,2,l | init
+suppy,1,4,2,su | ##ppy,2,sup | py,2,su | ppy,2,supp | y,2,supp | y
+deveral,1,4,2,dev | ##eral,2,de | veral,3,de | ver | al,2,de | veral,3,de | ver | al
+long,34,4,1,long,1,long,1,long,1,long,1,long
+continue,8,4,1,continue,1,continue,1,continue,1,continue,1,continue
+show,17,4,1,show,1,show,1,show,1,show,1,show
+place,39,4,1,place,1,place,1,place,1,place,1,place
+eachother,1,4,3,each | ##oth | ##er,2,each | other,2,each | other,2,each | other,2,each | other
+date,10,4,1,date,1,date,1,date,1,date,1,date
+info,3,4,1,info,1,info,1,info,1,info,1,info
+unknow,1,4,3,un | ##k | ##now,2,unk | now,2,unk | now,2,unk | now,2,unk | now
+lose,4,4,1,lose,1,lose,1,lose,1,lose,1,lose
+old,19,4,1,old,1,old,1,old,1,old,1,old
+white,13,4,1,white,1,white,1,white,1,white,1,white
+unable,5,4,1,unable,1,unable,1,unable,1,unable,2,un | able
+little,10,4,1,little,1,little,1,little,1,little,1,little
+good,9,4,1,good,1,good,1,good,1,good,1,good
+previous,8,4,1,previous,1,previous,1,previous,1,previous,1,previous
+breading,1,4,2,bread | ##ing,2,b | reading,2,bread | ing,2,b | reading,2,b | reading
+heather,2,4,1,heather,2,he | ather,2,he | ather,2,he | ather,2,he | ather
+severall,1,4,2,several | ##l,2,sever | all,2,sever | all,3,se | ver | all,2,sever | all
+month,5,4,1,month,1,month,1,month,1,month,1,month
+half,7,4,1,half,1,half,1,half,1,half,1,half
+madding,1,4,2,mad | ##ding,2,m | adding,2,m | adding,2,m | adding,2,m | adding
+bothe,1,4,2,both | ##e,2,bot | he,2,bot | he,2,bot | he,2,bot | he
+cust,1,4,2,cu | ##st,1,cust,1,cust,1,cust,2,c | ust
+brown,4,4,1,brown,1,brown,1,brown,1,brown,2,b | rown
+blue,4,4,1,blue,1,blue,1,blue,1,blue,1,blue
+danger,2,4,1,danger,1,danger,1,danger,1,danger,1,danger
+mail,2,4,1,mail,1,mail,1,mail,1,mail,1,mail
+advice,2,4,1,advice,1,advice,1,advice,2,ad | vice,2,adv | ice
+sigh,1,4,1,sigh,2,s | igh,1,sigh,2,s | igh,2,s | igh
+use,6,4,1,use,1,use,1,use,1,use,1,use
+water,4,4,1,water,1,water,1,water,1,water,1,water
+pomp,1,4,2,po | ##mp,2,p | omp,2,p | omp,2,p | omp,2,p | omp
+great,5,4,1,great,1,great,1,great,1,great,1,great
+folder,1,4,1,folder,1,folder,1,folder,1,folder,1,folder
+factory,2,4,1,factory,1,factory,1,factory,1,factory,1,factory
+order,5,4,1,order,1,order,1,order,1,order,1,order
+staggering,1,4,1,staggering,3,st | agger | ing,3,st | agger | ing,3,st | agger | ing,3,st | agger | ing
+start,3,4,1,start,1,start,1,start,1,start,1,start
+new,16,4,1,new,1,new,1,new,1,new,1,new
+way,4,4,1,way,1,way,1,way,1,way,1,way
+middle,3,4,1,middle,1,middle,1,middle,1,middle,1,middle
+amount,2,4,1,amount,1,amount,1,amount,1,amount,1,amount
+look,2,4,1,look,1,look,1,look,1,look,1,look
+difficult,2,4,1,difficult,2,d | ifficult,1,difficult,2,d | ifficult,2,diff | icult
+rave,1,4,1,rave,1,rave,1,rave,2,r | ave,1,rave
+thorn,1,4,1,thorn,1,thorn,1,thorn,1,thorn,2,th | orn
+ware,1,4,1,ware,1,ware,1,ware,1,ware,1,ware
+duel,1,4,1,duel,2,du | el,1,duel,2,du | el,2,du | el
+bust,1,4,1,bust,2,b | ust,1,bust,2,b | ust,2,b | ust
+facial,1,4,1,facial,1,facial,1,facial,2,fac | ial,2,f | acial
+pour,1,4,1,pour,1,pour,1,pour,1,pour,1,pour
+terrible,1,4,1,terrible,2,ter | rible,2,ter | rible,2,terr | ible,2,ter | rible
+stuff,1,4,1,stuff,1,stuff,1,stuff,1,stuff,1,stuff
+underneath,1,4,1,underneath,2,under | neath,2,under | neath,2,under | neath,2,under | neath
+rap,1,4,1,rap,1,rap,1,rap,1,rap,1,rap
+mistake,1,4,1,mistake,2,mist | ake,2,mist | ake,2,mist | ake,2,mist | ake
+tiny,1,4,1,tiny,1,tiny,1,tiny,1,tiny,1,tiny
+obvious,1,4,1,obvious,2,ob | vious,2,ob | vious,2,ob | vious,2,ob | vious
+hat,1,4,1,hat,1,hat,1,hat,1,hat,1,hat
+lie,1,4,1,lie,1,lie,1,lie,1,lie,1,lie
+pain,1,4,1,pain,1,pain,1,pain,1,pain,1,pain
+ask,1,4,1,ask,1,ask,1,ask,1,ask,1,ask
+near,2,4,1,near,1,near,1,near,1,near,1,near
+grey,1,4,1,grey,1,grey,1,grey,1,grey,1,grey
+thing,1,4,1,thing,1,thing,1,thing,1,thing,1,thing
+orange,1,4,1,orange,1,orange,1,orange,1,orange,1,orange
+day,2,4,1,day,1,day,1,day,1,day,1,day
+evening,1,4,1,evening,2,even | ing,1,evening,2,even | ing,2,even | ing
+blood,1,4,1,blood,1,blood,1,blood,1,blood,2,b | lood
+looking,1,4,1,looking,1,looking,1,looking,1,looking,2,lo | oking
+yellow,1,4,1,yellow,1,yellow,1,yellow,1,yellow,1,yellow
+begin,1,4,1,begin,1,begin,1,begin,1,begin,1,begin
+situation,1,4,1,situation,2,s | ituation,1,situation,2,s | ituation,3,s | itu | ation
+paper,1,4,1,paper,1,paper,1,paper,1,paper,1,paper
+likely,1,4,1,likely,1,likely,1,likely,1,likely,1,likely
+van,1,4,1,van,1,van,1,van,1,van,1,van
+movie,1,4,1,movie,1,movie,1,movie,1,movie,1,movie
+prize,1,4,1,prize,2,pri | ze,1,prize,2,pr | ize,2,pri | ze
+sport,1,4,1,sport,1,sport,1,sport,1,sport,2,s | port
+sent,1,4,1,sent,1,sent,1,sent,1,sent,1,sent
+year,2,4,1,year,1,year,1,year,1,year,1,year
+international,1,4,1,international,1,international,1,international,1,international,2,intern | ational
+name,1,4,1,name,1,name,1,name,1,name,1,name
+well,1,4,1,well,1,well,1,well,1,well,1,well
+an,1,4,1,an,1,an,1,an,1,an,1,an
+ndo,70,5,2,n | ##do,1,ndo,1,ndo,1,ndo,2,nd | o
+fotobestand,10,5,5,f | ##oto | ##bes | ##tan | ##d,3,fot | ob | estand,3,fot | ob | estand,3,fot | ob | estand,4,f | ot | ob | estand
+aera,34,5,2,ae | ##ra,2,a | era,2,a | era,2,a | era,2,a | era
+sheat,16,5,2,shea | ##t,2,s | heat,2,she | at,2,s | heat,2,she | at
+guid,21,5,2,gui | ##d,1,guid,1,guid,1,guid,1,guid
+rubbe,4,5,2,rub | ##be,2,rub | be,2,rub | be,2,rub | be,2,rub | be
+cracket,3,5,2,crack | ##et,2,c | racket,2,cr | acket,2,cr | acket,2,c | racket
+bestand,5,5,2,best | ##and,1,bestand,1,bestand,1,bestand,2,best | and
+clk,6,5,2,cl | ##k,1,clk,1,clk,1,clk,2,cl | k
+unkn,3,5,3,un | ##k | ##n,2,unk | n,2,un | kn,2,unk | n,2,unk | n
+etop,3,5,2,et | ##op,2,et | op,1,etop,1,etop,2,et | op
+foto,8,5,2,f | ##oto,1,foto,1,foto,1,foto,2,f | oto
+sterderduct,2,5,4,ste | ##rder | ##du | ##ct,3,ster | der | duct,3,ster | der | duct,3,ster | der | duct,3,ster | der | duct
+devation,2,5,2,dev | ##ation,2,dev | ation,2,dev | ation,2,dev | ation,2,dev | ation
+eadge,2,5,2,ea | ##dge,2,ead | ge,2,ead | ge,2,ead | ge,2,ead | ge
+dirthy,2,5,2,dirt | ##hy,2,dir | thy,2,dir | thy,2,dir | thy,2,dir | thy
+serverall,2,5,2,server | ##all,2,server | all,2,server | all,2,server | all,2,server | all
+imact,2,5,2,im | ##act,2,im | act,2,im | act,2,im | act,2,im | act
+lptacc,2,5,3,lp | ##ta | ##cc,3,l | pt | acc,3,l | pt | acc,3,l | pt | acc,3,l | pt | acc
+contr,3,5,2,con | ##tr,1,contr,1,contr,1,contr,1,contr
+foundin,2,5,2,found | ##in,2,found | in,2,found | in,2,found | in,2,found | in
+evener,2,5,2,even | ##er,2,ev | ener,2,ev | ener,2,ev | ener,2,ev | ener
+bumber,2,5,2,bum | ##ber,2,b | umber,2,b | umber,2,b | umber,2,bum | ber
+thead,2,5,2,the | ##ad,1,thead,1,thead,1,thead,1,thead
+harne,2,5,2,ha | ##rne,2,har | ne,2,har | ne,2,har | ne,2,har | ne
+linner,2,5,2,lin | ##ner,2,lin | ner,2,lin | ner,2,lin | ner,2,lin | ner
+unna,3,5,2,un | ##na,2,un | na,1,unna,1,unna,2,un | na
+paly,2,5,2,pal | ##y,2,pal | y,2,p | aly,2,p | aly,2,p | aly
+bld,2,5,2,b | ##ld,2,b | ld,2,b | ld,2,b | ld,2,b | ld
+pre,30,5,1,pre,1,pre,1,pre,1,pre,1,pre
+sing,10,5,1,sing,1,sing,1,sing,1,sing,1,sing
+chanel,3,5,2,chan | ##el,2,ch | anel,2,chan | el,2,ch | anel,2,chan | el
+doesn,7,5,1,doesn,2,does | n,1,doesn,2,does | n,2,does | n
+unknowed,1,5,4,un | ##k | ##now | ##ed,3,unk | now | ed,3,unk | now | ed,3,unk | now | ed,3,unk | now | ed
+leadingo,1,5,2,leading | ##o,2,leading | o,2,leading | o,2,leading | o,2,leading | o
+sealfrom,1,5,3,seal | ##fr | ##om,3,se | al | from,2,seal | from,2,seal | from,3,se | al | from
+strust,1,5,3,st | ##rus | ##t,2,str | ust,2,str | ust,2,str | ust,2,str | ust
+cocing,1,5,2,co | ##cing,2,coc | ing,2,coc | ing,3,c | oc | ing,3,c | oc | ing
+tupical,1,5,3,tu | ##pic | ##al,3,t | up | ical,3,t | up | ical,3,t | up | ical,3,t | up | ical
+delution,1,5,2,del | ##ution,2,del | ution,2,del | ution,2,del | ution,2,del | ution
+fingding,1,5,3,fin | ##g | ##ding,3,f | ing | ding,2,fing | ding,3,f | ing | ding,3,f | ing | ding
+unbomded,1,5,4,un | ##bo | ##md | ##ed,3,un | bom | ded,3,un | bom | ded,3,un | bom | ded,4,un | b | om | ded
+scroud,1,5,2,sc | ##roud,2,sc | roud,2,sc | roud,2,sc | roud,3,sc | ro | ud
+idgoil,1,5,3,id | ##go | ##il,3,id | go | il,3,id | go | il,3,id | go | il,3,id | go | il
+startre,1,5,2,start | ##re,2,start | re,2,start | re,2,start | re,2,start | re
+blackanti,1,5,3,black | ##ant | ##i,2,black | anti,2,black | anti,2,black | anti,2,black | anti
+anodazlyon,1,5,5,an | ##oda | ##z | ##ly | ##on,5,an | od | az | ly | on,5,an | od | az | ly | on,5,an | od | az | ly | on,5,an | od | az | ly | on
+areab,1,5,2,area | ##b,2,are | ab,2,are | ab,2,are | ab,2,are | ab
+blenable,1,5,3,b | ##lena | ##ble,2,bl | enable,2,bl | enable,2,bl | enable,2,bl | enable
+limitacc,1,5,3,limit | ##ac | ##c,2,limit | acc,2,limit | acc,2,limit | acc,2,limit | acc
+oilm,1,5,2,oil | ##m,2,o | ilm,2,oil | m,2,o | ilm,2,o | ilm
+itemg,1,5,2,item | ##g,2,item | g,2,item | g,2,item | g,2,item | g
+leadf,1,5,2,lead | ##f,2,lead | f,2,lead | f,2,lead | f,2,lead | f
+limithpc,1,5,3,limit | ##hp | ##c,3,lim | ith | pc,3,lim | ith | pc,3,lim | ith | pc,3,lim | ith | pc
+schourd,1,5,4,sc | ##ho | ##ur | ##d,2,sch | ourd,2,sch | ourd,2,sch | ourd,2,sch | ourd
+areless,1,5,2,are | ##less,2,are | less,2,are | less,2,are | less,2,are | less
+xmissing,1,5,3,x | ##mis | ##sing,2,x | missing,2,x | missing,2,x | missing,2,x | missing
+materialo,1,5,2,material | ##o,2,material | o,2,material | o,2,material | o,2,material | o
+ckrak,1,5,2,ck | ##rak,2,ck | rak,2,ck | rak,2,ck | rak,2,ck | rak
+mountshave,1,5,3,mounts | ##ha | ##ve,3,mount | sh | ave,3,mount | sh | ave,3,mount | sh | ave,3,mount | sh | ave
+dirtyon,1,5,2,dirty | ##on,2,dirty | on,2,dirty | on,2,dirty | on,3,dir | ty | on
+exhanger,1,5,3,ex | ##hang | ##er,3,ex | h | anger,2,ex | hanger,2,ex | hanger,3,ex | h | anger
+extiter,1,5,3,ex | ##tite | ##r,2,ext | iter,2,ext | iter,2,ext | iter,2,ext | iter
+madealso,1,5,3,made | ##als | ##o,2,made | also,2,made | also,2,made | also,2,made | also
+repairalreacy,1,5,4,repair | ##al | ##rea | ##cy,4,repair | al | re | acy,4,repair | al | re | acy,4,repair | al | re | acy,5,rep | air | al | re | acy
+fileon,1,5,2,file | ##on,2,file | on,2,file | on,2,file | on,2,file | on
+ignion,1,5,2,ign | ##ion,2,ign | ion,2,ign | ion,2,ign | ion,2,ign | ion
+dimb,1,5,2,dim | ##b,2,d | imb,2,dim | b,2,d | imb,2,d | imb
+foundon,1,5,2,found | ##on,2,found | on,2,found | on,2,found | on,2,found | on
+shealt,1,5,2,shea | ##lt,2,she | alt,2,she | alt,2,she | alt,2,she | alt
+grtg,1,5,3,gr | ##t | ##g,2,gr | tg,2,gr | tg,2,gr | tg,3,gr | t | g
+xdent,1,5,2,x | ##dent,2,xd | ent,2,xd | ent,2,xd | ent,2,xd | ent
+lnote,1,5,2,l | ##note,2,ln | ote,2,ln | ote,2,ln | ote,2,ln | ote
+paintis,1,5,2,paint | ##is,2,paint | is,2,paint | is,2,paint | is,3,p | aint | is
+spectical,1,5,2,spec | ##tical,2,spect | ical,2,spect | ical,2,spect | ical,3,s | pect | ical
+markso,1,5,2,marks | ##o,2,mark | so,2,mark | so,2,mark | so,2,mark | so
+mounto,1,5,2,mount | ##o,3,m | oun | to,2,mount | o,2,mount | o,3,m | oun | to
+visial,1,5,2,vis | ##ial,2,vis | ial,2,vis | ial,2,vis | ial,2,vis | ial
+bol,2,5,2,bo | ##l,1,bol,1,bol,1,bol,1,bol
+condiction,1,5,3,con | ##dict | ##ion,2,cond | iction,2,cond | iction,2,cond | iction,2,cond | iction
+covex,1,5,2,cove | ##x,2,cov | ex,3,c | ove | x,2,cov | ex,2,cov | ex
+clok,1,5,2,cl | ##ok,2,cl | ok,2,cl | ok,2,cl | ok,2,cl | ok
+onother,1,5,2,ono | ##ther,2,on | other,2,on | other,2,on | other,2,on | other
+tubre,1,5,2,tub | ##re,2,t | ubre,2,t | ubre,2,t | ubre,2,t | ubre
+preseved,1,5,3,pre | ##se | ##ved,3,pr | ese | ved,2,prese | ved,3,pre | se | ved,3,pr | ese | ved
+apox,1,5,2,ap | ##ox,2,ap | ox,2,ap | ox,2,ap | ox,2,ap | ox
+witin,1,5,2,wit | ##in,2,w | itin,2,w | itin,2,w | itin,2,w | itin
+eair,1,5,2,ea | ##ir,2,e | air,2,e | air,2,e | air,2,e | air
+dirth,1,5,2,dirt | ##h,2,dir | th,2,dir | th,2,dir | th,2,dir | th
+sfmc,1,5,2,sf | ##mc,2,sf | mc,2,sf | mc,2,sf | mc,2,sf | mc
+regul,1,5,2,reg | ##ul,1,regul,1,regul,2,reg | ul,2,reg | ul
+bal,2,5,1,bal,1,bal,1,bal,1,bal,1,bal
+airr,1,5,2,air | ##r,2,air | r,2,air | r,2,air | r,2,air | r
+mension,1,5,2,men | ##sion,2,m | ension,2,m | ension,2,m | ension,2,m | ension
+chaper,1,5,2,cha | ##per,2,ch | aper,2,ch | aper,2,ch | aper,2,ch | aper
+permi,1,5,2,per | ##mi,2,per | mi,2,per | mi,2,per | mi,2,per | mi
+omdat,1,5,3,om | ##da | ##t,2,om | dat,2,om | dat,2,om | dat,2,om | dat
+enj,1,5,2,en | ##j,1,enj,2,en | j,1,enj,2,en | j
+compl,1,5,2,com | ##pl,1,compl,1,compl,1,compl,2,com | pl
+spash,1,5,2,spa | ##sh,2,sp | ash,2,sp | ash,2,sp | ash,2,sp | ash
+seath,1,5,2,seat | ##h,2,se | ath,2,se | ath,2,se | ath,2,se | ath
+achor,1,5,2,ac | ##hor,2,ach | or,2,ach | or,2,ach | or,2,ach | or
+pece,1,5,2,pe | ##ce,2,pe | ce,2,pe | ce,2,pe | ce,2,pe | ce
+raport,1,5,2,rap | ##ort,2,ra | port,2,ra | port,2,rap | ort,2,ra | port
+dissol,1,5,3,di | ##sso | ##l,3,d | iss | ol,2,diss | ol,3,d | iss | ol,3,d | iss | ol
+waer,1,5,2,wa | ##er,2,wa | er,2,wa | er,2,wa | er,2,wa | er
+ligt,1,5,2,li | ##gt,1,ligt,1,ligt,1,ligt,1,ligt
+cicle,1,5,2,ci | ##cle,2,c | icle,2,c | icle,2,c | icle,2,c | icle
+erro,1,5,2,er | ##ro,1,erro,1,erro,1,erro,2,er | ro
+eoo,1,5,2,e | ##oo,2,e | oo,2,e | oo,2,e | oo,2,e | oo
+oct,2,5,1,oct,1,oct,1,oct,1,oct,1,oct
+scv,1,5,2,sc | ##v,2,sc | v,2,sc | v,2,sc | v,2,sc | v
+dpw,1,5,2,d | ##pw,2,dp | w,2,dp | w,2,dp | w,2,dp | w
+cvv,1,5,2,cv | ##v,2,cv | v,2,cv | v,2,cv | v,2,c | vv
+abh,1,5,2,ab | ##h,1,abh,1,abh,1,abh,2,ab | h
+unl,1,5,2,un | ##l,1,unl,2,un | l,2,un | l,2,un | l
+mfp,1,5,2,m | ##fp,2,m | fp,2,mf | p,2,m | fp,2,m | fp
+onder,1,5,2,on | ##der,1,onder,1,onder,1,onder,1,onder
+sev,1,5,2,se | ##v,1,sev,1,sev,1,sev,2,se | v
+shiel,1,5,2,shi | ##el,2,sh | iel,2,sh | iel,2,sh | iel,2,sh | iel
+padi,1,5,2,pad | ##i,2,p | adi,2,p | adi,2,p | adi,2,p | adi
+pug,1,5,2,pu | ##g,2,p | ug,1,pug,2,p | ug,2,p | ug
+pant,1,5,2,pan | ##t,2,p | ant,1,pant,1,pant,2,p | ant
+boro,1,5,2,bo | ##ro,1,boro,1,boro,1,boro,1,boro
+linden,1,5,1,linden,2,l | inden,2,l | inden,2,l | inden,2,l | inden
+ec,1,5,1,ec,1,ec,1,ec,1,ec,1,ec
+sol,1,5,1,sol,1,sol,1,sol,1,sol,1,sol
+din,1,5,1,din,1,din,1,din,1,din,1,din
+afl,1,5,1,afl,2,a | fl,2,a | fl,2,af | l,2,a | fl
+dec,1,5,1,dec,1,dec,1,dec,1,dec,1,dec
+manuel,1,5,1,manuel,1,manuel,1,manuel,1,manuel,1,manuel
+pro,1,5,1,pro,1,pro,1,pro,1,pro,1,pro
+cokimg,1,5,3,co | ##kim | ##g,3,c | ok | img,2,cok | img,3,c | ok | img,3,c | ok | img
+mentiod,3,5,3,men | ##ti | ##od,2,ment | iod,2,ment | iod,2,ment | iod,2,ment | iod
+gla,8,5,2,g | ##la,2,g | la,2,g | la,2,g | la,2,g | la
+unj,3,5,2,un | ##j,1,unj,1,unj,1,unj,1,unj
+unnep,2,5,3,un | ##ne | ##p,2,un | nep,2,unn | ep,2,unne | p,3,un | ne | p
+outher,2,5,2,out | ##her,2,out | her,2,ou | ther,2,ou | ther,2,ou | ther
+lpy,2,5,2,lp | ##y,2,l | py,2,l | py,2,l | py,2,l | py
+strud,2,5,2,st | ##rud,2,str | ud,2,str | ud,2,str | ud,2,str | ud
+flage,2,5,2,flag | ##e,1,flage,1,flage,2,fl | age,2,fl | age
+curle,3,5,2,curl | ##e,2,cur | le,2,cur | le,2,cur | le,2,cur | le
+foo,5,5,1,foo,1,foo,1,foo,1,foo,1,foo
+boxen,2,5,2,box | ##en,2,box | en,2,box | en,2,box | en,2,box | en
+tru,3,5,2,tr | ##u,1,tru,1,tru,1,tru,1,tru
+xxx,3,5,2,xx | ##x,1,xxx,1,xxx,1,xxx,1,xxx
+mis,3,5,1,mis,1,mis,1,mis,1,mis,1,mis
+fffh,1,5,3,ff | ##f | ##h,2,fff | h,2,fff | h,2,fff | h,2,fff | h
+unjf,1,5,3,un | ##j | ##f,2,unj | f,2,unj | f,2,unj | f,2,unj | f
+becw,1,5,3,be | ##c | ##w,2,bec | w,2,bec | w,2,bec | w,2,bec | w
+unjml,1,5,3,un | ##jm | ##l,2,unj | ml,2,unj | ml,2,unj | ml,2,unj | ml
+unkd,1,5,3,un | ##k | ##d,2,unk | d,2,unk | d,2,unk | d,2,unk | d
+trfx,1,5,3,tr | ##f | ##x,2,tr | fx,2,tr | fx,2,tr | fx,2,tr | fx
+goutching,1,5,3,go | ##ut | ##ching,3,g | out | ching,3,g | out | ching,3,g | out | ching,3,g | out | ching
+unnef,1,5,3,un | ##ne | ##f,3,un | ne | f,3,un | ne | f,2,un | nef,3,un | ne | f
+hudr,1,5,2,hu | ##dr,2,hud | r,2,hud | r,2,hud | r,3,h | ud | r
+inamm,1,5,2,ina | ##mm,2,in | amm,2,in | amm,2,in | amm,2,in | amm
+gemetem,1,5,3,gem | ##ete | ##m,2,gem | etem,3,g | emet | em,2,gem | etem,2,gem | etem
+noresm,1,5,3,nor | ##es | ##m,3,n | ores | m,3,no | res | m,3,no | res | m,3,n | ores | m
+unjtc,1,5,3,un | ##j | ##tc,3,un | jt | c,2,unj | tc,2,unj | tc,3,un | jt | c
+unjk,1,5,2,un | ##jk,2,unj | k,2,unj | k,2,unj | k,2,unj | k
+s,1,5,1,s,1,s,1,s,1,s,1,s
+unjj,1,5,3,un | ##j | ##j,2,unj | j,2,unj | j,2,unj | j,2,unj | j
+gretast,1,5,2,greta | ##st,3,g | ret | ast,3,g | ret | ast,3,g | ret | ast,3,g | ret | ast
+unjg,1,5,3,un | ##j | ##g,2,unj | g,2,unj | g,2,unj | g,2,unj | g
+ngrtm,1,5,3,ng | ##rt | ##m,3,ng | rt | m,3,ng | rt | m,3,ng | rt | m,3,ng | rt | m
+thisthere,1,5,3,this | ##ther | ##e,3,th | ist | here,2,this | there,2,this | there,2,this | there
+plpt,1,5,2,pl | ##pt,2,pl | pt,2,pl | pt,2,pl | pt,2,pl | pt
+subta,1,5,2,sub | ##ta,2,sub | ta,2,sub | ta,2,sub | ta,2,sub | ta
+unjl,1,5,3,un | ##j | ##l,2,unj | l,2,unj | l,2,unj | l,2,unj | l
+unjtm,1,5,3,un | ##j | ##tm,3,un | jt | m,2,unj | tm,2,unj | tm,3,un | jt | m
+pinpalw,1,5,3,pin | ##pal | ##w,3,pin | pal | w,3,pin | pal | w,3,pin | pal | w,3,pin | pal | w
+fff,2,5,2,ff | ##f,1,fff,1,fff,1,fff,1,fff
+fromle,1,5,2,from | ##le,2,from | le,2,from | le,2,from | le,2,from | le
+unjh,1,5,3,un | ##j | ##h,2,unj | h,2,unj | h,2,unj | h,2,unj | h
+unlb,1,5,2,un | ##lb,2,un | lb,2,un | lb,2,un | lb,2,un | lb
+unnen,1,5,2,un | ##nen,2,un | nen,2,un | nen,1,unnen,2,un | nen
+agbp,1,5,3,ag | ##b | ##p,2,ag | bp,2,ag | bp,2,ag | bp,2,ag | bp
+winor,1,5,2,win | ##or,2,win | or,2,win | or,2,win | or,2,win | or
+fwla,1,5,3,f | ##wl | ##a,2,fw | la,2,fw | la,2,fw | la,2,fw | la
+hasre,1,5,2,has | ##re,2,has | re,2,has | re,2,has | re,2,has | re
+fedac,1,5,2,fed | ##ac,2,fed | ac,2,fed | ac,2,fed | ac,2,fed | ac
+loo,2,5,2,lo | ##o,1,loo,1,loo,1,loo,1,loo
+aac,2,5,2,aa | ##c,1,aac,1,aac,1,aac,2,a | ac
+smaal,1,5,3,sm | ##aa | ##l,2,s | maal,2,s | maal,2,s | maal,2,s | maal
+wellis,1,5,2,well | ##is,2,well | is,2,well | is,2,well | is,2,well | is
+ount,1,5,2,ou | ##nt,1,ount,1,ount,1,ount,1,ount
+shoud,1,5,2,sho | ##ud,2,sh | oud,2,sh | oud,2,sh | oud,2,sh | oud
+gol,2,5,2,go | ##l,1,gol,1,gol,1,gol,1,gol
+lwj,1,5,3,l | ##w | ##j,2,l | wj,2,lw | j,2,l | wj,3,l | w | j
+eand,1,5,2,ea | ##nd,2,e | and,2,e | and,2,e | and,2,e | and
+andb,1,5,2,and | ##b,2,and | b,2,and | b,2,and | b,2,and | b
+mentio,1,5,3,men | ##ti | ##o,2,ment | io,2,ment | io,2,ment | io,2,ment | io
+cnote,1,5,2,cn | ##ote,2,c | note,2,cn | ote,2,cn | ote,2,c | note
+unnc,1,5,2,un | ##nc,2,unn | c,2,un | nc,2,unn | c,2,unn | c
+higg,1,5,2,hi | ##gg,2,h | igg,2,h | igg,2,h | igg,2,h | igg
+lasat,1,5,2,las | ##at,2,las | at,2,las | at,2,las | at,2,las | at
+lyg,1,5,3,l | ##y | ##g,2,ly | g,2,ly | g,1,lyg,2,ly | g
+bothin,1,5,2,both | ##in,2,both | in,2,both | in,2,both | in,2,both | in
+oter,1,5,2,ot | ##er,1,oter,1,oter,1,oter,1,oter
+confex,1,5,3,con | ##fe | ##x,2,conf | ex,2,conf | ex,2,conf | ex,2,conf | ex
+eith,1,5,2,e | ##ith,2,e | ith,2,e | ith,2,e | ith,2,e | ith
+aand,1,5,2,aa | ##nd,2,a | and,2,a | and,2,a | and,2,a | and
+wuth,1,5,2,wu | ##th,2,w | uth,2,w | uth,2,w | uth,2,w | uth
+unke,1,5,2,un | ##ke,2,un | ke,2,un | ke,2,un | ke,2,un | ke
+ass,2,5,1,ass,1,ass,1,ass,1,ass,1,ass
+erea,1,5,2,er | ##ea,1,erea,1,erea,1,erea,1,erea
+metical,1,5,2,met | ##ical,2,met | ical,2,met | ical,2,met | ical,2,met | ical
+ogf,1,5,2,og | ##f,2,og | f,1,ogf,2,og | f,2,og | f
+likey,1,5,2,like | ##y,2,lik | ey,2,like | y,2,lik | ey,2,like | y
+heve,1,5,2,he | ##ve,2,he | ve,2,he | ve,2,he | ve,2,he | ve
+uter,1,5,2,ut | ##er,1,uter,1,uter,1,uter,1,uter
+foor,1,5,2,foo | ##r,2,fo | or,2,fo | or,2,fo | or,2,fo | or
+mior,1,5,2,mi | ##or,2,m | ior,2,mi | or,2,m | ior,2,m | ior
+acce,1,5,2,acc | ##e,2,ac | ce,1,acce,1,acce,2,ac | ce
+sleath,1,5,3,sl | ##ea | ##th,2,sle | ath,2,sle | ath,2,sle | ath,3,s | le | ath
+brais,1,5,2,bra | ##is,2,bra | is,2,bra | is,2,bra | is,2,bra | is
+rosan,1,5,2,rosa | ##n,2,ros | an,2,ros | an,2,ros | an,2,ros | an
+shunk,1,5,2,shu | ##nk,2,sh | unk,2,sh | unk,2,sh | unk,2,sh | unk
+sence,1,5,2,sen | ##ce,2,s | ence,2,s | ence,2,s | ence,2,s | ence
+deze,1,5,2,de | ##ze,2,de | ze,2,de | ze,2,de | ze,2,de | ze
+lowe,2,5,1,lowe,2,l | owe,2,low | e,2,low | e,2,l | owe
+inon,1,5,2,in | ##on,2,in | on,2,in | on,1,inon,2,in | on
+wordt,1,5,2,word | ##t,2,word | t,2,word | t,2,word | t,2,word | t
+slechte,1,5,3,sl | ##ech | ##te,2,sle | chte,2,sle | chte,2,sle | chte,3,s | le | chte
+oad,1,5,2,o | ##ad,1,oad,1,oad,1,oad,1,oad
+onf,1,5,2,on | ##f,2,on | f,2,on | f,2,on | f,2,on | f
+heeft,1,5,2,hee | ##ft,2,he | eft,2,he | eft,2,he | eft,2,he | eft
+meed,1,5,2,me | ##ed,2,me | ed,1,meed,2,me | ed,2,me | ed
+mout,1,5,2,mo | ##ut,2,m | out,1,mout,2,m | out,2,m | out
+faul,1,5,2,fa | ##ul,2,fa | ul,2,fa | ul,2,fa | ul,2,fa | ul
+brade,1,5,2,brad | ##e,2,br | ade,2,br | ade,2,br | ade,2,br | ade
+deth,1,5,2,det | ##h,2,d | eth,2,d | eth,2,d | eth,2,d | eth
+exel,1,5,2,ex | ##el,2,ex | el,2,ex | el,2,ex | el,2,ex | el
+lugh,1,5,2,lu | ##gh,2,l | ugh,2,lu | gh,2,l | ugh,2,lu | gh
+napp,1,5,2,nap | ##p,2,n | app,2,n | app,2,n | app,2,n | app
+fef,1,5,2,fe | ##f,1,fef,2,f | ef,2,f | ef,2,f | ef
+gole,1,5,2,go | ##le,2,g | ole,2,g | ole,2,g | ole,2,g | ole
+fron,1,5,2,fr | ##on,2,f | ron,1,fron,2,fr | on,2,f | ron
+borst,1,5,2,bo | ##rst,2,bor | st,2,bor | st,2,bor | st,2,bor | st
+mutch,1,5,2,mu | ##tch,2,mut | ch,2,mut | ch,2,mut | ch,2,mut | ch
+sicht,1,5,2,sic | ##ht,1,sicht,2,s | icht,1,sicht,1,sicht
+ghb,1,5,3,g | ##h | ##b,2,gh | b,2,gh | b,2,gh | b,2,gh | b
+geen,1,5,2,gee | ##n,2,ge | en,2,ge | en,1,geen,2,ge | en
+wich,1,5,2,wi | ##ch,1,wich,1,wich,1,wich,1,wich
+hane,1,5,2,han | ##e,2,h | ane,1,hane,2,h | ane,2,h | ane
+sth,1,5,2,st | ##h,1,sth,1,sth,1,sth,2,st | h
+hasa,1,5,2,has | ##a,2,has | a,1,hasa,1,hasa,1,hasa
+ther,1,5,2,the | ##r,1,ther,1,ther,1,ther,1,ther
+senor,1,5,2,sen | ##or,2,sen | or,2,sen | or,2,sen | or,2,sen | or
+alem,1,5,2,ale | ##m,1,alem,1,alem,1,alem,1,alem
+beaty,1,5,2,beat | ##y,2,be | aty,2,be | aty,2,be | aty,2,be | aty
+lik,1,5,2,li | ##k,1,lik,1,lik,1,lik,1,lik
+rubi,1,5,2,rub | ##i,2,rub | i,2,rub | i,2,r | ubi,2,rub | i
+inti,1,5,2,int | ##i,1,inti,1,inti,1,inti,1,inti
+staat,1,5,3,st | ##aa | ##t,1,staat,1,staat,1,staat,1,staat
+hase,1,5,2,has | ##e,2,h | ase,1,hase,2,h | ase,2,h | ase
+bij,1,5,2,bi | ##j,1,bij,1,bij,1,bij,1,bij
+haro,1,5,2,ha | ##ro,2,har | o,1,haro,2,h | aro,2,h | aro
+lar,1,5,2,la | ##r,1,lar,1,lar,1,lar,1,lar
+whit,1,5,2,w | ##hit,2,wh | it,1,whit,2,wh | it,2,wh | it
+thad,1,5,2,tha | ##d,2,th | ad,2,th | ad,2,th | ad,2,th | ad
+wil,1,5,1,wil,1,wil,1,wil,1,wil,1,wil
+lyn,1,5,2,l | ##yn,1,lyn,1,lyn,1,lyn,1,lyn
+som,1,5,2,so | ##m,1,som,1,som,1,som,1,som
+lange,1,5,1,lange,2,l | ange,2,l | ange,1,lange,2,l | ange
+til,1,5,1,til,1,til,1,til,1,til,1,til
+por,1,5,1,por,1,por,1,por,1,por,1,por
+lea,1,5,1,lea,1,lea,1,lea,1,lea,1,lea
+los,2,5,1,los,1,los,1,los,1,los,1,los
+aren,1,5,1,aren,1,aren,1,aren,1,aren,1,aren
+aug,1,5,1,aug,1,aug,1,aug,1,aug,1,aug
+wit,1,5,1,wit,1,wit,1,wit,1,wit,2,w | it
+aria,1,5,1,aria,1,aria,1,aria,1,aria,1,aria
+ann,1,5,1,ann,1,ann,1,ann,1,ann,1,ann
+jan,1,5,1,jan,1,jan,1,jan,1,jan,1,jan
+didn,1,5,1,didn,2,did | n,1,didn,2,did | n,2,did | n
+der,1,5,1,der,1,der,1,der,1,der,1,der
+al,1,5,1,al,1,al,1,al,1,al,1,al
